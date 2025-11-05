@@ -1,0 +1,1404 @@
+{
+    "tasks": [
+        {
+            "exemplars": "Input: The documentary is fought the commentary. Output: True\nInput: The snake is investigating. Output: True\nInput: A offspring is chuckled the ox. Output: False\nInput: The documentary is littering. Output: True\nInput: A truck is retaliated the bike. Output: False\nInput: A hamster is irritated the fish. Output: False\nInput: The plane is struggling. Output: True\nInput: A canoe is sighed the raft. Output: False\nInput: The beer is solidifying. Output: True\nInput: The screen is winning. Output: True\n",
+            "target_question": "Input: The museum is learned the university. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 0
+        },
+        {
+            "exemplars": "Input: The snake is irritated the rabbit. Output: True\nInput: The fork is irritating. Output: True\nInput: The mirror is shrugging. Output: True\nInput: The coffee is arriving. Output: True\nInput: The waitress is appreciating. Output: True\nInput: The snake is investigating. Output: True\nInput: A bicycle is protested the convertible. Output: False\nInput: A shoe is described the skirt. Output: False\nInput: A phenomenon is competed the radius. Output: False\nInput: A beer is ripened the cocktail. Output: False\n",
+            "target_question": "Input: The check is talked the donation. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 0
+        },
+        {
+            "exemplars": "Input: The committee is muttered the mountain. Output: True\nInput: The computer is whispering. Output: True\nInput: The radius is divorcing. Output: True\nInput: A room is telephoned the tile. Output: False\nInput: A lady is bought the guy. Output: False\nInput: The donation is yawning. Output: True\nInput: The scarf is confusing. Output: True\nInput: The committee is responding. Output: True\nInput: A hair is aggravated the nose. Output: False\nInput: A money is struggled the cash. Output: False\n",
+            "target_question": "Input: The woman is debated the book. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 0
+        },
+        {
+            "exemplars": "Input: The story is embraced the essay. Output: True\nInput: The unicycle is swallowing. Output: True\nInput: A diagnosis is left the ellipsis. Output: False\nInput: The commentary is losing. Output: True\nInput: The crisis is blinking. Output: True\nInput: The skirt is embarrassing. Output: True\nInput: A guest is helped the pedestrian. Output: False\nInput: A museum is kissed the university. Output: False\nInput: A wheelbarrow is screamed the boat. Output: False\nInput: The story is laughing. Output: True\n",
+            "target_question": "Input: The bread is cheered the cake. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 0
+        },
+        {
+            "exemplars": "Input: The skateboard is shouted the wheelbarrow. Output: True\nInput: A synthesis is cooperated the thesis. Output: False\nInput: A canoe is sighed the raft. Output: False\nInput: The skateboard is talking. Output: True\nInput: A doctor is liked the patient. Output: False\nInput: The plate is underwhelming. Output: True\nInput: The stimulus is embracing. Output: True\nInput: A cake is approved the casserole. Output: False\nInput: The boat is training. Output: True\nInput: The scarf is confusing. Output: True\n",
+            "target_question": "Input: The beer is healed the soda. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 0
+        },
+        {
+            "exemplars": "Input: The casserole is saw the chicken. Output: True\nInput: A commentary is failed the cafe. Output: False\nInput: The girl is cleaning. Output: True\nInput: A shirt is referenced the shoe. Output: False\nInput: The teenager is admiring. Output: True\nInput: The report is lying. Output: True\nInput: A woman is cleaned the lady. Output: False\nInput: The cactus is assembling. Output: True\nInput: The casserole is finding. Output: True\nInput: A chicken is died the fish. Output: False\n",
+            "target_question": "Input: The blouse is hugged the coat. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 0
+        },
+        {
+            "exemplars": "Input: The kitchen is waved the apple. Output: True\nInput: The nucleus is cooking. Output: True\nInput: The school is negotiating. Output: True\nInput: A restaurant is interacted the museum. Output: False\nInput: A blouse is questioned the coat. Output: False\nInput: A broccoli is wept the cilantro. Output: False\nInput: A chair is disturbed the couch. Output: False\nInput: The pedestrian is discussing. Output: True\nInput: The kitchen is cheering. Output: True\nInput: The lamp is rotting. Output: True\n",
+            "target_question": "Input: The commentary is flirted the cafe. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 0
+        },
+        {
+            "exemplars": "Input: The cashier is kissed the teacher. Output: True\nInput: The parenthesis is debating. Output: True\nInput: A glass is confused the dish. Output: False\nInput: A means is assembled the medium. Output: False\nInput: A cashier is remembered the teacher. Output: False\nInput: The louse is complaining. Output: True\nInput: The dancer is taking. Output: True\nInput: The waitress is appreciating. Output: True\nInput: The cashier is praising. Output: True\nInput: A ice is awakened the popsicle. Output: False\n",
+            "target_question": "Input: The cart is reunited the truck. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 0
+        },
+        {
+            "exemplars": "Input: The bread is cheered the cake. Output: True\nInput: The cash is yelling. Output: True\nInput: The dish is shocking. Output: True\nInput: A check is surrendered the donation. Output: False\nInput: The rug is approaching. Output: True\nInput: A dog is hindered the cat. Output: False\nInput: The crisis is blinking. Output: True\nInput: A woman is cried the book. Output: False\nInput: The bread is concealing. Output: True\nInput: A waiter is knew the waitress. Output: False\n",
+            "target_question": "Input: The mouse is changed the nucleus. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 0
+        },
+        {
+            "exemplars": "Input: The banana is whispered the broccoli. Output: True\nInput: A window is painted the vase. Output: False\nInput: A screen is stretched the money. Output: False\nInput: The banana is seeing. Output: True\nInput: A computer is smiled the screen. Output: False\nInput: A sock is insulted the sweater. Output: False\nInput: The truck is succeeding. Output: True\nInput: The coin is sneezing. Output: True\nInput: The slope is saluting. Output: True\nInput: The canoe is waving. Output: True\n",
+            "target_question": "Input: The cocktail is hid the ice. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 0
+        },
+        {
+            "exemplars": "Input: The adult is saw the person. Output: True\nInput: A check is surrendered the donation. Output: False\nInput: The cash is yelling. Output: True\nInput: A octopus is chatted the offspring. Output: False\nInput: A horse is shocked the turtle. Output: False\nInput: The adult is kissing. Output: True\nInput: A stimulus is conspired the synopsis. Output: False\nInput: The nucleus is cooking. Output: True\nInput: The restaurant is painting. Output: True\nInput: The patient is questioning. Output: True\n",
+            "target_question": "Input: The kitchen is waved the apple. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 0
+        },
+        {
+            "exemplars": "Input: The essay is exercised the report. Output: True\nInput: The customer is attacking. Output: True\nInput: The octopus is coping. Output: True\nInput: A teacher is forgot the student. Output: False\nInput: A ox is clashed the paralysis. Output: False\nInput: A lamp is revealed the light. Output: False\nInput: The cat is exiting. Output: True\nInput: The essay is learning. Output: True\nInput: A glass is confused the dish. Output: False\nInput: The coffee is arriving. Output: True\n",
+            "target_question": "Input: The paralysis is competed the parenthesis. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 0
+        },
+        {
+            "exemplars": "Input: The snake is irritated the rabbit. Output: True\nInput: The oasis is cooperating. Output: True\nInput: A parenthesis is communicated the phenomenon. Output: False\nInput: The snake is investigating. Output: True\nInput: A fork is bothered the glass. Output: False\nInput: The carriage is stretching. Output: True\nInput: The means is concurring. Output: True\nInput: A mouse is blinked the nucleus. Output: False\nInput: A offspring is chuckled the ox. Output: False\nInput: The foot is clashing. Output: True\n",
+            "target_question": "Input: The rug is hindered the car. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 0
+        },
+        {
+            "exemplars": "Input: The chicken is shrank the fish. Output: True\nInput: The chicken is losing. Output: True\nInput: A alumnus is upset the analysis. Output: False\nInput: A plane is replied the cart. Output: False\nInput: The coat is alarming. Output: True\nInput: The bank is murmuring. Output: True\nInput: The wheelbarrow is telephoning. Output: True\nInput: A school is hugged the mall. Output: False\nInput: A hat is visited the jacket. Output: False\nInput: The ladder is scratching. Output: True\n",
+            "target_question": "Input: The library is hunted the school. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 0
+        },
+        {
+            "exemplars": "Input: The apple is wept the banana. Output: True\nInput: A crisis is explored the deer. Output: False\nInput: The vase is shouting. Output: True\nInput: The diagnosis is changing. Output: True\nInput: The milk is liquefying. Output: True\nInput: A juice is cleaned the beer. Output: False\nInput: The oasis is cooperating. Output: True\nInput: A soda is destroyed the tea. Output: False\nInput: The apple is dying. Output: True\nInput: A car is practiced the bicycle. Output: False\n",
+            "target_question": "Input: The kitchen is waved the apple. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 0
+        },
+        {
+            "exemplars": "Input: The school is interacted the mall. Output: True\nInput: The floor is benefiting. Output: True\nInput: A tile is testified the kitchen. Output: False\nInput: The raft is weeping. Output: True\nInput: A screen is stretched the money. Output: False\nInput: The school is negotiating. Output: True\nInput: A tooth is corresponded the woman. Output: False\nInput: A juice is cleaned the beer. Output: False\nInput: The coffee is arriving. Output: True\nInput: The paralysis is dating. Output: True\n",
+            "target_question": "Input: The oasis is chuckled the octopus. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 0
+        },
+        {
+            "exemplars": "Input: The chicken is shrank the fish. Output: True\nInput: The chicken is losing. Output: True\nInput: A man is arose the means. Output: False\nInput: The guest is describing. Output: True\nInput: A customer is disliked the cashier. Output: False\nInput: A driver is discovered the blouse. Output: False\nInput: A dress is hugged the hat. Output: False\nInput: The computer is whispering. Output: True\nInput: The waiter is visiting. Output: True\nInput: The car is boycotting. Output: True\n",
+            "target_question": "Input: The fish is toured the foot. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 0
+        },
+        {
+            "exemplars": "Input: The dish is disturbed the book. Output: True\nInput: A cafe is fought the hospital. Output: False\nInput: The book is grinning. Output: True\nInput: The child is baking. Output: True\nInput: A juice is cleaned the beer. Output: False\nInput: The report is lying. Output: True\nInput: The scarf is confusing. Output: True\nInput: The dish is shocking. Output: True\nInput: A brochure is disagreed the play. Output: False\nInput: A commentary is failed the cafe. Output: False\n",
+            "target_question": "Input: The casserole is saw the chicken. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 0
+        },
+        {
+            "exemplars": "Input: The raft is stretched the computer. Output: True\nInput: The library is muttering. Output: True\nInput: A medium is baked the mouse. Output: False\nInput: A cilantro is whispered the cucumber. Output: False\nInput: The raft is weeping. Output: True\nInput: The man is compromising. Output: True\nInput: The beer is solidifying. Output: True\nInput: The cash is yelling. Output: True\nInput: A mall is hunted the restaurant. Output: False\nInput: A mouse is blinked the nucleus. Output: False\n",
+            "target_question": "Input: The wine is repaired the milk. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 0
+        },
+        {
+            "exemplars": "Input: The fork is disgusted the glass. Output: True\nInput: A pedestrian is noticed the driver. Output: False\nInput: The bank is murmuring. Output: True\nInput: The fork is irritating. Output: True\nInput: A cafe is fought the hospital. Output: False\nInput: The cup is overwhelming. Output: True\nInput: A school is hugged the mall. Output: False\nInput: A canoe is sighed the raft. Output: False\nInput: The pepper is ascending. Output: True\nInput: The boat is training. Output: True\n",
+            "target_question": "Input: The customer is forgot the cashier. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 0
+        },
+        {
+            "exemplars": "Input: The actress is hugging. Output: True\nInput: The bank is hugged the library. Output: True\nInput: A guest is helped the pedestrian. Output: False\nInput: A ice is awakened the popsicle. Output: False\nInput: A phenomenon is competed the radius. Output: False\nInput: The pedestrian is discussing. Output: True\nInput: The teacher is criticizing. Output: True\nInput: A person is brought the senator. Output: False\nInput: The beer is shutting. Output: True\nInput: The bank is murmuring. Output: True\n",
+            "target_question": "Input: The scarf is referenced the shawl. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 1
+        },
+        {
+            "exemplars": "Input: A phenomenon is competed the radius. Output: False\nInput: The chair is hurt the couch. Output: True\nInput: The ladder is scratching. Output: True\nInput: The student is referencing. Output: True\nInput: A juice is cleaned the beer. Output: False\nInput: The foot is clashing. Output: True\nInput: The chair is upsetting. Output: True\nInput: The horse is scanning. Output: True\nInput: A goose is watched the hypothesis. Output: False\nInput: A alumnus is upset the analysis. Output: False\n",
+            "target_question": "Input: The mouse is changed the nucleus. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 1
+        },
+        {
+            "exemplars": "Input: The unicycle is swallowing. Output: True\nInput: The mushroom is coughed the pepper. Output: True\nInput: A committee is met the mountain. Output: False\nInput: A tooth is corresponded the woman. Output: False\nInput: The mushroom is firing. Output: True\nInput: The cashier is praising. Output: True\nInput: The skirt is embarrassing. Output: True\nInput: A mushroom is yelled the pepper. Output: False\nInput: A student is kissed the guest. Output: False\nInput: The synthesis is failing. Output: True\n",
+            "target_question": "Input: The muffin is worried the pasta. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 1
+        },
+        {
+            "exemplars": "Input: The scarf is confusing. Output: True\nInput: The university is lied the government. Output: True\nInput: A commentary is failed the cafe. Output: False\nInput: A hypothesis is answered the louse. Output: False\nInput: The hat is astounding. Output: True\nInput: A association is married the committee. Output: False\nInput: The university is playing. Output: True\nInput: The hypothesis is competing. Output: True\nInput: The fungus is collaborating. Output: True\nInput: A man is arose the means. Output: False\n",
+            "target_question": "Input: The wheelbarrow is shrugged the boat. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 1
+        },
+        {
+            "exemplars": "Input: The association is replying. Output: True\nInput: The association is murmured the committee. Output: True\nInput: A check is surrendered the donation. Output: False\nInput: The floor is benefiting. Output: True\nInput: A pasta is suffered the pie. Output: False\nInput: The man is compromising. Output: True\nInput: A hamster is irritated the fish. Output: False\nInput: A medium is baked the mouse. Output: False\nInput: The cash is yelling. Output: True\nInput: The jacket is boring. Output: True\n",
+            "target_question": "Input: The spotlight is broke the water. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 1
+        },
+        {
+            "exemplars": "Input: The company is reacting. Output: True\nInput: The kitchen is waved the apple. Output: True\nInput: A association is married the committee. Output: False\nInput: The rice is curing. Output: True\nInput: A cocktail is rotted the ice. Output: False\nInput: The tea is coming. Output: True\nInput: A juice is cleaned the beer. Output: False\nInput: The vase is shouting. Output: True\nInput: A glove is attacked the scarf. Output: False\nInput: The kitchen is cheering. Output: True\n",
+            "target_question": "Input: The cash is surrendered the coin. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 1
+        },
+        {
+            "exemplars": "Input: A waiter is knew the waitress. Output: False\nInput: The fork is disgusted the glass. Output: True\nInput: The window is screaming. Output: True\nInput: The cup is overwhelming. Output: True\nInput: The nose is aiding. Output: True\nInput: A mirror is played the car. Output: False\nInput: The casserole is finding. Output: True\nInput: The fork is irritating. Output: True\nInput: A customer is disliked the cashier. Output: False\nInput: A fork is bothered the glass. Output: False\n",
+            "target_question": "Input: The skateboard is shouted the wheelbarrow. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 1
+        },
+        {
+            "exemplars": "Input: A teacher is forgot the student. Output: False\nInput: The hamster is shocked the fish. Output: True\nInput: The sheep is drinking. Output: True\nInput: The hamster is observing. Output: True\nInput: A tooth is corresponded the woman. Output: False\nInput: The patient is questioning. Output: True\nInput: A carriage is read the plane. Output: False\nInput: A actress is hated the waiter. Output: False\nInput: The synthesis is failing. Output: True\nInput: The sweater is impressing. Output: True\n",
+            "target_question": "Input: The species is cooked the stimulus. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 1
+        },
+        {
+            "exemplars": "Input: A beer is ripened the cocktail. Output: False\nInput: The room is trained the tile. Output: True\nInput: A ship is shrugged the canoe. Output: False\nInput: The committee is responding. Output: True\nInput: The room is profiting. Output: True\nInput: A analysis is worried the axis. Output: False\nInput: The coffee is arriving. Output: True\nInput: The turtle is touring. Output: True\nInput: A spotlight is found the water. Output: False\nInput: The fish is passing. Output: True\n",
+            "target_question": "Input: The glass is distracted the dish. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 1
+        },
+        {
+            "exemplars": "Input: A vase is performed the mirror. Output: False\nInput: The beer is healed the soda. Output: True\nInput: The goose is communicating. Output: True\nInput: The documentary is littering. Output: True\nInput: A sweater is resembled the hair. Output: False\nInput: The bicycle is singing. Output: True\nInput: A cafe is fought the hospital. Output: False\nInput: A projector is concealed the screen. Output: False\nInput: The lamp is rotting. Output: True\nInput: The beer is solidifying. Output: True\n",
+            "target_question": "Input: The cashier is kissed the teacher. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 1
+        },
+        {
+            "exemplars": "Input: A company is littered the organization. Output: False\nInput: The university is lied the government. Output: True\nInput: The university is playing. Output: True\nInput: A ox is clashed the paralysis. Output: False\nInput: A screen is stretched the money. Output: False\nInput: The government is practicing. Output: True\nInput: The fish is chuckling. Output: True\nInput: The octopus is coping. Output: True\nInput: The woman is forfeiting. Output: True\nInput: A mushroom is yelled the pepper. Output: False\n",
+            "target_question": "Input: The face is bored the cup. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 1
+        },
+        {
+            "exemplars": "Input: The projector is hiding. Output: True\nInput: The water is fixed the wine. Output: True\nInput: A coat is researched the dress. Output: False\nInput: The woman is purchasing. Output: True\nInput: The coffee is arriving. Output: True\nInput: The water is freezing. Output: True\nInput: A computer is smiled the screen. Output: False\nInput: The cocktail is closing. Output: True\nInput: A popsicle is hid the lake. Output: False\nInput: A beer is ripened the cocktail. Output: False\n",
+            "target_question": "Input: The mall is kissed the restaurant. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 1
+        },
+        {
+            "exemplars": "Input: A jacket is appreciated the glove. Output: False\nInput: The school is interacted the mall. Output: True\nInput: The waitress is appreciating. Output: True\nInput: A pepper is sneezed the spinach. Output: False\nInput: The eggplant is hiring. Output: True\nInput: A snake is overwhelmed the rabbit. Output: False\nInput: The mountain is retaliating. Output: True\nInput: A offspring is chuckled the ox. Output: False\nInput: The oasis is cooperating. Output: True\nInput: The school is negotiating. Output: True\n",
+            "target_question": "Input: The sock is aggravated the sweater. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 1
+        },
+        {
+            "exemplars": "Input: A couch is embarrassed the rug. Output: False\nInput: The hospital is grinned the bank. Output: True\nInput: The mall is nodding. Output: True\nInput: The axis is arguing. Output: True\nInput: A coffee is cured the juice. Output: False\nInput: The chicken is losing. Output: True\nInput: A muffin is shrank the pasta. Output: False\nInput: The hospital is meeting. Output: True\nInput: The book is stunning. Output: True\nInput: A company is littered the organization. Output: False\n",
+            "target_question": "Input: The goose is argued the hypothesis. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 1
+        },
+        {
+            "exemplars": "Input: A car is impressed the dog. Output: False\nInput: The cactus is explored the child. Output: True\nInput: The lady is selling. Output: True\nInput: A wine is broke the milk. Output: False\nInput: A foot is scanned the fungus. Output: False\nInput: A medium is baked the mouse. Output: False\nInput: The oasis is cooperating. Output: True\nInput: The couch is worrying. Output: True\nInput: The ellipsis is chatting. Output: True\nInput: The cactus is assembling. Output: True\n",
+            "target_question": "Input: The sock is aggravated the sweater. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 1
+        },
+        {
+            "exemplars": "Input: A pasta is suffered the pie. Output: False\nInput: The muffin is worried the pasta. Output: True\nInput: The man is buying. Output: True\nInput: The muffin is fixing. Output: True\nInput: A mirror is played the car. Output: False\nInput: The window is screaming. Output: True\nInput: The cilantro is suffering. Output: True\nInput: The snake is investigating. Output: True\nInput: A dish is disgusted the book. Output: False\nInput: A hamster is irritated the fish. Output: False\n",
+            "target_question": "Input: The pedestrian is questioned the driver. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 1
+        },
+        {
+            "exemplars": "Input: A light is exposed the projector. Output: False\nInput: The rabbit is scared the hamster. Output: True\nInput: The library is muttering. Output: True\nInput: A donation is swallowed the floor. Output: False\nInput: A lake is escaped the river. Output: False\nInput: The screen is winning. Output: True\nInput: A dish is disgusted the book. Output: False\nInput: The fork is irritating. Output: True\nInput: The rabbit is leaving. Output: True\nInput: The ice is opening. Output: True\n",
+            "target_question": "Input: The steak is revealed the candle. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 1
+        },
+        {
+            "exemplars": "Input: The banana is seeing. Output: True\nInput: The jacket is praised the glove. Output: True\nInput: The jacket is boring. Output: True\nInput: A person is brought the senator. Output: False\nInput: A beer is repaired the soda. Output: False\nInput: A guest is helped the pedestrian. Output: False\nInput: The bird is exploring. Output: True\nInput: A candle is descended the lamp. Output: False\nInput: The teenager is admiring. Output: True\nInput: The teacher is criticizing. Output: True\n",
+            "target_question": "Input: The school is interacted the mall. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 1
+        },
+        {
+            "exemplars": "Input: The raft is weeping. Output: True\nInput: The raft is stretched the computer. Output: True\nInput: The pie is destroying. Output: True\nInput: The alumnus is watching. Output: True\nInput: A rice is fired the steak. Output: False\nInput: A hospital is flirted the bank. Output: False\nInput: The slope is saluting. Output: True\nInput: The apple is dying. Output: True\nInput: A spotlight is found the water. Output: False\nInput: A axis is approached the basis. Output: False\n",
+            "target_question": "Input: The synopsis is coped the synthesis. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 1
+        },
+        {
+            "exemplars": "Input: The water is freezing. Output: True\nInput: The boy is wore the girl. Output: True\nInput: A wine is broke the milk. Output: False\nInput: A bread is profited the cake. Output: False\nInput: The spotlight is falling. Output: True\nInput: A candle is descended the lamp. Output: False\nInput: The boy is wearing. Output: True\nInput: The screen is winning. Output: True\nInput: The series is donating. Output: True\nInput: A milk is fixed the beer. Output: False\n",
+            "target_question": "Input: The donation is telephoned the floor. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 1
+        },
+        {
+            "exemplars": "Input: The tooth is flirting. Output: True\nInput: A spotlight is found the water. Output: False\nInput: The cocktail is hid the ice. Output: True\nInput: The cocktail is closing. Output: True\nInput: A medium is baked the mouse. Output: False\nInput: The man is compromising. Output: True\nInput: A child is lifted the teenager. Output: False\nInput: The bread is concealing. Output: True\nInput: The glove is bothering. Output: True\nInput: A casserole is cheered the chicken. Output: False\n",
+            "target_question": "Input: The guest is discovered the pedestrian. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 2
+        },
+        {
+            "exemplars": "Input: The muffin is fixing. Output: True\nInput: The cash is yelling. Output: True\nInput: The cash is surrendered the coin. Output: True\nInput: A pie is worried the pork. Output: False\nInput: The money is writing. Output: True\nInput: The hat is astounding. Output: True\nInput: The scarf is confusing. Output: True\nInput: A glove is attacked the scarf. Output: False\nInput: A goose is watched the hypothesis. Output: False\nInput: A cashier is remembered the teacher. Output: False\n",
+            "target_question": "Input: The book is embarrassed the chair. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 2
+        },
+        {
+            "exemplars": "Input: A adult is took the person. Output: False\nInput: The child is bringing. Output: True\nInput: The pork is ascended the rice. Output: True\nInput: The octopus is coping. Output: True\nInput: The university is playing. Output: True\nInput: A ox is clashed the paralysis. Output: False\nInput: The pork is healing. Output: True\nInput: A fork is bothered the glass. Output: False\nInput: The cashier is praising. Output: True\nInput: A spinach is coughed the tomato. Output: False\n",
+            "target_question": "Input: The girl is cleaned the man. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 2
+        },
+        {
+            "exemplars": "Input: A pork is hired the rice. Output: False\nInput: The pasta is repairing. Output: True\nInput: The beer is awakened the cocktail. Output: True\nInput: A actress is hated the waiter. Output: False\nInput: The boy is wearing. Output: True\nInput: A man is wore the woman. Output: False\nInput: The medium is conferring. Output: True\nInput: A light is exposed the projector. Output: False\nInput: The beer is shutting. Output: True\nInput: The series is donating. Output: True\n",
+            "target_question": "Input: The organization is met the association. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 2
+        },
+        {
+            "exemplars": "Input: The pasta is repairing. Output: True\nInput: A projector is concealed the screen. Output: False\nInput: The cucumber is yelled the eggplant. Output: True\nInput: The shawl is disgusting. Output: True\nInput: The lamp is rotting. Output: True\nInput: A computer is smiled the screen. Output: False\nInput: The dancer is taking. Output: True\nInput: A shoe is described the skirt. Output: False\nInput: A floor is talked the room. Output: False\nInput: The cucumber is worrying. Output: True\n",
+            "target_question": "Input: The sweater is alarmed the hair. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 2
+        },
+        {
+            "exemplars": "Input: A ladder is nodded the window. Output: False\nInput: The guy is lifting. Output: True\nInput: The guy is lifted the dancer. Output: True\nInput: A restaurant is interacted the museum. Output: False\nInput: The cucumber is worrying. Output: True\nInput: The pie is destroying. Output: True\nInput: The school is negotiating. Output: True\nInput: A cat is aided the bird. Output: False\nInput: The axis is arguing. Output: True\nInput: A cactus is examined the child. Output: False\n",
+            "target_question": "Input: The skirt is resembled the sock. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 2
+        },
+        {
+            "exemplars": "Input: A cat is aided the bird. Output: False\nInput: The fish is passing. Output: True\nInput: The room is trained the tile. Output: True\nInput: The ship is washing. Output: True\nInput: A university is laughed the government. Output: False\nInput: The room is profiting. Output: True\nInput: A glass is confused the dish. Output: False\nInput: The wheelbarrow is telephoning. Output: True\nInput: A raft is sang the computer. Output: False\nInput: The plate is underwhelming. Output: True\n",
+            "target_question": "Input: The mirror is protested the car. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 2
+        },
+        {
+            "exemplars": "Input: The blouse is aggravating. Output: True\nInput: A cafe is fought the hospital. Output: False\nInput: The synthesis is corresponded the thesis. Output: True\nInput: A snake is overwhelmed the rabbit. Output: False\nInput: The synthesis is failing. Output: True\nInput: The fish is chuckling. Output: True\nInput: The tooth is flirting. Output: True\nInput: The documentary is littering. Output: True\nInput: A fungus is toured the goose. Output: False\nInput: A radius is complained the series. Output: False\n",
+            "target_question": "Input: The library is hunted the school. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 2
+        },
+        {
+            "exemplars": "Input: A university is laughed the government. Output: False\nInput: The guy is lifting. Output: True\nInput: The juice is rotted the beer. Output: True\nInput: The wine is melting. Output: True\nInput: The apple is dying. Output: True\nInput: The juice is departing. Output: True\nInput: A child is lifted the teenager. Output: False\nInput: A plate is bored the fork. Output: False\nInput: The face is harming. Output: True\nInput: A movie is donated the story. Output: False\n",
+            "target_question": "Input: The customer is forgot the cashier. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 2
+        },
+        {
+            "exemplars": "Input: The screen is winning. Output: True\nInput: The rabbit is leaving. Output: True\nInput: The organization is met the association. Output: True\nInput: A cash is studied the coin. Output: False\nInput: The organization is reading. Output: True\nInput: A tile is testified the kitchen. Output: False\nInput: A fish is scared the horse. Output: False\nInput: A species is conferred the stimulus. Output: False\nInput: The bird is exploring. Output: True\nInput: The cactus is assembling. Output: True\n",
+            "target_question": "Input: The man is baked the means. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 2
+        },
+        {
+            "exemplars": "Input: The dog is examining. Output: True\nInput: The company is reacting. Output: True\nInput: The adult is saw the person. Output: True\nInput: The projector is hiding. Output: True\nInput: A glass is confused the dish. Output: False\nInput: A spotlight is found the water. Output: False\nInput: The adult is kissing. Output: True\nInput: A bicycle is protested the convertible. Output: False\nInput: The beer is solidifying. Output: True\nInput: A tea is healed the coffee. Output: False\n",
+            "target_question": "Input: The phenomenon is compromised the radius. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 2
+        },
+        {
+            "exemplars": "Input: A pasta is suffered the pie. Output: False\nInput: The lamp is rotting. Output: True\nInput: The brochure is donated the play. Output: True\nInput: The brochure is hunting. Output: True\nInput: The plate is underwhelming. Output: True\nInput: A synthesis is cooperated the thesis. Output: False\nInput: The fish is breaking. Output: True\nInput: A child is exited the crisis. Output: False\nInput: The stimulus is embracing. Output: True\nInput: A company is littered the organization. Output: False\n",
+            "target_question": "Input: The face is bored the cup. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 2
+        },
+        {
+            "exemplars": "Input: A turtle is stunned the alumnus. Output: False\nInput: The money is writing. Output: True\nInput: The pepper is yawned the spinach. Output: True\nInput: A cucumber is won the eggplant. Output: False\nInput: A rice is fired the steak. Output: False\nInput: The mirror is shrugging. Output: True\nInput: The fish is passing. Output: True\nInput: The pepper is ascending. Output: True\nInput: The fish is chuckling. Output: True\nInput: A bicycle is protested the convertible. Output: False\n",
+            "target_question": "Input: The library is hunted the school. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 2
+        },
+        {
+            "exemplars": "Input: A cactus is examined the child. Output: False\nInput: The organization is reading. Output: True\nInput: The ox is communicated the paralysis. Output: True\nInput: A pie is worried the pork. Output: False\nInput: The axis is arguing. Output: True\nInput: A ellipsis is observed the fish. Output: False\nInput: The bank is murmuring. Output: True\nInput: A school is hugged the mall. Output: False\nInput: The ox is crying. Output: True\nInput: The water is freezing. Output: True\n",
+            "target_question": "Input: The school is interacted the mall. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 2
+        },
+        {
+            "exemplars": "Input: The actress is hugging. Output: True\nInput: A hamster is irritated the fish. Output: False\nInput: The window is played the vase. Output: True\nInput: A association is married the committee. Output: False\nInput: A library is grinned the school. Output: False\nInput: The ship is washing. Output: True\nInput: The window is screaming. Output: True\nInput: The snake is investigating. Output: True\nInput: The parenthesis is debating. Output: True\nInput: A raft is sang the computer. Output: False\n",
+            "target_question": "Input: The brochure is donated the play. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 2
+        },
+        {
+            "exemplars": "Input: The tooth is flirting. Output: True\nInput: The cart is studying. Output: True\nInput: The tooth is dated the woman. Output: True\nInput: The rug is approaching. Output: True\nInput: The school is negotiating. Output: True\nInput: A dog is hindered the cat. Output: False\nInput: The girl is cleaning. Output: True\nInput: A skateboard is scratched the wheelbarrow. Output: False\nInput: A bank is forfeited the library. Output: False\nInput: A woman is cleaned the lady. Output: False\n",
+            "target_question": "Input: The plane is retaliated the cart. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 2
+        },
+        {
+            "exemplars": "Input: The juice is departing. Output: True\nInput: The donation is yawning. Output: True\nInput: The donation is telephoned the floor. Output: True\nInput: A shoe is described the skirt. Output: False\nInput: The plane is struggling. Output: True\nInput: The light is awakening. Output: True\nInput: The actress is hugging. Output: True\nInput: A convertible is reacted the carriage. Output: False\nInput: A truck is retaliated the bike. Output: False\nInput: A cocktail is rotted the ice. Output: False\n",
+            "target_question": "Input: The projector is found the screen. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 2
+        },
+        {
+            "exemplars": "Input: The species is eating. Output: True\nInput: The chair is upsetting. Output: True\nInput: The ladder is performed the window. Output: True\nInput: A basis is boycotted the cactus. Output: False\nInput: A apple is washed the banana. Output: False\nInput: The cocktail is closing. Output: True\nInput: A bread is profited the cake. Output: False\nInput: A popsicle is hid the lake. Output: False\nInput: The ladder is scratching. Output: True\nInput: The tomato is revealing. Output: True\n",
+            "target_question": "Input: The cafe is forfeited the hospital. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 2
+        },
+        {
+            "exemplars": "Input: A boat is shouted the ship. Output: False\nInput: The sock is hurting. Output: True\nInput: The canoe is smiled the raft. Output: True\nInput: The waiter is visiting. Output: True\nInput: The canoe is waving. Output: True\nInput: A cafe is fought the hospital. Output: False\nInput: The radius is divorcing. Output: True\nInput: A cucumber is won the eggplant. Output: False\nInput: A hair is aggravated the nose. Output: False\nInput: The broccoli is shrinking. Output: True\n",
+            "target_question": "Input: The pedestrian is questioned the driver. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 2
+        },
+        {
+            "exemplars": "Input: A broccoli is wept the cilantro. Output: False\nInput: The ladder is scratching. Output: True\nInput: The steak is revealed the candle. Output: True\nInput: A person is brought the senator. Output: False\nInput: The raft is weeping. Output: True\nInput: The teenager is admiring. Output: True\nInput: A rice is fired the steak. Output: False\nInput: A alumnus is upset the analysis. Output: False\nInput: The steak is cleaning. Output: True\nInput: The horse is scanning. Output: True\n",
+            "target_question": "Input: The plane is retaliated the cart. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 2
+        },
+        {
+            "exemplars": "Input: A dish is disgusted the book. Output: False\nInput: The donation is yawning. Output: True\nInput: A movie is donated the story. Output: False\nInput: The lady is sold the guy. Output: True\nInput: The girl is cleaning. Output: True\nInput: The means is concurring. Output: True\nInput: The wine is melting. Output: True\nInput: A beer is repaired the soda. Output: False\nInput: The lady is selling. Output: True\nInput: A woman is cleaned the lady. Output: False\n",
+            "target_question": "Input: The mushroom is coughed the pepper. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 3
+        },
+        {
+            "exemplars": "Input: The projector is hiding. Output: True\nInput: A spinach is coughed the tomato. Output: False\nInput: The rabbit is leaving. Output: True\nInput: The rabbit is scared the hamster. Output: True\nInput: The mushroom is firing. Output: True\nInput: The room is profiting. Output: True\nInput: The wheelbarrow is telephoning. Output: True\nInput: A bread is profited the cake. Output: False\nInput: A spotlight is found the water. Output: False\nInput: A plate is bored the fork. Output: False\n",
+            "target_question": "Input: The ox is communicated the paralysis. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 3
+        },
+        {
+            "exemplars": "Input: The student is referencing. Output: True\nInput: A book is distracted the chair. Output: False\nInput: The analysis is answering. Output: True\nInput: The blouse is hugged the coat. Output: True\nInput: The museum is performing. Output: True\nInput: A coffee is cured the juice. Output: False\nInput: The blouse is aggravating. Output: True\nInput: A eggplant is wrote the mushroom. Output: False\nInput: A government is learned the legislature. Output: False\nInput: The cilantro is suffering. Output: True\n",
+            "target_question": "Input: The slope is painted the ladder. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 3
+        },
+        {
+            "exemplars": "Input: The ellipsis is chatting. Output: True\nInput: A truck is retaliated the bike. Output: False\nInput: A teacher is forgot the student. Output: False\nInput: The hair is annoyed the nose. Output: True\nInput: A analysis is worried the axis. Output: False\nInput: The hair is hindering. Output: True\nInput: The organization is reading. Output: True\nInput: The turtle is touring. Output: True\nInput: The hamster is observing. Output: True\nInput: A foot is scanned the fungus. Output: False\n",
+            "target_question": "Input: The wheelbarrow is shrugged the boat. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 3
+        },
+        {
+            "exemplars": "Input: The blouse is aggravating. Output: True\nInput: A dress is hugged the hat. Output: False\nInput: A dancer is sold the child. Output: False\nInput: The story is embraced the essay. Output: True\nInput: A paralysis is collaborated the parenthesis. Output: False\nInput: The radius is divorcing. Output: True\nInput: The story is laughing. Output: True\nInput: A couch is embarrassed the rug. Output: False\nInput: The lady is selling. Output: True\nInput: The octopus is coping. Output: True\n",
+            "target_question": "Input: The banana is whispered the broccoli. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 3
+        },
+        {
+            "exemplars": "Input: A glove is attacked the scarf. Output: False\nInput: A stimulus is conspired the synopsis. Output: False\nInput: The nose is aiding. Output: True\nInput: The nose is astounded the face. Output: True\nInput: The teenager is admiring. Output: True\nInput: The lady is selling. Output: True\nInput: A hair is aggravated the nose. Output: False\nInput: The hat is astounding. Output: True\nInput: A person is brought the senator. Output: False\nInput: The offspring is corresponding. Output: True\n",
+            "target_question": "Input: The bird is underwhelmed the snake. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 3
+        },
+        {
+            "exemplars": "Input: The beer is shutting. Output: True\nInput: A essay is ate the report. Output: False\nInput: A sock is insulted the sweater. Output: False\nInput: The lamp is concealed the light. Output: True\nInput: A tooth is corresponded the woman. Output: False\nInput: The shoe is disturbing. Output: True\nInput: The snake is investigating. Output: True\nInput: The lamp is rotting. Output: True\nInput: A legislature is lied the company. Output: False\nInput: The university is playing. Output: True\n",
+            "target_question": "Input: The government is littered the legislature. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 3
+        },
+        {
+            "exemplars": "Input: The lady is selling. Output: True\nInput: A dancer is sold the child. Output: False\nInput: A book is distracted the chair. Output: False\nInput: The tooth is dated the woman. Output: True\nInput: A cake is approved the casserole. Output: False\nInput: The tile is approving. Output: True\nInput: The tooth is flirting. Output: True\nInput: The glass is scaring. Output: True\nInput: The lamp is rotting. Output: True\nInput: A fish is scared the horse. Output: False\n",
+            "target_question": "Input: The play is drank the movie. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 3
+        },
+        {
+            "exemplars": "Input: The fish is breaking. Output: True\nInput: A blouse is questioned the coat. Output: False\nInput: A rabbit is underwhelmed the hamster. Output: False\nInput: The bicycle is read the convertible. Output: True\nInput: The sock is hurting. Output: True\nInput: A cactus is examined the child. Output: False\nInput: The tea is coming. Output: True\nInput: The bicycle is singing. Output: True\nInput: The pedestrian is discussing. Output: True\nInput: A juice is cleaned the beer. Output: False\n",
+            "target_question": "Input: The foot is watched the fungus. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 3
+        },
+        {
+            "exemplars": "Input: A pamphlet is debated the brochure. Output: False\nInput: The paralysis is dating. Output: True\nInput: A boat is shouted the ship. Output: False\nInput: The thesis is cried the tooth. Output: True\nInput: The chicken is losing. Output: True\nInput: The skateboard is talking. Output: True\nInput: The senator is noticing. Output: True\nInput: The thesis is fighting. Output: True\nInput: A patient is admired the actor. Output: False\nInput: A plate is bored the fork. Output: False\n",
+            "target_question": "Input: The museum is learned the university. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 3
+        },
+        {
+            "exemplars": "Input: A screen is stretched the money. Output: False\nInput: A committee is met the mountain. Output: False\nInput: A soda is destroyed the tea. Output: False\nInput: The brochure is donated the play. Output: True\nInput: The milk is liquefying. Output: True\nInput: The patient is questioning. Output: True\nInput: The book is grinning. Output: True\nInput: The brochure is hunting. Output: True\nInput: A pedestrian is noticed the driver. Output: False\nInput: The organization is reading. Output: True\n",
+            "target_question": "Input: The stimulus is cooperated the synopsis. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 3
+        },
+        {
+            "exemplars": "Input: The water is freezing. Output: True\nInput: A face is annoyed the cup. Output: False\nInput: A cup is astounded the plate. Output: False\nInput: The water is fixed the wine. Output: True\nInput: A mirror is played the car. Output: False\nInput: The hair is hindering. Output: True\nInput: The banana is seeing. Output: True\nInput: The window is screaming. Output: True\nInput: A woman is cried the book. Output: False\nInput: The driver is insulting. Output: True\n",
+            "target_question": "Input: The fish is suffered the muffin. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 3
+        },
+        {
+            "exemplars": "Input: The tomato is revealing. Output: True\nInput: A ship is shrugged the canoe. Output: False\nInput: A teacher is forgot the student. Output: False\nInput: The waitress is remembered the customer. Output: True\nInput: The wheelbarrow is telephoning. Output: True\nInput: The pepper is ascending. Output: True\nInput: The alumnus is watching. Output: True\nInput: A bread is profited the cake. Output: False\nInput: The waitress is appreciating. Output: True\nInput: A play is divorced the movie. Output: False\n",
+            "target_question": "Input: The patient is hated the actor. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 3
+        },
+        {
+            "exemplars": "Input: The carriage is stretching. Output: True\nInput: A woman is cleaned the lady. Output: False\nInput: The student is referencing. Output: True\nInput: The cashier is kissed the teacher. Output: True\nInput: A organization is lost the association. Output: False\nInput: A cart is responded the truck. Output: False\nInput: A actor is loved the actress. Output: False\nInput: The girl is cleaning. Output: True\nInput: The mushroom is firing. Output: True\nInput: The cashier is praising. Output: True\n",
+            "target_question": "Input: The organization is met the association. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 3
+        },
+        {
+            "exemplars": "Input: A library is grinned the school. Output: False\nInput: The organization is reading. Output: True\nInput: The pork is healing. Output: True\nInput: The organization is met the association. Output: True\nInput: A steak is ascended the candle. Output: False\nInput: A popsicle is hid the lake. Output: False\nInput: The hospital is meeting. Output: True\nInput: The crisis is blinking. Output: True\nInput: A university is laughed the government. Output: False\nInput: The glove is bothering. Output: True\n",
+            "target_question": "Input: The lady is sold the guy. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 3
+        },
+        {
+            "exemplars": "Input: The mirror is shrugging. Output: True\nInput: A bicycle is protested the convertible. Output: False\nInput: A octopus is chatted the offspring. Output: False\nInput: The window is played the vase. Output: True\nInput: The nucleus is cooking. Output: True\nInput: A pamphlet is debated the brochure. Output: False\nInput: The woman is purchasing. Output: True\nInput: A coat is researched the dress. Output: False\nInput: The teacher is criticizing. Output: True\nInput: The window is screaming. Output: True\n",
+            "target_question": "Input: The man is bought the woman. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 3
+        },
+        {
+            "exemplars": "Input: A cafe is fought the hospital. Output: False\nInput: A crisis is explored the deer. Output: False\nInput: A story is drank the essay. Output: False\nInput: The casserole is saw the chicken. Output: True\nInput: The sheep is drinking. Output: True\nInput: The light is awakening. Output: True\nInput: The casserole is finding. Output: True\nInput: The essay is learning. Output: True\nInput: A stimulus is conspired the synopsis. Output: False\nInput: The cactus is assembling. Output: True\n",
+            "target_question": "Input: The coffee is ripened the juice. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 3
+        },
+        {
+            "exemplars": "Input: A wine is broke the milk. Output: False\nInput: The ox is crying. Output: True\nInput: A snake is overwhelmed the rabbit. Output: False\nInput: The ox is communicated the paralysis. Output: True\nInput: The government is practicing. Output: True\nInput: The actress is hugging. Output: True\nInput: The cat is exiting. Output: True\nInput: The phenomenon is disagreeing. Output: True\nInput: A goose is watched the hypothesis. Output: False\nInput: A company is littered the organization. Output: False\n",
+            "target_question": "Input: The woman is purchased the lady. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 3
+        },
+        {
+            "exemplars": "Input: The louse is complaining. Output: True\nInput: A chair is disturbed the couch. Output: False\nInput: The dish is shocking. Output: True\nInput: The louse is assembled the man. Output: True\nInput: The customer is attacking. Output: True\nInput: The woman is purchasing. Output: True\nInput: A candle is descended the lamp. Output: False\nInput: A hypothesis is answered the louse. Output: False\nInput: A beer is ripened the cocktail. Output: False\nInput: The rice is curing. Output: True\n",
+            "target_question": "Input: The horse is upset the turtle. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 3
+        },
+        {
+            "exemplars": "Input: A alumnus is upset the analysis. Output: False\nInput: A basis is boycotted the cactus. Output: False\nInput: The crisis is blinking. Output: True\nInput: The commentary is flirted the cafe. Output: True\nInput: The commentary is losing. Output: True\nInput: The horse is scanning. Output: True\nInput: A horse is shocked the turtle. Output: False\nInput: The story is laughing. Output: True\nInput: A actor is loved the actress. Output: False\nInput: The hamster is observing. Output: True\n",
+            "target_question": "Input: The skateboard is shouted the wheelbarrow. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 3
+        },
+        {
+            "exemplars": "Input: A committee is met the mountain. Output: False\nInput: The cup is overwhelming. Output: True\nInput: The spotlight is falling. Output: True\nInput: The company is reacting. Output: True\nInput: The company is married the organization. Output: True\nInput: The organization is reading. Output: True\nInput: A oasis is changed the octopus. Output: False\nInput: The mirror is shrugging. Output: True\nInput: A cash is studied the coin. Output: False\nInput: A fork is bothered the glass. Output: False\n",
+            "target_question": "Input: The car is aided the dog. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 4
+        },
+        {
+            "exemplars": "Input: The teenager is admiring. Output: True\nInput: A person is brought the senator. Output: False\nInput: A deer is investigated the diagnosis. Output: False\nInput: The skirt is embarrassing. Output: True\nInput: The coffee is ripened the juice. Output: True\nInput: A vase is performed the mirror. Output: False\nInput: The bank is murmuring. Output: True\nInput: A documentary is exercised the commentary. Output: False\nInput: The ladder is scratching. Output: True\nInput: The coffee is arriving. Output: True\n",
+            "target_question": "Input: The movie is ate the story. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 4
+        },
+        {
+            "exemplars": "Input: A teenager is had the adult. Output: False\nInput: The hypothesis is competing. Output: True\nInput: A organization is lost the association. Output: False\nInput: The coin is sneezing. Output: True\nInput: The hospital is grinned the bank. Output: True\nInput: The radius is divorcing. Output: True\nInput: A sheep is concurred the species. Output: False\nInput: The dancer is taking. Output: True\nInput: The hospital is meeting. Output: True\nInput: A skirt is discussed the sock. Output: False\n",
+            "target_question": "Input: The bike is scratched the unicycle. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 4
+        },
+        {
+            "exemplars": "Input: The hair is hindering. Output: True\nInput: A unicycle is saluted the skateboard. Output: False\nInput: A skirt is discussed the sock. Output: False\nInput: The company is reacting. Output: True\nInput: The room is trained the tile. Output: True\nInput: The shirt is distracting. Output: True\nInput: The room is profiting. Output: True\nInput: The oasis is cooperating. Output: True\nInput: A crisis is explored the deer. Output: False\nInput: A association is married the committee. Output: False\n",
+            "target_question": "Input: The kitchen is waved the apple. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 4
+        },
+        {
+            "exemplars": "Input: The raft is weeping. Output: True\nInput: The association is replying. Output: True\nInput: A analysis is worried the axis. Output: False\nInput: The sweater is impressing. Output: True\nInput: The sweater is alarmed the hair. Output: True\nInput: The plane is struggling. Output: True\nInput: The kitchen is cheering. Output: True\nInput: A shawl is criticized the shirt. Output: False\nInput: A mountain is murmured the hill. Output: False\nInput: A banana is waved the broccoli. Output: False\n",
+            "target_question": "Input: The waiter is disliked the waitress. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 4
+        },
+        {
+            "exemplars": "Input: The ice is opening. Output: True\nInput: A tile is testified the kitchen. Output: False\nInput: The plate is underwhelming. Output: True\nInput: The shawl is disgusting. Output: True\nInput: The shawl is described the shirt. Output: True\nInput: The floor is benefiting. Output: True\nInput: A crisis is explored the deer. Output: False\nInput: A basis is boycotted the cactus. Output: False\nInput: A face is annoyed the cup. Output: False\nInput: The hair is hindering. Output: True\n",
+            "target_question": "Input: The documentary is fought the commentary. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 4
+        },
+        {
+            "exemplars": "Input: A guest is helped the pedestrian. Output: False\nInput: The nucleus is cooking. Output: True\nInput: The skateboard is talking. Output: True\nInput: The teacher is criticizing. Output: True\nInput: The fork is disgusted the glass. Output: True\nInput: The fork is irritating. Output: True\nInput: A customer is disliked the cashier. Output: False\nInput: The screen is escaping. Output: True\nInput: A water is lost the wine. Output: False\nInput: A pasta is suffered the pie. Output: False\n",
+            "target_question": "Input: The essay is exercised the report. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 4
+        },
+        {
+            "exemplars": "Input: A water is lost the wine. Output: False\nInput: The customer is attacking. Output: True\nInput: The glass is scaring. Output: True\nInput: The cash is yelling. Output: True\nInput: The cash is surrendered the coin. Output: True\nInput: The boy is wearing. Output: True\nInput: A commentary is failed the cafe. Output: False\nInput: The screen is escaping. Output: True\nInput: A lady is bought the guy. Output: False\nInput: A book is distracted the chair. Output: False\n",
+            "target_question": "Input: The pasta is hired the pie. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 4
+        },
+        {
+            "exemplars": "Input: The cocktail is closing. Output: True\nInput: A hat is visited the jacket. Output: False\nInput: A soda is destroyed the tea. Output: False\nInput: The coat is alarming. Output: True\nInput: The cocktail is hid the ice. Output: True\nInput: The milk is liquefying. Output: True\nInput: A oasis is changed the octopus. Output: False\nInput: The chair is upsetting. Output: True\nInput: A cilantro is whispered the cucumber. Output: False\nInput: The face is harming. Output: True\n",
+            "target_question": "Input: The cafe is forfeited the hospital. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 4
+        },
+        {
+            "exemplars": "Input: A report is embraced the documentary. Output: False\nInput: A spinach is coughed the tomato. Output: False\nInput: The window is screaming. Output: True\nInput: The story is laughing. Output: True\nInput: The window is played the vase. Output: True\nInput: A dress is hugged the hat. Output: False\nInput: A child is lifted the teenager. Output: False\nInput: The money is writing. Output: True\nInput: The mushroom is firing. Output: True\nInput: The jacket is boring. Output: True\n",
+            "target_question": "Input: The waitress is remembered the customer. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 4
+        },
+        {
+            "exemplars": "Input: The series is donating. Output: True\nInput: The movie is kissing. Output: True\nInput: The chair is upsetting. Output: True\nInput: A species is conferred the stimulus. Output: False\nInput: The adult is saw the person. Output: True\nInput: The adult is kissing. Output: True\nInput: A vase is performed the mirror. Output: False\nInput: A patient is admired the actor. Output: False\nInput: The senator is noticing. Output: True\nInput: A beef is benefited the bread. Output: False\n",
+            "target_question": "Input: The man is baked the means. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 4
+        },
+        {
+            "exemplars": "Input: The face is harming. Output: True\nInput: A cashier is remembered the teacher. Output: False\nInput: A fish is scared the horse. Output: False\nInput: The cafe is marrying. Output: True\nInput: The turtle is worried the alumnus. Output: True\nInput: The waitress is appreciating. Output: True\nInput: The candle is ripening. Output: True\nInput: A light is exposed the projector. Output: False\nInput: The turtle is touring. Output: True\nInput: A dog is hindered the cat. Output: False\n",
+            "target_question": "Input: The car is reacted the bicycle. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 4
+        },
+        {
+            "exemplars": "Input: A spinach is coughed the tomato. Output: False\nInput: The ship is washing. Output: True\nInput: A car is practiced the bicycle. Output: False\nInput: The mountain is retaliating. Output: True\nInput: The banana is whispered the broccoli. Output: True\nInput: The brochure is hunting. Output: True\nInput: A raft is sang the computer. Output: False\nInput: The hair is hindering. Output: True\nInput: The banana is seeing. Output: True\nInput: A face is annoyed the cup. Output: False\n",
+            "target_question": "Input: The documentary is fought the commentary. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 4
+        },
+        {
+            "exemplars": "Input: A chair is disturbed the couch. Output: False\nInput: A pedestrian is noticed the driver. Output: False\nInput: A mountain is murmured the hill. Output: False\nInput: The student is referencing. Output: True\nInput: The cart is reunited the truck. Output: True\nInput: The dish is shocking. Output: True\nInput: The cart is studying. Output: True\nInput: The car is boycotting. Output: True\nInput: The truck is succeeding. Output: True\nInput: A truck is retaliated the bike. Output: False\n",
+            "target_question": "Input: The mall is kissed the restaurant. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 4
+        },
+        {
+            "exemplars": "Input: A museum is kissed the university. Output: False\nInput: The dress is annoying. Output: True\nInput: A mouse is blinked the nucleus. Output: False\nInput: The tooth is flirting. Output: True\nInput: The dress is appreciated the hat. Output: True\nInput: A government is learned the legislature. Output: False\nInput: The cash is yelling. Output: True\nInput: A boat is shouted the ship. Output: False\nInput: The mall is nodding. Output: True\nInput: The skateboard is talking. Output: True\n",
+            "target_question": "Input: The ladder is performed the window. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 4
+        },
+        {
+            "exemplars": "Input: The beef is exposing. Output: True\nInput: The senator is noticing. Output: True\nInput: A scarf is praised the shawl. Output: False\nInput: A student is kissed the guest. Output: False\nInput: The boy is wore the girl. Output: True\nInput: A convertible is reacted the carriage. Output: False\nInput: The cashier is praising. Output: True\nInput: The axis is arguing. Output: True\nInput: The boy is wearing. Output: True\nInput: A patient is admired the actor. Output: False\n",
+            "target_question": "Input: The spotlight is broke the water. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 4
+        },
+        {
+            "exemplars": "Input: The bread is concealing. Output: True\nInput: The shawl is disgusting. Output: True\nInput: The scarf is confusing. Output: True\nInput: A cafe is fought the hospital. Output: False\nInput: The child is took the teenager. Output: True\nInput: The couch is worrying. Output: True\nInput: A computer is smiled the screen. Output: False\nInput: A shoe is described the skirt. Output: False\nInput: A shirt is referenced the shoe. Output: False\nInput: The child is bringing. Output: True\n",
+            "target_question": "Input: The turtle is worried the alumnus. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 4
+        },
+        {
+            "exemplars": "Input: A movie is donated the story. Output: False\nInput: The nucleus is cooking. Output: True\nInput: The cat is exiting. Output: True\nInput: A museum is kissed the university. Output: False\nInput: The cat is overwhelmed the bird. Output: True\nInput: A driver is discovered the blouse. Output: False\nInput: The guest is describing. Output: True\nInput: The man is buying. Output: True\nInput: A plane is replied the cart. Output: False\nInput: The brochure is hunting. Output: True\n",
+            "target_question": "Input: The ladder is performed the window. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 4
+        },
+        {
+            "exemplars": "Input: The cart is studying. Output: True\nInput: A shawl is criticized the shirt. Output: False\nInput: A bike is reunited the unicycle. Output: False\nInput: The committee is responding. Output: True\nInput: The sheep is conspired the species. Output: True\nInput: The ellipsis is chatting. Output: True\nInput: A patient is admired the actor. Output: False\nInput: A screen is hid the spotlight. Output: False\nInput: The senator is noticing. Output: True\nInput: The sheep is drinking. Output: True\n",
+            "target_question": "Input: The projector is found the screen. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 4
+        },
+        {
+            "exemplars": "Input: The projector is hiding. Output: True\nInput: A coin is succeeded the check. Output: False\nInput: A snake is overwhelmed the rabbit. Output: False\nInput: The money is writing. Output: True\nInput: The projector is found the screen. Output: True\nInput: The university is playing. Output: True\nInput: A organization is lost the association. Output: False\nInput: A child is exited the crisis. Output: False\nInput: The pepper is ascending. Output: True\nInput: The legislature is protesting. Output: True\n",
+            "target_question": "Input: The computer is struggled the screen. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 4
+        },
+        {
+            "exemplars": "Input: A sheep is concurred the species. Output: False\nInput: The commentary is losing. Output: True\nInput: The face is harming. Output: True\nInput: The room is profiting. Output: True\nInput: A committee is met the mountain. Output: False\nInput: The face is bored the cup. Output: True\nInput: The skateboard is talking. Output: True\nInput: A floor is talked the room. Output: False\nInput: A boat is shouted the ship. Output: False\nInput: The check is coughing. Output: True\n",
+            "target_question": "Input: The child is took the teenager. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 5
+        },
+        {
+            "exemplars": "Input: A kitchen is trained the apple. Output: False\nInput: The senator is noticing. Output: True\nInput: A cash is studied the coin. Output: False\nInput: The university is playing. Output: True\nInput: A patient is admired the actor. Output: False\nInput: The girl is cleaned the man. Output: True\nInput: A juice is cleaned the beer. Output: False\nInput: The rabbit is leaving. Output: True\nInput: The girl is cleaning. Output: True\nInput: The room is profiting. Output: True\n",
+            "target_question": "Input: The woman is debated the book. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 5
+        },
+        {
+            "exemplars": "Input: The teacher is criticizing. Output: True\nInput: A louse is argued the man. Output: False\nInput: The kitchen is cheering. Output: True\nInput: A bird is harmed the snake. Output: False\nInput: A ice is awakened the popsicle. Output: False\nInput: The cafe is forfeited the hospital. Output: True\nInput: The cafe is marrying. Output: True\nInput: The steak is cleaning. Output: True\nInput: A banana is waved the broccoli. Output: False\nInput: The beer is shutting. Output: True\n",
+            "target_question": "Input: The hospital is grinned the bank. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 5
+        },
+        {
+            "exemplars": "Input: The dish is shocking. Output: True\nInput: A pepper is sneezed the spinach. Output: False\nInput: The eggplant is hiring. Output: True\nInput: The coat is alarming. Output: True\nInput: The guest is describing. Output: True\nInput: The mountain is negotiated the hill. Output: True\nInput: A customer is disliked the cashier. Output: False\nInput: A basis is boycotted the cactus. Output: False\nInput: A hat is visited the jacket. Output: False\nInput: The mountain is retaliating. Output: True\n",
+            "target_question": "Input: The report is failed the documentary. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 5
+        },
+        {
+            "exemplars": "Input: A screen is hid the spotlight. Output: False\nInput: The story is laughing. Output: True\nInput: The association is replying. Output: True\nInput: The foot is clashing. Output: True\nInput: A cucumber is won the eggplant. Output: False\nInput: The story is embraced the essay. Output: True\nInput: A mountain is murmured the hill. Output: False\nInput: The waitress is appreciating. Output: True\nInput: A car is impressed the dog. Output: False\nInput: The light is awakening. Output: True\n",
+            "target_question": "Input: The sheep is conspired the species. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 5
+        },
+        {
+            "exemplars": "Input: The child is baking. Output: True\nInput: A check is surrendered the donation. Output: False\nInput: A student is kissed the guest. Output: False\nInput: The projector is hiding. Output: True\nInput: A deer is investigated the diagnosis. Output: False\nInput: The projector is found the screen. Output: True\nInput: The actor is researching. Output: True\nInput: The mountain is retaliating. Output: True\nInput: The restaurant is painting. Output: True\nInput: A university is laughed the government. Output: False\n",
+            "target_question": "Input: The ice is escaped the popsicle. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 5
+        },
+        {
+            "exemplars": "Input: A carriage is read the plane. Output: False\nInput: A pasta is suffered the pie. Output: False\nInput: A mushroom is yelled the pepper. Output: False\nInput: The fish is breaking. Output: True\nInput: The medium is conferring. Output: True\nInput: The phenomenon is compromised the radius. Output: True\nInput: A popsicle is hid the lake. Output: False\nInput: The book is stunning. Output: True\nInput: The bicycle is singing. Output: True\nInput: The phenomenon is disagreeing. Output: True\n",
+            "target_question": "Input: The sheep is conspired the species. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 5
+        },
+        {
+            "exemplars": "Input: A senator is saw the doctor. Output: False\nInput: A analysis is worried the axis. Output: False\nInput: The cactus is assembling. Output: True\nInput: The turtle is touring. Output: True\nInput: The spotlight is falling. Output: True\nInput: The cup is bothered the plate. Output: True\nInput: The cup is overwhelming. Output: True\nInput: The cashier is praising. Output: True\nInput: A child is lifted the teenager. Output: False\nInput: A student is kissed the guest. Output: False\n",
+            "target_question": "Input: The library is hunted the school. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 5
+        },
+        {
+            "exemplars": "Input: A senator is saw the doctor. Output: False\nInput: A fungus is toured the goose. Output: False\nInput: The fish is chuckling. Output: True\nInput: The skateboard is talking. Output: True\nInput: A boat is shouted the ship. Output: False\nInput: The milk is destroyed the beer. Output: True\nInput: The hamster is observing. Output: True\nInput: The milk is liquefying. Output: True\nInput: A glass is confused the dish. Output: False\nInput: The library is muttering. Output: True\n",
+            "target_question": "Input: The ladder is performed the window. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 5
+        },
+        {
+            "exemplars": "Input: The money is writing. Output: True\nInput: A room is telephoned the tile. Output: False\nInput: A teenager is had the adult. Output: False\nInput: A plate is bored the fork. Output: False\nInput: A couch is embarrassed the rug. Output: False\nInput: The milk is destroyed the beer. Output: True\nInput: The milk is liquefying. Output: True\nInput: The pie is destroying. Output: True\nInput: The book is stunning. Output: True\nInput: The dancer is taking. Output: True\n",
+            "target_question": "Input: The organization is met the association. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 5
+        },
+        {
+            "exemplars": "Input: A pamphlet is debated the brochure. Output: False\nInput: The woman is forfeiting. Output: True\nInput: The boy is wearing. Output: True\nInput: A woman is cleaned the lady. Output: False\nInput: The deer is boasting. Output: True\nInput: The hospital is grinned the bank. Output: True\nInput: The tooth is flirting. Output: True\nInput: A actress is hated the waiter. Output: False\nInput: The hospital is meeting. Output: True\nInput: A man is wore the woman. Output: False\n",
+            "target_question": "Input: The offspring is collaborated the ox. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 5
+        },
+        {
+            "exemplars": "Input: A pamphlet is debated the brochure. Output: False\nInput: A child is lifted the teenager. Output: False\nInput: The woman is forfeiting. Output: True\nInput: The guy is lifting. Output: True\nInput: The series is donating. Output: True\nInput: The series is conferred the sheep. Output: True\nInput: A turtle is stunned the alumnus. Output: False\nInput: The computer is whispering. Output: True\nInput: A ice is awakened the popsicle. Output: False\nInput: The couch is worrying. Output: True\n",
+            "target_question": "Input: The shawl is described the shirt. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 5
+        },
+        {
+            "exemplars": "Input: The milk is liquefying. Output: True\nInput: The beer is shutting. Output: True\nInput: A hat is visited the jacket. Output: False\nInput: The series is donating. Output: True\nInput: The tomato is revealing. Output: True\nInput: The tomato is profited the beef. Output: True\nInput: A parenthesis is communicated the phenomenon. Output: False\nInput: The ox is crying. Output: True\nInput: A crisis is explored the deer. Output: False\nInput: A ice is awakened the popsicle. Output: False\n",
+            "target_question": "Input: The commentary is flirted the cafe. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 5
+        },
+        {
+            "exemplars": "Input: A cart is responded the truck. Output: False\nInput: The raft is weeping. Output: True\nInput: A doctor is liked the patient. Output: False\nInput: The carriage is stretching. Output: True\nInput: A cashier is remembered the teacher. Output: False\nInput: The parenthesis is complained the phenomenon. Output: True\nInput: The waitress is appreciating. Output: True\nInput: A cat is aided the bird. Output: False\nInput: The parenthesis is debating. Output: True\nInput: The light is awakening. Output: True\n",
+            "target_question": "Input: The lady is sold the guy. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 5
+        },
+        {
+            "exemplars": "Input: A fish is passed the foot. Output: False\nInput: The book is grinning. Output: True\nInput: The diagnosis is changing. Output: True\nInput: A car is practiced the bicycle. Output: False\nInput: A wine is broke the milk. Output: False\nInput: The book is disagreed the pamphlet. Output: True\nInput: The sweater is impressing. Output: True\nInput: A coin is succeeded the check. Output: False\nInput: The spotlight is falling. Output: True\nInput: The skateboard is talking. Output: True\n",
+            "target_question": "Input: The cart is reunited the truck. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 5
+        },
+        {
+            "exemplars": "Input: The jacket is boring. Output: True\nInput: The rug is approaching. Output: True\nInput: A commentary is failed the cafe. Output: False\nInput: A beer is repaired the soda. Output: False\nInput: A scarf is praised the shawl. Output: False\nInput: The mirror is protested the car. Output: True\nInput: The report is lying. Output: True\nInput: The mirror is shrugging. Output: True\nInput: A coin is succeeded the check. Output: False\nInput: The woman is purchasing. Output: True\n",
+            "target_question": "Input: The check is talked the donation. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 5
+        },
+        {
+            "exemplars": "Input: The screen is winning. Output: True\nInput: The pedestrian is discussing. Output: True\nInput: A broccoli is wept the cilantro. Output: False\nInput: A cash is studied the coin. Output: False\nInput: The plate is underwhelming. Output: True\nInput: The fish is toured the foot. Output: True\nInput: The fish is chuckling. Output: True\nInput: A spinach is coughed the tomato. Output: False\nInput: The axis is arguing. Output: True\nInput: A glass is confused the dish. Output: False\n",
+            "target_question": "Input: The diagnosis is passed the ellipsis. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 5
+        },
+        {
+            "exemplars": "Input: The hamster is observing. Output: True\nInput: The lamp is rotting. Output: True\nInput: A casserole is cheered the chicken. Output: False\nInput: A hamster is irritated the fish. Output: False\nInput: A hill is muttered the slope. Output: False\nInput: The octopus is clashed the offspring. Output: True\nInput: The committee is responding. Output: True\nInput: The rice is curing. Output: True\nInput: The octopus is coping. Output: True\nInput: A candle is descended the lamp. Output: False\n",
+            "target_question": "Input: The hypothesis is arose the louse. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 5
+        },
+        {
+            "exemplars": "Input: A library is grinned the school. Output: False\nInput: A ellipsis is observed the fish. Output: False\nInput: A foot is scanned the fungus. Output: False\nInput: The teacher is criticizing. Output: True\nInput: The cake is hiding. Output: True\nInput: The cash is surrendered the coin. Output: True\nInput: The cash is yelling. Output: True\nInput: The hospital is meeting. Output: True\nInput: A oasis is changed the octopus. Output: False\nInput: The mouse is conspiring. Output: True\n",
+            "target_question": "Input: The tomato is profited the beef. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 5
+        },
+        {
+            "exemplars": "Input: A rabbit is underwhelmed the hamster. Output: False\nInput: A spotlight is found the water. Output: False\nInput: The documentary is littering. Output: True\nInput: The cashier is praising. Output: True\nInput: The projector is hiding. Output: True\nInput: The documentary is fought the commentary. Output: True\nInput: The bird is exploring. Output: True\nInput: The hill is reuniting. Output: True\nInput: A bank is forfeited the library. Output: False\nInput: A analysis is worried the axis. Output: False\n",
+            "target_question": "Input: The association is murmured the committee. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 5
+        },
+        {
+            "exemplars": "Input: The sheep is drinking. Output: True\nInput: The species is eating. Output: True\nInput: The axis is arguing. Output: True\nInput: A water is lost the wine. Output: False\nInput: The screen is escaping. Output: True\nInput: A diagnosis is left the ellipsis. Output: False\nInput: The axis is examined the basis. Output: True\nInput: A synopsis is cooked the synthesis. Output: False\nInput: The donation is yawning. Output: True\nInput: A cash is studied the coin. Output: False\n",
+            "target_question": "Input: The mountain is negotiated the hill. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 6
+        },
+        {
+            "exemplars": "Input: The shawl is disgusting. Output: True\nInput: A hill is muttered the slope. Output: False\nInput: The committee is responding. Output: True\nInput: The teenager is admiring. Output: True\nInput: A man is wore the woman. Output: False\nInput: The boy is wearing. Output: True\nInput: The radius is concurred the series. Output: True\nInput: A jacket is appreciated the glove. Output: False\nInput: The radius is divorcing. Output: True\nInput: A senator is saw the doctor. Output: False\n",
+            "target_question": "Input: The pedestrian is questioned the driver. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 6
+        },
+        {
+            "exemplars": "Input: A octopus is chatted the offspring. Output: False\nInput: A beef is benefited the bread. Output: False\nInput: A hill is muttered the slope. Output: False\nInput: The steak is cleaning. Output: True\nInput: A dog is hindered the cat. Output: False\nInput: The rug is approaching. Output: True\nInput: The steak is revealed the candle. Output: True\nInput: The boy is wearing. Output: True\nInput: The spinach is descending. Output: True\nInput: The offspring is corresponding. Output: True\n",
+            "target_question": "Input: The cash is surrendered the coin. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 6
+        },
+        {
+            "exemplars": "Input: The mirror is shrugging. Output: True\nInput: A hamster is irritated the fish. Output: False\nInput: The pepper is ascending. Output: True\nInput: The room is profiting. Output: True\nInput: A fish is scared the horse. Output: False\nInput: The child is baking. Output: True\nInput: The room is trained the tile. Output: True\nInput: A axis is approached the basis. Output: False\nInput: A tomato is yawned the beef. Output: False\nInput: The snake is investigating. Output: True\n",
+            "target_question": "Input: The actress is respected the waiter. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 6
+        },
+        {
+            "exemplars": "Input: The committee is responding. Output: True\nInput: A organization is lost the association. Output: False\nInput: The actor is researching. Output: True\nInput: The pork is healing. Output: True\nInput: A hill is muttered the slope. Output: False\nInput: A soda is destroyed the tea. Output: False\nInput: The pork is ascended the rice. Output: True\nInput: The eggplant is hiring. Output: True\nInput: The tea is coming. Output: True\nInput: A waiter is knew the waitress. Output: False\n",
+            "target_question": "Input: The cat is overwhelmed the bird. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 6
+        },
+        {
+            "exemplars": "Input: The fish is chuckling. Output: True\nInput: A rice is fired the steak. Output: False\nInput: A light is exposed the projector. Output: False\nInput: A driver is discovered the blouse. Output: False\nInput: The pie is destroying. Output: True\nInput: The bread is concealing. Output: True\nInput: The fish is toured the foot. Output: True\nInput: A glass is confused the dish. Output: False\nInput: The candle is ripening. Output: True\nInput: The girl is cleaning. Output: True\n",
+            "target_question": "Input: The story is embraced the essay. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 6
+        },
+        {
+            "exemplars": "Input: The steak is cleaning. Output: True\nInput: The play is interacting. Output: True\nInput: The adult is kissing. Output: True\nInput: The dish is shocking. Output: True\nInput: The means is concurring. Output: True\nInput: A lamp is revealed the light. Output: False\nInput: The adult is saw the person. Output: True\nInput: A legislature is lied the company. Output: False\nInput: A child is exited the crisis. Output: False\nInput: A chair is disturbed the couch. Output: False\n",
+            "target_question": "Input: The girl is cleaned the man. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 6
+        },
+        {
+            "exemplars": "Input: The teenager is admiring. Output: True\nInput: The person is helping. Output: True\nInput: A brochure is disagreed the play. Output: False\nInput: A basis is boycotted the cactus. Output: False\nInput: A doctor is liked the patient. Output: False\nInput: The report is lying. Output: True\nInput: The pedestrian is questioned the driver. Output: True\nInput: The pedestrian is discussing. Output: True\nInput: The face is harming. Output: True\nInput: A person is brought the senator. Output: False\n",
+            "target_question": "Input: The juice is rotted the beer. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 6
+        },
+        {
+            "exemplars": "Input: A muffin is shrank the pasta. Output: False\nInput: The boat is training. Output: True\nInput: The documentary is littering. Output: True\nInput: A essay is ate the report. Output: False\nInput: A foot is scanned the fungus. Output: False\nInput: The chicken is losing. Output: True\nInput: The goose is argued the hypothesis. Output: True\nInput: A rabbit is underwhelmed the hamster. Output: False\nInput: The goose is communicating. Output: True\nInput: The movie is kissing. Output: True\n",
+            "target_question": "Input: The floor is testified the room. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 6
+        },
+        {
+            "exemplars": "Input: The committee is responding. Output: True\nInput: The eggplant is hiring. Output: True\nInput: The donation is yawning. Output: True\nInput: The means is concurring. Output: True\nInput: A commentary is failed the cafe. Output: False\nInput: A mouse is blinked the nucleus. Output: False\nInput: The eggplant is sneezed the mushroom. Output: True\nInput: A woman is cried the book. Output: False\nInput: The face is harming. Output: True\nInput: A room is telephoned the tile. Output: False\n",
+            "target_question": "Input: The stimulus is cooperated the synopsis. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 6
+        },
+        {
+            "exemplars": "Input: A bread is profited the cake. Output: False\nInput: A ladder is nodded the window. Output: False\nInput: The alumnus is watching. Output: True\nInput: The cucumber is worrying. Output: True\nInput: A money is struggled the cash. Output: False\nInput: The computer is whispering. Output: True\nInput: The nose is astounded the face. Output: True\nInput: The nose is aiding. Output: True\nInput: A mushroom is yelled the pepper. Output: False\nInput: The diagnosis is changing. Output: True\n",
+            "target_question": "Input: The coin is swallowed the check. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 6
+        },
+        {
+            "exemplars": "Input: A waitress is respected the customer. Output: False\nInput: The man is buying. Output: True\nInput: A spinach is coughed the tomato. Output: False\nInput: A alumnus is upset the analysis. Output: False\nInput: The mushroom is firing. Output: True\nInput: The dish is shocking. Output: True\nInput: The spinach is benefited the tomato. Output: True\nInput: A car is impressed the dog. Output: False\nInput: The couch is worrying. Output: True\nInput: The spinach is descending. Output: True\n",
+            "target_question": "Input: The dog is harmed the cat. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 6
+        },
+        {
+            "exemplars": "Input: The goose is communicating. Output: True\nInput: A louse is argued the man. Output: False\nInput: The medium is conferring. Output: True\nInput: The truck is succeeding. Output: True\nInput: A nose is alarmed the face. Output: False\nInput: A unicycle is saluted the skateboard. Output: False\nInput: The medium is boasted the mouse. Output: True\nInput: The woman is purchasing. Output: True\nInput: The teacher is criticizing. Output: True\nInput: A hair is aggravated the nose. Output: False\n",
+            "target_question": "Input: The diagnosis is passed the ellipsis. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 6
+        },
+        {
+            "exemplars": "Input: The banana is seeing. Output: True\nInput: A pasta is suffered the pie. Output: False\nInput: The woman is forfeiting. Output: True\nInput: A pamphlet is debated the brochure. Output: False\nInput: The blouse is aggravating. Output: True\nInput: A cucumber is won the eggplant. Output: False\nInput: The banana is whispered the broccoli. Output: True\nInput: The cat is exiting. Output: True\nInput: The fish is breaking. Output: True\nInput: A ellipsis is observed the fish. Output: False\n",
+            "target_question": "Input: The brochure is donated the play. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 6
+        },
+        {
+            "exemplars": "Input: The goose is communicating. Output: True\nInput: A snake is overwhelmed the rabbit. Output: False\nInput: The phenomenon is disagreeing. Output: True\nInput: The cafe is marrying. Output: True\nInput: The cat is exiting. Output: True\nInput: The child is baking. Output: True\nInput: The child is investigated the crisis. Output: True\nInput: A series is compromised the sheep. Output: False\nInput: A ship is shrugged the canoe. Output: False\nInput: A wine is broke the milk. Output: False\n",
+            "target_question": "Input: The radius is concurred the series. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 6
+        },
+        {
+            "exemplars": "Input: A donation is swallowed the floor. Output: False\nInput: A restaurant is interacted the museum. Output: False\nInput: The spotlight is falling. Output: True\nInput: The beef is exposing. Output: True\nInput: The muffin is fixing. Output: True\nInput: A cake is approved the casserole. Output: False\nInput: The waitress is remembered the customer. Output: True\nInput: The waitress is appreciating. Output: True\nInput: A wine is broke the milk. Output: False\nInput: The fungus is collaborating. Output: True\n",
+            "target_question": "Input: The hospital is grinned the bank. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 6
+        },
+        {
+            "exemplars": "Input: A glove is attacked the scarf. Output: False\nInput: A canoe is sighed the raft. Output: False\nInput: The vase is shouting. Output: True\nInput: A crisis is explored the deer. Output: False\nInput: The cactus is assembling. Output: True\nInput: The car is boycotting. Output: True\nInput: The nucleus is chatted the oasis. Output: True\nInput: The hat is astounding. Output: True\nInput: The nucleus is cooking. Output: True\nInput: A cafe is fought the hospital. Output: False\n",
+            "target_question": "Input: The coffee is ripened the juice. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 6
+        },
+        {
+            "exemplars": "Input: The deer is boasting. Output: True\nInput: A ellipsis is observed the fish. Output: False\nInput: The ox is crying. Output: True\nInput: A man is arose the means. Output: False\nInput: The guy is lifting. Output: True\nInput: The cash is yelling. Output: True\nInput: The ox is communicated the paralysis. Output: True\nInput: The skateboard is talking. Output: True\nInput: A boat is shouted the ship. Output: False\nInput: A pamphlet is debated the brochure. Output: False\n",
+            "target_question": "Input: The fish is suffered the muffin. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 6
+        },
+        {
+            "exemplars": "Input: The ship is washing. Output: True\nInput: The customer is attacking. Output: True\nInput: The waitress is appreciating. Output: True\nInput: The hypothesis is competing. Output: True\nInput: A parenthesis is communicated the phenomenon. Output: False\nInput: The vase is shouting. Output: True\nInput: The hypothesis is arose the louse. Output: True\nInput: A teacher is forgot the student. Output: False\nInput: A cashier is remembered the teacher. Output: False\nInput: A ladder is nodded the window. Output: False\n",
+            "target_question": "Input: The rug is hindered the car. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 6
+        },
+        {
+            "exemplars": "Input: The book is grinning. Output: True\nInput: The octopus is coping. Output: True\nInput: A nose is alarmed the face. Output: False\nInput: The tea is coming. Output: True\nInput: A car is impressed the dog. Output: False\nInput: A fork is bothered the glass. Output: False\nInput: The book is disagreed the pamphlet. Output: True\nInput: A ox is clashed the paralysis. Output: False\nInput: The student is referencing. Output: True\nInput: The sweater is impressing. Output: True\n",
+            "target_question": "Input: The cash is surrendered the coin. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 6
+        },
+        {
+            "exemplars": "Input: A pie is worried the pork. Output: False\nInput: The synthesis is failing. Output: True\nInput: The skateboard is talking. Output: True\nInput: A tooth is corresponded the woman. Output: False\nInput: The shawl is disgusting. Output: True\nInput: A dress is hugged the hat. Output: False\nInput: The company is reacting. Output: True\nInput: The skateboard is shouted the wheelbarrow. Output: True\nInput: A shoe is described the skirt. Output: False\nInput: The mall is nodding. Output: True\n",
+            "target_question": "Input: The teacher is helped the student. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 7
+        },
+        {
+            "exemplars": "Input: The ox is crying. Output: True\nInput: The waiter is visiting. Output: True\nInput: The cactus is assembling. Output: True\nInput: The play is interacting. Output: True\nInput: A story is drank the essay. Output: False\nInput: The beef is exposing. Output: True\nInput: A mountain is murmured the hill. Output: False\nInput: The waiter is disliked the waitress. Output: True\nInput: A cake is approved the casserole. Output: False\nInput: A senator is saw the doctor. Output: False\n",
+            "target_question": "Input: The mushroom is coughed the pepper. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 7
+        },
+        {
+            "exemplars": "Input: The sweater is impressing. Output: True\nInput: The milk is liquefying. Output: True\nInput: A soda is destroyed the tea. Output: False\nInput: A snake is overwhelmed the rabbit. Output: False\nInput: The cat is exiting. Output: True\nInput: The association is replying. Output: True\nInput: A screen is stretched the money. Output: False\nInput: The sweater is alarmed the hair. Output: True\nInput: A rice is fired the steak. Output: False\nInput: The window is screaming. Output: True\n",
+            "target_question": "Input: The steak is revealed the candle. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 7
+        },
+        {
+            "exemplars": "Input: A actress is hated the waiter. Output: False\nInput: A pie is worried the pork. Output: False\nInput: The muffin is fixing. Output: True\nInput: The cup is overwhelming. Output: True\nInput: The patient is questioning. Output: True\nInput: The student is referencing. Output: True\nInput: The blouse is aggravating. Output: True\nInput: The student is noticed the guest. Output: True\nInput: A cafe is fought the hospital. Output: False\nInput: A pasta is suffered the pie. Output: False\n",
+            "target_question": "Input: The money is succeeded the cash. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 7
+        },
+        {
+            "exemplars": "Input: The hill is reuniting. Output: True\nInput: The ellipsis is chatting. Output: True\nInput: The plate is underwhelming. Output: True\nInput: A woman is cleaned the lady. Output: False\nInput: A ship is shrugged the canoe. Output: False\nInput: The girl is cleaning. Output: True\nInput: The shawl is disgusting. Output: True\nInput: The plate is confused the fork. Output: True\nInput: A convertible is reacted the carriage. Output: False\nInput: A shoe is described the skirt. Output: False\n",
+            "target_question": "Input: The organization is met the association. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 7
+        },
+        {
+            "exemplars": "Input: The child is bringing. Output: True\nInput: A government is learned the legislature. Output: False\nInput: The mirror is shrugging. Output: True\nInput: A bicycle is protested the convertible. Output: False\nInput: The mountain is retaliating. Output: True\nInput: The museum is performing. Output: True\nInput: A sweater is resembled the hair. Output: False\nInput: The child is took the teenager. Output: True\nInput: A crisis is explored the deer. Output: False\nInput: The patient is questioning. Output: True\n",
+            "target_question": "Input: The scarf is referenced the shawl. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 7
+        },
+        {
+            "exemplars": "Input: A shawl is criticized the shirt. Output: False\nInput: The glove is bothering. Output: True\nInput: A broccoli is wept the cilantro. Output: False\nInput: A child is exited the crisis. Output: False\nInput: The child is baking. Output: True\nInput: The basis is arising. Output: True\nInput: The milk is liquefying. Output: True\nInput: The milk is destroyed the beer. Output: True\nInput: The paralysis is dating. Output: True\nInput: A goose is watched the hypothesis. Output: False\n",
+            "target_question": "Input: The coat is visited the dress. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 7
+        },
+        {
+            "exemplars": "Input: A analysis is worried the axis. Output: False\nInput: A phenomenon is competed the radius. Output: False\nInput: The paralysis is dating. Output: True\nInput: The association is replying. Output: True\nInput: A shirt is referenced the shoe. Output: False\nInput: The rabbit is leaving. Output: True\nInput: A pie is worried the pork. Output: False\nInput: The rabbit is scared the hamster. Output: True\nInput: The scarf is confusing. Output: True\nInput: The boy is wearing. Output: True\n",
+            "target_question": "Input: The organization is met the association. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 7
+        },
+        {
+            "exemplars": "Input: The screen is winning. Output: True\nInput: A cash is studied the coin. Output: False\nInput: A plate is bored the fork. Output: False\nInput: The actress is hugging. Output: True\nInput: The chair is upsetting. Output: True\nInput: The brochure is hunting. Output: True\nInput: The bicycle is singing. Output: True\nInput: The chair is hurt the couch. Output: True\nInput: A waitress is respected the customer. Output: False\nInput: A library is grinned the school. Output: False\n",
+            "target_question": "Input: The wheelbarrow is shrugged the boat. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 7
+        },
+        {
+            "exemplars": "Input: A glove is attacked the scarf. Output: False\nInput: The ladder is scratching. Output: True\nInput: The blouse is aggravating. Output: True\nInput: The cilantro is suffering. Output: True\nInput: A dress is hugged the hat. Output: False\nInput: A goose is watched the hypothesis. Output: False\nInput: A customer is disliked the cashier. Output: False\nInput: The radius is concurred the series. Output: True\nInput: The radius is divorcing. Output: True\nInput: The waiter is visiting. Output: True\n",
+            "target_question": "Input: The paralysis is competed the parenthesis. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 7
+        },
+        {
+            "exemplars": "Input: The guy is lifting. Output: True\nInput: The hospital is meeting. Output: True\nInput: A projector is concealed the screen. Output: False\nInput: The customer is attacking. Output: True\nInput: A library is grinned the school. Output: False\nInput: A guy is purchased the dancer. Output: False\nInput: A apple is washed the banana. Output: False\nInput: The dress is appreciated the hat. Output: True\nInput: The dress is annoying. Output: True\nInput: The lamp is rotting. Output: True\n",
+            "target_question": "Input: The essay is exercised the report. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 7
+        },
+        {
+            "exemplars": "Input: A ellipsis is observed the fish. Output: False\nInput: The guy is lifting. Output: True\nInput: A legislature is lied the company. Output: False\nInput: The school is negotiating. Output: True\nInput: A actor is loved the actress. Output: False\nInput: The deer is boasting. Output: True\nInput: The sweater is impressing. Output: True\nInput: The guy is lifted the dancer. Output: True\nInput: The muffin is fixing. Output: True\nInput: A pie is worried the pork. Output: False\n",
+            "target_question": "Input: The fish is toured the foot. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 7
+        },
+        {
+            "exemplars": "Input: The child is bringing. Output: True\nInput: A museum is kissed the university. Output: False\nInput: A legislature is lied the company. Output: False\nInput: The water is freezing. Output: True\nInput: The skirt is embarrassing. Output: True\nInput: A raft is sang the computer. Output: False\nInput: The muffin is fixing. Output: True\nInput: The child is took the teenager. Output: True\nInput: The mall is nodding. Output: True\nInput: A milk is fixed the beer. Output: False\n",
+            "target_question": "Input: The cucumber is yelled the eggplant. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 7
+        },
+        {
+            "exemplars": "Input: The banana is seeing. Output: True\nInput: The parenthesis is debating. Output: True\nInput: A cilantro is whispered the cucumber. Output: False\nInput: A library is grinned the school. Output: False\nInput: The raft is weeping. Output: True\nInput: The broccoli is shrinking. Output: True\nInput: A lady is bought the guy. Output: False\nInput: The bread is cheered the cake. Output: True\nInput: The bread is concealing. Output: True\nInput: A screen is stretched the money. Output: False\n",
+            "target_question": "Input: The ox is communicated the paralysis. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 7
+        },
+        {
+            "exemplars": "Input: A paralysis is collaborated the parenthesis. Output: False\nInput: The offspring is corresponding. Output: True\nInput: The doctor is discovering. Output: True\nInput: A horse is shocked the turtle. Output: False\nInput: The report is lying. Output: True\nInput: A commentary is failed the cafe. Output: False\nInput: A broccoli is wept the cilantro. Output: False\nInput: The vase is practiced the mirror. Output: True\nInput: The dress is annoying. Output: True\nInput: The vase is shouting. Output: True\n",
+            "target_question": "Input: The crisis is left the deer. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 7
+        },
+        {
+            "exemplars": "Input: The government is practicing. Output: True\nInput: The soda is leaving. Output: True\nInput: A customer is disliked the cashier. Output: False\nInput: A coffee is cured the juice. Output: False\nInput: The guest is describing. Output: True\nInput: A coat is researched the dress. Output: False\nInput: A banana is waved the broccoli. Output: False\nInput: The government is littered the legislature. Output: True\nInput: The fish is chuckling. Output: True\nInput: The kitchen is cheering. Output: True\n",
+            "target_question": "Input: The carriage is responded the plane. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 7
+        },
+        {
+            "exemplars": "Input: A diagnosis is left the ellipsis. Output: False\nInput: The shawl is disgusting. Output: True\nInput: A school is hugged the mall. Output: False\nInput: The coat is alarming. Output: True\nInput: The bank is murmuring. Output: True\nInput: The thesis is fighting. Output: True\nInput: The cucumber is worrying. Output: True\nInput: The thesis is cried the tooth. Output: True\nInput: A mushroom is yelled the pepper. Output: False\nInput: A fish is saw the muffin. Output: False\n",
+            "target_question": "Input: The child is took the teenager. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 7
+        },
+        {
+            "exemplars": "Input: The university is playing. Output: True\nInput: The hypothesis is competing. Output: True\nInput: The cake is hiding. Output: True\nInput: The car is sighing. Output: True\nInput: The truck is succeeding. Output: True\nInput: A customer is disliked the cashier. Output: False\nInput: A man is arose the means. Output: False\nInput: The cake is died the casserole. Output: True\nInput: A legislature is lied the company. Output: False\nInput: A waitress is respected the customer. Output: False\n",
+            "target_question": "Input: The actor is knew the actress. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 7
+        },
+        {
+            "exemplars": "Input: A donation is swallowed the floor. Output: False\nInput: The convertible is smiling. Output: True\nInput: The coin is sneezing. Output: True\nInput: The window is screaming. Output: True\nInput: The mushroom is firing. Output: True\nInput: A skirt is discussed the sock. Output: False\nInput: A spinach is coughed the tomato. Output: False\nInput: The window is played the vase. Output: True\nInput: A hamster is irritated the fish. Output: False\nInput: The mouse is conspiring. Output: True\n",
+            "target_question": "Input: The child is investigated the crisis. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 7
+        },
+        {
+            "exemplars": "Input: The cocktail is closing. Output: True\nInput: A snake is overwhelmed the rabbit. Output: False\nInput: The coffee is arriving. Output: True\nInput: The museum is performing. Output: True\nInput: The fish is chuckling. Output: True\nInput: A slope is negotiated the ladder. Output: False\nInput: The floor is benefiting. Output: True\nInput: The cocktail is hid the ice. Output: True\nInput: A tile is testified the kitchen. Output: False\nInput: A government is learned the legislature. Output: False\n",
+            "target_question": "Input: The tomato is profited the beef. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 7
+        },
+        {
+            "exemplars": "Input: The beer is shutting. Output: True\nInput: The story is laughing. Output: True\nInput: The series is donating. Output: True\nInput: A report is embraced the documentary. Output: False\nInput: A chair is disturbed the couch. Output: False\nInput: The shirt is distracting. Output: True\nInput: A hospital is flirted the bank. Output: False\nInput: A dancer is sold the child. Output: False\nInput: The beer is awakened the cocktail. Output: True\nInput: The commentary is losing. Output: True\n",
+            "target_question": "Input: The adult is saw the person. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 8
+        },
+        {
+            "exemplars": "Input: A pasta is suffered the pie. Output: False\nInput: The man is buying. Output: True\nInput: A hamster is irritated the fish. Output: False\nInput: The canoe is waving. Output: True\nInput: A computer is smiled the screen. Output: False\nInput: The story is laughing. Output: True\nInput: A beer is ripened the cocktail. Output: False\nInput: The parenthesis is debating. Output: True\nInput: The story is embraced the essay. Output: True\nInput: The snake is investigating. Output: True\n",
+            "target_question": "Input: The foot is watched the fungus. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 8
+        },
+        {
+            "exemplars": "Input: A truck is retaliated the bike. Output: False\nInput: The man is compromising. Output: True\nInput: The blouse is aggravating. Output: True\nInput: A adult is took the person. Output: False\nInput: A spinach is coughed the tomato. Output: False\nInput: A medium is baked the mouse. Output: False\nInput: The girl is cleaning. Output: True\nInput: The mushroom is firing. Output: True\nInput: The blouse is hugged the coat. Output: True\nInput: The fish is breaking. Output: True\n",
+            "target_question": "Input: The mall is kissed the restaurant. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 8
+        },
+        {
+            "exemplars": "Input: The tooth is flirting. Output: True\nInput: A blouse is questioned the coat. Output: False\nInput: The guy is lifting. Output: True\nInput: The rug is approaching. Output: True\nInput: A child is lifted the teenager. Output: False\nInput: A beer is ripened the cocktail. Output: False\nInput: A coat is researched the dress. Output: False\nInput: The convertible is smiling. Output: True\nInput: The convertible is replied the carriage. Output: True\nInput: The driver is insulting. Output: True\n",
+            "target_question": "Input: The steak is revealed the candle. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 8
+        },
+        {
+            "exemplars": "Input: The basis is arising. Output: True\nInput: A horse is shocked the turtle. Output: False\nInput: The oasis is cooperating. Output: True\nInput: The report is lying. Output: True\nInput: The beer is solidifying. Output: True\nInput: A offspring is chuckled the ox. Output: False\nInput: The hamster is observing. Output: True\nInput: A light is exposed the projector. Output: False\nInput: The report is failed the documentary. Output: True\nInput: A radius is complained the series. Output: False\n",
+            "target_question": "Input: The check is talked the donation. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 8
+        },
+        {
+            "exemplars": "Input: The banana is seeing. Output: True\nInput: A cilantro is whispered the cucumber. Output: False\nInput: A slope is negotiated the ladder. Output: False\nInput: A money is struggled the cash. Output: False\nInput: The snake is investigating. Output: True\nInput: The report is lying. Output: True\nInput: A raft is sang the computer. Output: False\nInput: The computer is whispering. Output: True\nInput: The snake is irritated the rabbit. Output: True\nInput: The spinach is descending. Output: True\n",
+            "target_question": "Input: The tea is cleaned the coffee. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 8
+        },
+        {
+            "exemplars": "Input: A lady is bought the guy. Output: False\nInput: A ship is shrugged the canoe. Output: False\nInput: A bicycle is protested the convertible. Output: False\nInput: The man is buying. Output: True\nInput: The documentary is littering. Output: True\nInput: A eggplant is wrote the mushroom. Output: False\nInput: The mirror is shrugging. Output: True\nInput: The tomato is revealing. Output: True\nInput: The documentary is fought the commentary. Output: True\nInput: The school is negotiating. Output: True\n",
+            "target_question": "Input: The fish is suffered the muffin. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 8
+        },
+        {
+            "exemplars": "Input: The hill is reuniting. Output: True\nInput: The goose is communicating. Output: True\nInput: A louse is argued the man. Output: False\nInput: The plate is underwhelming. Output: True\nInput: The diagnosis is changing. Output: True\nInput: A wine is broke the milk. Output: False\nInput: A essay is ate the report. Output: False\nInput: The tooth is flirting. Output: True\nInput: The plate is confused the fork. Output: True\nInput: A book is dated the pamphlet. Output: False\n",
+            "target_question": "Input: The hamster is shocked the fish. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 8
+        },
+        {
+            "exemplars": "Input: The plane is struggling. Output: True\nInput: A crisis is explored the deer. Output: False\nInput: A commentary is failed the cafe. Output: False\nInput: The analysis is answering. Output: True\nInput: A nucleus is boasted the oasis. Output: False\nInput: The report is lying. Output: True\nInput: The brochure is hunting. Output: True\nInput: A truck is retaliated the bike. Output: False\nInput: The mouse is changed the nucleus. Output: True\nInput: The mouse is conspiring. Output: True\n",
+            "target_question": "Input: The pepper is yawned the spinach. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 8
+        },
+        {
+            "exemplars": "Input: The beer is solidifying. Output: True\nInput: A broccoli is wept the cilantro. Output: False\nInput: The teacher is criticizing. Output: True\nInput: A guest is helped the pedestrian. Output: False\nInput: A oasis is changed the octopus. Output: False\nInput: The coffee is arriving. Output: True\nInput: The canoe is waving. Output: True\nInput: A man is arose the means. Output: False\nInput: The coffee is ripened the juice. Output: True\nInput: The apple is dying. Output: True\n",
+            "target_question": "Input: The paralysis is competed the parenthesis. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 8
+        },
+        {
+            "exemplars": "Input: The committee is responding. Output: True\nInput: A snake is overwhelmed the rabbit. Output: False\nInput: A steak is ascended the candle. Output: False\nInput: A tea is healed the coffee. Output: False\nInput: The screen is winning. Output: True\nInput: The pork is healing. Output: True\nInput: The actress is hugging. Output: True\nInput: A waitress is respected the customer. Output: False\nInput: The tile is washed the kitchen. Output: True\nInput: The tile is approving. Output: True\n",
+            "target_question": "Input: The louse is assembled the man. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 8
+        },
+        {
+            "exemplars": "Input: The thesis is fighting. Output: True\nInput: A jacket is appreciated the glove. Output: False\nInput: A cashier is remembered the teacher. Output: False\nInput: The school is negotiating. Output: True\nInput: The waitress is appreciating. Output: True\nInput: The teenager is admiring. Output: True\nInput: The dress is annoying. Output: True\nInput: A offspring is chuckled the ox. Output: False\nInput: The school is interacted the mall. Output: True\nInput: A company is littered the organization. Output: False\n",
+            "target_question": "Input: The parenthesis is complained the phenomenon. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 8
+        },
+        {
+            "exemplars": "Input: The jacket is boring. Output: True\nInput: The cocktail is closing. Output: True\nInput: A canoe is sighed the raft. Output: False\nInput: A scarf is praised the shawl. Output: False\nInput: A ship is shrugged the canoe. Output: False\nInput: The boat is training. Output: True\nInput: The basis is arising. Output: True\nInput: A lady is bought the guy. Output: False\nInput: The basis is exited the cactus. Output: True\nInput: The synopsis is exercising. Output: True\n",
+            "target_question": "Input: The fish is suffered the muffin. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 8
+        },
+        {
+            "exemplars": "Input: A cup is astounded the plate. Output: False\nInput: A teenager is had the adult. Output: False\nInput: The milk is liquefying. Output: True\nInput: A coat is researched the dress. Output: False\nInput: The dancer is taking. Output: True\nInput: A thesis is coped the tooth. Output: False\nInput: The kitchen is cheering. Output: True\nInput: The nose is aiding. Output: True\nInput: The milk is destroyed the beer. Output: True\nInput: The essay is learning. Output: True\n",
+            "target_question": "Input: The report is failed the documentary. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 8
+        },
+        {
+            "exemplars": "Input: A jacket is appreciated the glove. Output: False\nInput: The dress is annoying. Output: True\nInput: The ship is washing. Output: True\nInput: The coffee is arriving. Output: True\nInput: The check is coughing. Output: True\nInput: A chair is disturbed the couch. Output: False\nInput: The goose is communicating. Output: True\nInput: A beer is ripened the cocktail. Output: False\nInput: The ship is sang the canoe. Output: True\nInput: A apple is washed the banana. Output: False\n",
+            "target_question": "Input: The beef is approved the bread. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 8
+        },
+        {
+            "exemplars": "Input: The book is grinning. Output: True\nInput: The banana is seeing. Output: True\nInput: A skirt is discussed the sock. Output: False\nInput: The shirt is distracting. Output: True\nInput: A mountain is murmured the hill. Output: False\nInput: A broccoli is wept the cilantro. Output: False\nInput: The octopus is coping. Output: True\nInput: A rug is hurt the car. Output: False\nInput: The octopus is clashed the offspring. Output: True\nInput: The association is replying. Output: True\n",
+            "target_question": "Input: The doctor is loved the patient. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 8
+        },
+        {
+            "exemplars": "Input: The bicycle is singing. Output: True\nInput: The projector is hiding. Output: True\nInput: The child is baking. Output: True\nInput: A beer is repaired the soda. Output: False\nInput: The story is laughing. Output: True\nInput: A carriage is read the plane. Output: False\nInput: A adult is took the person. Output: False\nInput: The child is bringing. Output: True\nInput: The child is investigated the crisis. Output: True\nInput: A steak is ascended the candle. Output: False\n",
+            "target_question": "Input: The museum is learned the university. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 8
+        },
+        {
+            "exemplars": "Input: A parenthesis is communicated the phenomenon. Output: False\nInput: The means is concurring. Output: True\nInput: A lamp is revealed the light. Output: False\nInput: A nose is alarmed the face. Output: False\nInput: The actor is researching. Output: True\nInput: The beer is shutting. Output: True\nInput: The sweater is impressing. Output: True\nInput: A waiter is knew the waitress. Output: False\nInput: The customer is forgot the cashier. Output: True\nInput: The customer is attacking. Output: True\n",
+            "target_question": "Input: The pamphlet is divorced the brochure. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 8
+        },
+        {
+            "exemplars": "Input: The ox is crying. Output: True\nInput: The cake is hiding. Output: True\nInput: The thesis is fighting. Output: True\nInput: The banana is seeing. Output: True\nInput: A woman is cried the book. Output: False\nInput: A beer is repaired the soda. Output: False\nInput: A chicken is died the fish. Output: False\nInput: The fish is chuckling. Output: True\nInput: The ox is communicated the paralysis. Output: True\nInput: A slope is negotiated the ladder. Output: False\n",
+            "target_question": "Input: The truck is saluted the bike. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 8
+        },
+        {
+            "exemplars": "Input: The hypothesis is competing. Output: True\nInput: The ice is opening. Output: True\nInput: A blouse is questioned the coat. Output: False\nInput: The analysis is answering. Output: True\nInput: The pedestrian is discussing. Output: True\nInput: A ladder is nodded the window. Output: False\nInput: The banana is seeing. Output: True\nInput: A man is arose the means. Output: False\nInput: The ice is escaped the popsicle. Output: True\nInput: A car is practiced the bicycle. Output: False\n",
+            "target_question": "Input: The rug is hindered the car. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 8
+        },
+        {
+            "exemplars": "Input: The computer is whispering. Output: True\nInput: The turtle is touring. Output: True\nInput: The diagnosis is changing. Output: True\nInput: The deer is boasting. Output: True\nInput: The driver is insulting. Output: True\nInput: A fish is passed the foot. Output: False\nInput: A tomato is yawned the beef. Output: False\nInput: A wine is broke the milk. Output: False\nInput: A money is struggled the cash. Output: False\nInput: The turtle is worried the alumnus. Output: True\n",
+            "target_question": "Input: The shawl is described the shirt. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 9
+        },
+        {
+            "exemplars": "Input: A sock is insulted the sweater. Output: False\nInput: The shoe is disturbing. Output: True\nInput: A hair is aggravated the nose. Output: False\nInput: A projector is concealed the screen. Output: False\nInput: The tooth is flirting. Output: True\nInput: The eggplant is hiring. Output: True\nInput: The lamp is rotting. Output: True\nInput: The book is grinning. Output: True\nInput: A beer is repaired the soda. Output: False\nInput: The book is disagreed the pamphlet. Output: True\n",
+            "target_question": "Input: The horse is upset the turtle. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 9
+        },
+        {
+            "exemplars": "Input: The octopus is coping. Output: True\nInput: The tea is coming. Output: True\nInput: A juice is cleaned the beer. Output: False\nInput: A check is surrendered the donation. Output: False\nInput: The cup is overwhelming. Output: True\nInput: A documentary is exercised the commentary. Output: False\nInput: The museum is performing. Output: True\nInput: A plane is replied the cart. Output: False\nInput: The cash is yelling. Output: True\nInput: The octopus is clashed the offspring. Output: True\n",
+            "target_question": "Input: The coffee is ripened the juice. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 9
+        },
+        {
+            "exemplars": "Input: A association is married the committee. Output: False\nInput: The vase is shouting. Output: True\nInput: A raft is sang the computer. Output: False\nInput: The association is replying. Output: True\nInput: A book is dated the pamphlet. Output: False\nInput: The government is practicing. Output: True\nInput: The company is reacting. Output: True\nInput: A lake is escaped the river. Output: False\nInput: The tooth is flirting. Output: True\nInput: The association is murmured the committee. Output: True\n",
+            "target_question": "Input: The woman is debated the book. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 9
+        },
+        {
+            "exemplars": "Input: A analysis is worried the axis. Output: False\nInput: The pasta is repairing. Output: True\nInput: A popsicle is hid the lake. Output: False\nInput: A cash is studied the coin. Output: False\nInput: The shoe is disturbing. Output: True\nInput: The turtle is touring. Output: True\nInput: A story is drank the essay. Output: False\nInput: The screen is winning. Output: True\nInput: The cactus is assembling. Output: True\nInput: The pasta is hired the pie. Output: True\n",
+            "target_question": "Input: The means is blinked the medium. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 9
+        },
+        {
+            "exemplars": "Input: The dish is shocking. Output: True\nInput: A cucumber is won the eggplant. Output: False\nInput: A beer is ripened the cocktail. Output: False\nInput: A chair is disturbed the couch. Output: False\nInput: The hamster is observing. Output: True\nInput: The goose is communicating. Output: True\nInput: The deer is boasting. Output: True\nInput: The tooth is flirting. Output: True\nInput: A horse is shocked the turtle. Output: False\nInput: The tooth is dated the woman. Output: True\n",
+            "target_question": "Input: The student is noticed the guest. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 9
+        },
+        {
+            "exemplars": "Input: The chair is upsetting. Output: True\nInput: The cashier is praising. Output: True\nInput: The student is referencing. Output: True\nInput: A mountain is murmured the hill. Output: False\nInput: The nucleus is cooking. Output: True\nInput: A student is kissed the guest. Output: False\nInput: A tile is testified the kitchen. Output: False\nInput: A offspring is chuckled the ox. Output: False\nInput: The oasis is cooperating. Output: True\nInput: The chair is hurt the couch. Output: True\n",
+            "target_question": "Input: The series is conferred the sheep. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 9
+        },
+        {
+            "exemplars": "Input: The tea is coming. Output: True\nInput: The alumnus is watching. Output: True\nInput: A cilantro is whispered the cucumber. Output: False\nInput: A patient is admired the actor. Output: False\nInput: A wine is broke the milk. Output: False\nInput: The ship is washing. Output: True\nInput: The banana is seeing. Output: True\nInput: A axis is approached the basis. Output: False\nInput: The deer is boasting. Output: True\nInput: The ship is sang the canoe. Output: True\n",
+            "target_question": "Input: The commentary is flirted the cafe. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 9
+        },
+        {
+            "exemplars": "Input: A apple is washed the banana. Output: False\nInput: The mountain is retaliating. Output: True\nInput: A jacket is appreciated the glove. Output: False\nInput: A waiter is knew the waitress. Output: False\nInput: The dress is annoying. Output: True\nInput: The phenomenon is disagreeing. Output: True\nInput: The pedestrian is discussing. Output: True\nInput: A slope is negotiated the ladder. Output: False\nInput: The dish is shocking. Output: True\nInput: The dish is disturbed the book. Output: True\n",
+            "target_question": "Input: The rug is hindered the car. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 9
+        },
+        {
+            "exemplars": "Input: A waiter is knew the waitress. Output: False\nInput: A candle is descended the lamp. Output: False\nInput: The synthesis is failing. Output: True\nInput: A ox is clashed the paralysis. Output: False\nInput: The actor is researching. Output: True\nInput: The car is sighing. Output: True\nInput: The rice is curing. Output: True\nInput: A milk is fixed the beer. Output: False\nInput: The book is stunning. Output: True\nInput: The car is reacted the bicycle. Output: True\n",
+            "target_question": "Input: The dog is harmed the cat. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 9
+        },
+        {
+            "exemplars": "Input: The cake is hiding. Output: True\nInput: A chicken is died the fish. Output: False\nInput: The mall is nodding. Output: True\nInput: The guy is lifting. Output: True\nInput: A glove is attacked the scarf. Output: False\nInput: A floor is talked the room. Output: False\nInput: A book is dated the pamphlet. Output: False\nInput: The person is helping. Output: True\nInput: The hat is astounding. Output: True\nInput: The mall is kissed the restaurant. Output: True\n",
+            "target_question": "Input: The casserole is saw the chicken. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 9
+        },
+        {
+            "exemplars": "Input: A mirror is played the car. Output: False\nInput: The bike is surrendering. Output: True\nInput: A restaurant is interacted the museum. Output: False\nInput: The couch is worrying. Output: True\nInput: The school is negotiating. Output: True\nInput: The organization is reading. Output: True\nInput: The mirror is shrugging. Output: True\nInput: A raft is sang the computer. Output: False\nInput: A car is impressed the dog. Output: False\nInput: The organization is met the association. Output: True\n",
+            "target_question": "Input: The spinach is benefited the tomato. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 9
+        },
+        {
+            "exemplars": "Input: The glove is bothering. Output: True\nInput: A axis is approached the basis. Output: False\nInput: The rug is approaching. Output: True\nInput: The pie is destroying. Output: True\nInput: A offspring is chuckled the ox. Output: False\nInput: The oasis is cooperating. Output: True\nInput: A rug is hurt the car. Output: False\nInput: A alumnus is upset the analysis. Output: False\nInput: The alumnus is watching. Output: True\nInput: The pie is fired the pork. Output: True\n",
+            "target_question": "Input: The play is drank the movie. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 9
+        },
+        {
+            "exemplars": "Input: The waiter is visiting. Output: True\nInput: The woman is purchasing. Output: True\nInput: The parenthesis is debating. Output: True\nInput: The teenager is admiring. Output: True\nInput: A bird is harmed the snake. Output: False\nInput: The check is coughing. Output: True\nInput: A analysis is worried the axis. Output: False\nInput: A floor is talked the room. Output: False\nInput: A customer is disliked the cashier. Output: False\nInput: The teenager is brought the adult. Output: True\n",
+            "target_question": "Input: The book is embarrassed the chair. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 9
+        },
+        {
+            "exemplars": "Input: The eggplant is hiring. Output: True\nInput: A jacket is appreciated the glove. Output: False\nInput: A louse is argued the man. Output: False\nInput: A banana is waved the broccoli. Output: False\nInput: The spinach is descending. Output: True\nInput: The mouse is conspiring. Output: True\nInput: The kitchen is cheering. Output: True\nInput: The actor is researching. Output: True\nInput: A oasis is changed the octopus. Output: False\nInput: The eggplant is sneezed the mushroom. Output: True\n",
+            "target_question": "Input: The scarf is referenced the shawl. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 9
+        },
+        {
+            "exemplars": "Input: The hill is reuniting. Output: True\nInput: The guest is describing. Output: True\nInput: The horse is scanning. Output: True\nInput: The tomato is revealing. Output: True\nInput: A beef is benefited the bread. Output: False\nInput: A bank is forfeited the library. Output: False\nInput: The spinach is descending. Output: True\nInput: A vase is performed the mirror. Output: False\nInput: A driver is discovered the blouse. Output: False\nInput: The horse is upset the turtle. Output: True\n",
+            "target_question": "Input: The government is littered the legislature. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 9
+        },
+        {
+            "exemplars": "Input: The sweater is impressing. Output: True\nInput: A ice is awakened the popsicle. Output: False\nInput: A vase is performed the mirror. Output: False\nInput: The hamster is observing. Output: True\nInput: A car is practiced the bicycle. Output: False\nInput: The ladder is scratching. Output: True\nInput: The fish is breaking. Output: True\nInput: A patient is admired the actor. Output: False\nInput: The vase is shouting. Output: True\nInput: The fish is suffered the muffin. Output: True\n",
+            "target_question": "Input: The brochure is donated the play. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 9
+        },
+        {
+            "exemplars": "Input: A beef is benefited the bread. Output: False\nInput: The wine is melting. Output: True\nInput: The tomato is revealing. Output: True\nInput: The cart is studying. Output: True\nInput: The fish is breaking. Output: True\nInput: A couch is embarrassed the rug. Output: False\nInput: A fish is scared the horse. Output: False\nInput: The spinach is descending. Output: True\nInput: A beer is repaired the soda. Output: False\nInput: The cart is reunited the truck. Output: True\n",
+            "target_question": "Input: The plate is confused the fork. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 9
+        },
+        {
+            "exemplars": "Input: The oasis is cooperating. Output: True\nInput: The hospital is meeting. Output: True\nInput: A room is telephoned the tile. Output: False\nInput: A bread is profited the cake. Output: False\nInput: A bank is forfeited the library. Output: False\nInput: The mouse is conspiring. Output: True\nInput: The cafe is marrying. Output: True\nInput: The restaurant is painting. Output: True\nInput: A oasis is changed the octopus. Output: False\nInput: The restaurant is laughed the museum. Output: True\n",
+            "target_question": "Input: The cash is surrendered the coin. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 9
+        },
+        {
+            "exemplars": "Input: The jacket is boring. Output: True\nInput: A scarf is praised the shawl. Output: False\nInput: The rabbit is leaving. Output: True\nInput: A paralysis is collaborated the parenthesis. Output: False\nInput: A fork is bothered the glass. Output: False\nInput: The check is coughing. Output: True\nInput: A means is assembled the medium. Output: False\nInput: The offspring is corresponding. Output: True\nInput: The cashier is praising. Output: True\nInput: The rabbit is scared the hamster. Output: True\n",
+            "target_question": "Input: The truck is saluted the bike. Output:",
+            "target_answer": "True",
+            "foil_answer": "False",
+            "exemplar_index_for_diff": 9
+        }
+    ]
+}

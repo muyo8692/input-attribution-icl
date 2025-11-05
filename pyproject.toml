@@ -1,0 +1,39 @@
+[project]
+name = "input-attribution-acl2025"
+version = "0.1.0"
+description = "Official repository for the ACL 2025 paper 'Can Input Attributions Explain Inductive Reasoning in In-Context Learning?'"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "accelerate>=0.34.2",
+    "captum>=0.7.0",
+    "colormath>=3.0.0",
+    "datasets>=3.1.0",
+    "fire>=0.7.0",
+    "gpustat>=1.1.1",
+    "huggingface-hub[cli]>=0.26.2",
+    "ipdb>=0.13.13",
+    "jsonlines>=4.0.0",
+    "kaleido==0.2.0",
+    "notebook>=7.2.2",
+    "pandas>=2.2.3",
+    "peft>=0.13.2",
+    "plotly>=5.24.1",
+    "polars>=1.15.0",
+    "python-dotenv>=1.0.1",
+    "python-levenshtein>=0.26.0",
+    "rich>=13.9.4",
+    "scipy>=1.14.1",
+    "seaborn>=0.13.2",
+    "torch>=2.4.1",
+    "tqdm>=4.66.4",
+    "transformers==4.44.2",
+    "wandb>=0.18.7",
+    "numpy>=1.26",
+]
+
+[project.optional-dependencies]
+dev = [
+    "ruff>=0.6.1",
+    "vulture>=2.14",
+]

@@ -1,0 +1,1404 @@
+{
+    "tasks": [
+        {
+            "exemplars": "Input: saw, 2, Output: saw, 4\nInput: start, 2, Output: start, 4\nInput: the, 2, Output: the, 4\nInput: too, 2, Output: too, 4\nInput: round, 2, Output: round, 4\nInput: which, 1, Output: which, 2\nInput: work, 2, Output: work, 4\nInput: get, 2, Output: get, 4\nInput: that, 2, Output: that, 4\nInput: white, 2, Output: white, 4\n",
+            "target_question": "Input: I, 3, Output:",
+            "target_answer": "I, 6",
+            "foil_answer": "I, 5",
+            "exemplar_index_for_diff": 5
+        },
+        {
+            "exemplars": "Input: to, 2, Output: to, 4\nInput: cold, 2, Output: cold, 4\nInput: in, 2, Output: in, 4\nInput: pull, 2, Output: pull, 4\nInput: get, 2, Output: get, 4\nInput: old, 2, Output: old, 4\nInput: my, 4, Output: my, 8\nInput: here, 2, Output: here, 4\nInput: will, 2, Output: will, 4\nInput: she, 2, Output: she, 4\n",
+            "target_question": "Input: said, 3, Output:",
+            "target_answer": "said, 6",
+            "foil_answer": "said, 5",
+            "exemplar_index_for_diff": 6
+        },
+        {
+            "exemplars": "Input: seven, 3, Output: seven, 6\nInput: at, 3, Output: at, 6\nInput: me, 3, Output: me, 6\nInput: yes, 4, Output: yes, 8\nInput: are, 3, Output: are, 6\nInput: saw, 3, Output: saw, 6\nInput: for, 3, Output: for, 6\nInput: by, 3, Output: by, 6\nInput: ten, 3, Output: ten, 6\nInput: fly, 3, Output: fly, 6\n",
+            "target_question": "Input: of, 1, Output:",
+            "target_answer": "of, 2",
+            "foil_answer": "of, 4",
+            "exemplar_index_for_diff": 3
+        },
+        {
+            "exemplars": "Input: she, 2, Output: she, 4\nInput: that, 2, Output: that, 4\nInput: carry, 2, Output: carry, 4\nInput: pick, 2, Output: pick, 4\nInput: work, 2, Output: work, 4\nInput: where, 2, Output: where, 4\nInput: ten, 2, Output: ten, 4\nInput: new, 1, Output: new, 2\nInput: eight, 2, Output: eight, 4\nInput: and, 2, Output: and, 4\n",
+            "target_question": "Input: after, 4, Output:",
+            "target_answer": "after, 8",
+            "foil_answer": "after, 6",
+            "exemplar_index_for_diff": 7
+        },
+        {
+            "exemplars": "Input: them, 2, Output: them, 4\nInput: for, 3, Output: for, 6\nInput: think, 2, Output: think, 4\nInput: use, 2, Output: use, 4\nInput: in, 2, Output: in, 4\nInput: never, 2, Output: never, 4\nInput: round, 2, Output: round, 4\nInput: got, 2, Output: got, 4\nInput: his, 2, Output: his, 4\nInput: said, 2, Output: said, 4\n",
+            "target_question": "Input: both, 1, Output:",
+            "target_answer": "both, 2",
+            "foil_answer": "both, 3",
+            "exemplar_index_for_diff": 1
+        },
+        {
+            "exemplars": "Input: today, 2, Output: today, 4\nInput: yes, 2, Output: yes, 4\nInput: new, 2, Output: new, 4\nInput: their, 2, Output: their, 4\nInput: fall, 2, Output: fall, 4\nInput: went, 2, Output: went, 4\nInput: green, 2, Output: green, 4\nInput: but, 4, Output: but, 8\nInput: every, 2, Output: every, 4\nInput: take, 2, Output: take, 4\n",
+            "target_question": "Input: cut, 3, Output:",
+            "target_answer": "cut, 6",
+            "foil_answer": "cut, 5",
+            "exemplar_index_for_diff": 7
+        },
+        {
+            "exemplars": "Input: got, 4, Output: got, 8\nInput: much, 4, Output: much, 8\nInput: away, 4, Output: away, 8\nInput: call, 4, Output: call, 8\nInput: his, 4, Output: his, 8\nInput: eight, 4, Output: eight, 8\nInput: she, 4, Output: she, 8\nInput: so, 3, Output: so, 6\nInput: black, 4, Output: black, 8\nInput: the, 4, Output: the, 8\n",
+            "target_question": "Input: yes, 2, Output:",
+            "target_answer": "yes, 4",
+            "foil_answer": "yes, 6",
+            "exemplar_index_for_diff": 7
+        },
+        {
+            "exemplars": "Input: pick, 2, Output: pick, 4\nInput: where, 2, Output: where, 4\nInput: said, 4, Output: said, 8\nInput: will, 2, Output: will, 4\nInput: pretty, 2, Output: pretty, 4\nInput: after, 2, Output: after, 4\nInput: myself, 2, Output: myself, 4\nInput: in, 2, Output: in, 4\nInput: black, 2, Output: black, 4\nInput: away, 2, Output: away, 4\n",
+            "target_question": "Input: ran, 3, Output:",
+            "target_answer": "ran, 6",
+            "foil_answer": "ran, 5",
+            "exemplar_index_for_diff": 2
+        },
+        {
+            "exemplars": "Input: them, 4, Output: them, 8\nInput: like, 4, Output: like, 8\nInput: say, 4, Output: say, 8\nInput: done, 4, Output: done, 8\nInput: too, 4, Output: too, 8\nInput: those, 4, Output: those, 8\nInput: got, 4, Output: got, 8\nInput: he, 1, Output: he, 2\nInput: fast, 4, Output: fast, 8\nInput: his, 4, Output: his, 8\n",
+            "target_question": "Input: in, 2, Output:",
+            "target_answer": "in, 4",
+            "foil_answer": "in, 6",
+            "exemplar_index_for_diff": 7
+        },
+        {
+            "exemplars": "Input: here, 4, Output: here, 8\nInput: does, 4, Output: does, 8\nInput: would, 4, Output: would, 8\nInput: not, 4, Output: not, 8\nInput: never, 4, Output: never, 8\nInput: had, 4, Output: had, 8\nInput: for, 4, Output: for, 8\nInput: keep, 4, Output: keep, 8\nInput: give, 2, Output: give, 4\nInput: by, 4, Output: by, 8\n",
+            "target_question": "Input: jump, 3, Output:",
+            "target_answer": "jump, 6",
+            "foil_answer": "jump, 7",
+            "exemplar_index_for_diff": 8
+        },
+        {
+            "exemplars": "Input: a, 2, Output: a, 4\nInput: one, 2, Output: one, 4\nInput: will, 4, Output: will, 8\nInput: away, 2, Output: away, 4\nInput: jump, 2, Output: jump, 4\nInput: must, 2, Output: must, 4\nInput: here, 2, Output: here, 4\nInput: them, 2, Output: them, 4\nInput: are, 2, Output: are, 4\nInput: keep, 2, Output: keep, 4\n",
+            "target_question": "Input: to, 3, Output:",
+            "target_answer": "to, 6",
+            "foil_answer": "to, 5",
+            "exemplar_index_for_diff": 2
+        },
+        {
+            "exemplars": "Input: by, 2, Output: by, 4\nInput: carry, 2, Output: carry, 4\nInput: a, 2, Output: a, 4\nInput: does, 2, Output: does, 4\nInput: did, 2, Output: did, 4\nInput: under, 2, Output: under, 4\nInput: in, 2, Output: in, 4\nInput: ten, 2, Output: ten, 4\nInput: you, 3, Output: you, 6\nInput: the, 2, Output: the, 4\n",
+            "target_question": "Input: read, 1, Output:",
+            "target_answer": "read, 2",
+            "foil_answer": "read, 3",
+            "exemplar_index_for_diff": 8
+        },
+        {
+            "exemplars": "Input: did, 2, Output: did, 4\nInput: and, 2, Output: and, 4\nInput: keep, 2, Output: keep, 4\nInput: for, 2, Output: for, 4\nInput: call, 2, Output: call, 4\nInput: which, 2, Output: which, 4\nInput: so, 2, Output: so, 4\nInput: their, 2, Output: their, 4\nInput: of, 3, Output: of, 6\nInput: think, 2, Output: think, 4\n",
+            "target_question": "Input: him, 1, Output:",
+            "target_answer": "him, 2",
+            "foil_answer": "him, 3",
+            "exemplar_index_for_diff": 8
+        },
+        {
+            "exemplars": "Input: new, 3, Output: new, 6\nInput: try, 3, Output: try, 6\nInput: think, 3, Output: think, 6\nInput: which, 1, Output: which, 2\nInput: must, 3, Output: must, 6\nInput: their, 3, Output: their, 6\nInput: read, 3, Output: read, 6\nInput: keep, 3, Output: keep, 6\nInput: old, 3, Output: old, 6\nInput: fly, 3, Output: fly, 6\n",
+            "target_question": "Input: had, 2, Output:",
+            "target_answer": "had, 4",
+            "foil_answer": "had, 5",
+            "exemplar_index_for_diff": 3
+        },
+        {
+            "exemplars": "Input: now, 3, Output: now, 6\nInput: myself, 3, Output: myself, 6\nInput: get, 3, Output: get, 6\nInput: of, 3, Output: of, 6\nInput: saw, 3, Output: saw, 6\nInput: does, 3, Output: does, 6\nInput: think, 3, Output: think, 6\nInput: kind, 3, Output: kind, 6\nInput: not, 3, Output: not, 6\nInput: they, 1, Output: they, 2\n",
+            "target_question": "Input: full, 2, Output:",
+            "target_answer": "full, 4",
+            "foil_answer": "full, 5",
+            "exemplar_index_for_diff": 9
+        },
+        {
+            "exemplars": "Input: small, 1, Output: small, 2\nInput: round, 2, Output: round, 4\nInput: come, 2, Output: come, 4\nInput: tell, 2, Output: tell, 4\nInput: she, 2, Output: she, 4\nInput: what, 2, Output: what, 4\nInput: not, 2, Output: not, 4\nInput: went, 2, Output: went, 4\nInput: hurt, 2, Output: hurt, 4\nInput: much, 2, Output: much, 4\n",
+            "target_question": "Input: under, 4, Output:",
+            "target_answer": "under, 8",
+            "foil_answer": "under, 6",
+            "exemplar_index_for_diff": 0
+        },
+        {
+            "exemplars": "Input: black, 2, Output: black, 4\nInput: he, 2, Output: he, 4\nInput: myself, 2, Output: myself, 4\nInput: were, 2, Output: were, 4\nInput: will, 2, Output: will, 4\nInput: ran, 1, Output: ran, 2\nInput: that, 2, Output: that, 4\nInput: pull, 2, Output: pull, 4\nInput: like, 2, Output: like, 4\nInput: come, 2, Output: come, 4\n",
+            "target_question": "Input: here, 3, Output:",
+            "target_answer": "here, 6",
+            "foil_answer": "here, 5",
+            "exemplar_index_for_diff": 5
+        },
+        {
+            "exemplars": "Input: not, 3, Output: not, 6\nInput: must, 3, Output: must, 6\nInput: light, 3, Output: light, 6\nInput: said, 3, Output: said, 6\nInput: call, 3, Output: call, 6\nInput: my, 3, Output: my, 6\nInput: done, 3, Output: done, 6\nInput: by, 3, Output: by, 6\nInput: hurt, 3, Output: hurt, 6\nInput: pretty, 1, Output: pretty, 2\n",
+            "target_question": "Input: it, 2, Output:",
+            "target_answer": "it, 4",
+            "foil_answer": "it, 5",
+            "exemplar_index_for_diff": 9
+        },
+        {
+            "exemplars": "Input: that, 3, Output: that, 6\nInput: here, 3, Output: here, 6\nInput: give, 3, Output: give, 6\nInput: them, 1, Output: them, 2\nInput: where, 3, Output: where, 6\nInput: come, 3, Output: come, 6\nInput: old, 3, Output: old, 6\nInput: well, 3, Output: well, 6\nInput: read, 3, Output: read, 6\nInput: must, 3, Output: must, 6\n",
+            "target_question": "Input: but, 2, Output:",
+            "target_answer": "but, 4",
+            "foil_answer": "but, 5",
+            "exemplar_index_for_diff": 3
+        },
+        {
+            "exemplars": "Input: they, 3, Output: they, 6\nInput: he, 3, Output: he, 6\nInput: right, 3, Output: right, 6\nInput: yes, 4, Output: yes, 8\nInput: what, 3, Output: what, 6\nInput: hurt, 3, Output: hurt, 6\nInput: away, 3, Output: away, 6\nInput: done, 3, Output: done, 6\nInput: jump, 3, Output: jump, 6\nInput: so, 3, Output: so, 6\n",
+            "target_question": "Input: at, 1, Output:",
+            "target_answer": "at, 2",
+            "foil_answer": "at, 4",
+            "exemplar_index_for_diff": 3
+        },
+        {
+            "exemplars": "Input: after, 3, Output: after, 6\nInput: so, 3, Output: so, 6\nInput: which, 4, Output: which, 8\nInput: keep, 3, Output: keep, 6\nInput: to, 3, Output: to, 6\nInput: was, 3, Output: was, 6\nInput: kind, 3, Output: kind, 6\nInput: both, 3, Output: both, 6\nInput: under, 3, Output: under, 6\nInput: would, 3, Output: would, 6\n",
+            "target_question": "Input: a, 1, Output:",
+            "target_answer": "a, 2",
+            "foil_answer": "a, 4",
+            "exemplar_index_for_diff": 2
+        },
+        {
+            "exemplars": "Input: tell, 2, Output: tell, 4\nInput: went, 2, Output: went, 4\nInput: myself, 2, Output: myself, 4\nInput: one, 2, Output: one, 4\nInput: are, 2, Output: are, 4\nInput: pull, 2, Output: pull, 4\nInput: him, 2, Output: him, 4\nInput: keep, 1, Output: keep, 2\nInput: this, 2, Output: this, 4\nInput: they, 2, Output: they, 4\n",
+            "target_question": "Input: come, 4, Output:",
+            "target_answer": "come, 8",
+            "foil_answer": "come, 6",
+            "exemplar_index_for_diff": 7
+        },
+        {
+            "exemplars": "Input: did, 1, Output: did, 2\nInput: sit, 1, Output: sit, 2\nInput: him, 1, Output: him, 2\nInput: that, 1, Output: that, 2\nInput: yes, 1, Output: yes, 2\nInput: here, 1, Output: here, 2\nInput: what, 2, Output: what, 4\nInput: fly, 1, Output: fly, 2\nInput: cut, 1, Output: cut, 2\nInput: had, 1, Output: had, 2\n",
+            "target_question": "Input: the, 4, Output:",
+            "target_answer": "the, 8",
+            "foil_answer": "the, 5",
+            "exemplar_index_for_diff": 6
+        },
+        {
+            "exemplars": "Input: are, 4, Output: are, 8\nInput: well, 4, Output: well, 8\nInput: too, 4, Output: too, 8\nInput: black, 4, Output: black, 8\nInput: must, 4, Output: must, 8\nInput: use, 4, Output: use, 8\nInput: went, 4, Output: went, 8\nInput: fly, 4, Output: fly, 8\nInput: first, 4, Output: first, 8\nInput: take, 1, Output: take, 2\n",
+            "target_question": "Input: on, 2, Output:",
+            "target_answer": "on, 4",
+            "foil_answer": "on, 6",
+            "exemplar_index_for_diff": 9
+        },
+        {
+            "exemplars": "Input: well, 2, Output: well, 4\nInput: so, 2, Output: so, 4\nInput: seven, 2, Output: seven, 4\nInput: to, 2, Output: to, 4\nInput: too, 2, Output: too, 4\nInput: tell, 2, Output: tell, 4\nInput: my, 2, Output: my, 4\nInput: see, 4, Output: see, 8\nInput: away, 2, Output: away, 4\nInput: she, 2, Output: she, 4\n",
+            "target_question": "Input: hurt, 3, Output:",
+            "target_answer": "hurt, 6",
+            "foil_answer": "hurt, 5",
+            "exemplar_index_for_diff": 7
+        },
+        {
+            "exemplars": "Input: would, 3, Output: would, 6\nInput: but, 3, Output: but, 6\nInput: start, 4, Output: start, 8\nInput: the, 3, Output: the, 6\nInput: too, 3, Output: too, 6\nInput: fall, 3, Output: fall, 6\nInput: take, 3, Output: take, 6\nInput: them, 3, Output: them, 6\nInput: now, 3, Output: now, 6\nInput: four, 3, Output: four, 6\n",
+            "target_question": "Input: at, 1, Output:",
+            "target_answer": "at, 2",
+            "foil_answer": "at, 4",
+            "exemplar_index_for_diff": 2
+        },
+        {
+            "exemplars": "Input: pick, 3, Output: pick, 6\nInput: fly, 3, Output: fly, 6\nInput: their, 3, Output: their, 6\nInput: said, 3, Output: said, 6\nInput: ten, 3, Output: ten, 6\nInput: now, 3, Output: now, 6\nInput: seven, 3, Output: seven, 6\nInput: his, 3, Output: his, 6\nInput: kind, 2, Output: kind, 4\nInput: this, 3, Output: this, 6\n",
+            "target_question": "Input: ran, 1, Output:",
+            "target_answer": "ran, 2",
+            "foil_answer": "ran, 4",
+            "exemplar_index_for_diff": 8
+        },
+        {
+            "exemplars": "Input: them, 1, Output: them, 2\nInput: not, 1, Output: not, 2\nInput: fly, 1, Output: fly, 2\nInput: I, 1, Output: I, 2\nInput: much, 1, Output: much, 2\nInput: and, 2, Output: and, 4\nInput: think, 1, Output: think, 2\nInput: she, 1, Output: she, 2\nInput: would, 1, Output: would, 2\nInput: ran, 1, Output: ran, 2\n",
+            "target_question": "Input: cold, 4, Output:",
+            "target_answer": "cold, 8",
+            "foil_answer": "cold, 5",
+            "exemplar_index_for_diff": 5
+        },
+        {
+            "exemplars": "Input: ran, 2, Output: ran, 4\nInput: seven, 3, Output: seven, 6\nInput: carry, 2, Output: carry, 4\nInput: use, 2, Output: use, 4\nInput: jump, 2, Output: jump, 4\nInput: much, 2, Output: much, 4\nInput: black, 2, Output: black, 4\nInput: me, 2, Output: me, 4\nInput: were, 2, Output: were, 4\nInput: it, 2, Output: it, 4\n",
+            "target_question": "Input: I, 1, Output:",
+            "target_answer": "I, 2",
+            "foil_answer": "I, 3",
+            "exemplar_index_for_diff": 1
+        },
+        {
+            "exemplars": "Input: green, 2, Output: green, 4\nInput: keep, 3, Output: keep, 6\nInput: eight, 3, Output: eight, 6\nInput: small, 3, Output: small, 6\nInput: seven, 3, Output: seven, 6\nInput: sit, 3, Output: sit, 6\nInput: this, 3, Output: this, 6\nInput: not, 3, Output: not, 6\nInput: me, 3, Output: me, 6\nInput: said, 3, Output: said, 6\n",
+            "target_question": "Input: use, 4, Output:",
+            "target_answer": "use, 8",
+            "foil_answer": "use, 7",
+            "exemplar_index_for_diff": 0
+        },
+        {
+            "exemplars": "Input: they, 2, Output: they, 4\nInput: which, 3, Output: which, 6\nInput: old, 2, Output: old, 4\nInput: them, 2, Output: them, 4\nInput: black, 2, Output: black, 4\nInput: tell, 2, Output: tell, 4\nInput: both, 2, Output: both, 4\nInput: round, 2, Output: round, 4\nInput: cut, 2, Output: cut, 4\nInput: me, 2, Output: me, 4\n",
+            "target_question": "Input: seven, 1, Output:",
+            "target_answer": "seven, 2",
+            "foil_answer": "seven, 3",
+            "exemplar_index_for_diff": 1
+        },
+        {
+            "exemplars": "Input: that, 2, Output: that, 4\nInput: keep, 2, Output: keep, 4\nInput: away, 2, Output: away, 4\nInput: eight, 3, Output: eight, 6\nInput: round, 2, Output: round, 4\nInput: read, 2, Output: read, 4\nInput: old, 2, Output: old, 4\nInput: today, 2, Output: today, 4\nInput: first, 2, Output: first, 4\nInput: them, 2, Output: them, 4\n",
+            "target_question": "Input: try, 4, Output:",
+            "target_answer": "try, 8",
+            "foil_answer": "try, 6",
+            "exemplar_index_for_diff": 3
+        },
+        {
+            "exemplars": "Input: the, 2, Output: the, 4\nInput: small, 2, Output: small, 4\nInput: seven, 2, Output: seven, 4\nInput: get, 2, Output: get, 4\nInput: are, 2, Output: are, 4\nInput: those, 4, Output: those, 8\nInput: will, 2, Output: will, 4\nInput: give, 2, Output: give, 4\nInput: had, 2, Output: had, 4\nInput: tell, 2, Output: tell, 4\n",
+            "target_question": "Input: green, 3, Output:",
+            "target_answer": "green, 6",
+            "foil_answer": "green, 5",
+            "exemplar_index_for_diff": 5
+        },
+        {
+            "exemplars": "Input: pull, 4, Output: pull, 8\nInput: so, 4, Output: so, 8\nInput: four, 4, Output: four, 8\nInput: fall, 4, Output: fall, 8\nInput: read, 4, Output: read, 8\nInput: never, 4, Output: never, 8\nInput: jump, 4, Output: jump, 8\nInput: cut, 3, Output: cut, 6\nInput: him, 4, Output: him, 8\nInput: not, 4, Output: not, 8\n",
+            "target_question": "Input: and, 2, Output:",
+            "target_answer": "and, 4",
+            "foil_answer": "and, 6",
+            "exemplar_index_for_diff": 7
+        },
+        {
+            "exemplars": "Input: tell, 2, Output: tell, 4\nInput: what, 2, Output: what, 4\nInput: in, 4, Output: in, 8\nInput: use, 2, Output: use, 4\nInput: must, 2, Output: must, 4\nInput: four, 2, Output: four, 4\nInput: kind, 2, Output: kind, 4\nInput: to, 2, Output: to, 4\nInput: light, 2, Output: light, 4\nInput: this, 2, Output: this, 4\n",
+            "target_question": "Input: fall, 3, Output:",
+            "target_answer": "fall, 6",
+            "foil_answer": "fall, 5",
+            "exemplar_index_for_diff": 2
+        },
+        {
+            "exemplars": "Input: like, 4, Output: like, 8\nInput: and, 4, Output: and, 8\nInput: so, 3, Output: so, 6\nInput: would, 4, Output: would, 8\nInput: here, 4, Output: here, 8\nInput: ran, 4, Output: ran, 8\nInput: use, 4, Output: use, 8\nInput: in, 4, Output: in, 8\nInput: but, 4, Output: but, 8\nInput: cold, 4, Output: cold, 8\n",
+            "target_question": "Input: big, 1, Output:",
+            "target_answer": "big, 2",
+            "foil_answer": "big, 5",
+            "exemplar_index_for_diff": 2
+        },
+        {
+            "exemplars": "Input: much, 2, Output: much, 4\nInput: done, 2, Output: done, 4\nInput: now, 2, Output: now, 4\nInput: and, 2, Output: and, 4\nInput: one, 3, Output: one, 6\nInput: me, 2, Output: me, 4\nInput: fast, 2, Output: fast, 4\nInput: hurt, 2, Output: hurt, 4\nInput: right, 2, Output: right, 4\nInput: try, 2, Output: try, 4\n",
+            "target_question": "Input: well, 4, Output:",
+            "target_answer": "well, 8",
+            "foil_answer": "well, 6",
+            "exemplar_index_for_diff": 4
+        },
+        {
+            "exemplars": "Input: too, 4, Output: too, 8\nInput: if, 4, Output: if, 8\nInput: full, 4, Output: full, 8\nInput: old, 4, Output: old, 8\nInput: keep, 4, Output: keep, 8\nInput: big, 4, Output: big, 8\nInput: try, 4, Output: try, 8\nInput: think, 4, Output: think, 8\nInput: it, 4, Output: it, 8\nInput: must, 1, Output: must, 2\n",
+            "target_question": "Input: get, 2, Output:",
+            "target_answer": "get, 4",
+            "foil_answer": "get, 6",
+            "exemplar_index_for_diff": 9
+        },
+        {
+            "exemplars": "Input: see, 2, Output: see, 4\nInput: first, 2, Output: first, 4\nInput: you, 4, Output: you, 8\nInput: under, 2, Output: under, 4\nInput: done, 2, Output: done, 4\nInput: ran, 2, Output: ran, 4\nInput: full, 2, Output: full, 4\nInput: those, 2, Output: those, 4\nInput: big, 2, Output: big, 4\nInput: today, 2, Output: today, 4\n",
+            "target_question": "Input: get, 3, Output:",
+            "target_answer": "get, 6",
+            "foil_answer": "get, 5",
+            "exemplar_index_for_diff": 2
+        },
+        {
+            "exemplars": "Input: had, 2, Output: had, 4\nInput: his, 3, Output: his, 6\nInput: carry, 2, Output: carry, 4\nInput: come, 2, Output: come, 4\nInput: now, 2, Output: now, 4\nInput: that, 2, Output: that, 4\nInput: he, 2, Output: he, 4\nInput: new, 2, Output: new, 4\nInput: for, 2, Output: for, 4\nInput: every, 2, Output: every, 4\n",
+            "target_question": "Input: my, 1, Output:",
+            "target_answer": "my, 2",
+            "foil_answer": "my, 3",
+            "exemplar_index_for_diff": 1
+        },
+        {
+            "exemplars": "Input: carry, 1, Output: carry, 2\nInput: which, 2, Output: which, 4\nInput: black, 1, Output: black, 2\nInput: he, 1, Output: he, 2\nInput: away, 1, Output: away, 2\nInput: think, 1, Output: think, 2\nInput: too, 1, Output: too, 2\nInput: ran, 1, Output: ran, 2\nInput: had, 1, Output: had, 2\nInput: went, 1, Output: went, 2\n",
+            "target_question": "Input: where, 3, Output:",
+            "target_answer": "where, 6",
+            "foil_answer": "where, 4",
+            "exemplar_index_for_diff": 1
+        },
+        {
+            "exemplars": "Input: ten, 2, Output: ten, 4\nInput: on, 2, Output: on, 4\nInput: full, 2, Output: full, 4\nInput: she, 2, Output: she, 4\nInput: in, 3, Output: in, 6\nInput: pull, 2, Output: pull, 4\nInput: their, 2, Output: their, 4\nInput: him, 2, Output: him, 4\nInput: too, 2, Output: too, 4\nInput: round, 2, Output: round, 4\n",
+            "target_question": "Input: pretty, 4, Output:",
+            "target_answer": "pretty, 8",
+            "foil_answer": "pretty, 6",
+            "exemplar_index_for_diff": 4
+        },
+        {
+            "exemplars": "Input: fast, 2, Output: fast, 4\nInput: to, 2, Output: to, 4\nInput: she, 2, Output: she, 4\nInput: small, 2, Output: small, 4\nInput: kind, 2, Output: kind, 4\nInput: does, 2, Output: does, 4\nInput: would, 4, Output: would, 8\nInput: was, 2, Output: was, 4\nInput: so, 2, Output: so, 4\nInput: put, 2, Output: put, 4\n",
+            "target_question": "Input: try, 3, Output:",
+            "target_answer": "try, 6",
+            "foil_answer": "try, 5",
+            "exemplar_index_for_diff": 6
+        },
+        {
+            "exemplars": "Input: give, 1, Output: give, 2\nInput: get, 2, Output: get, 4\nInput: today, 1, Output: today, 2\nInput: so, 1, Output: so, 2\nInput: had, 1, Output: had, 2\nInput: eight, 1, Output: eight, 2\nInput: work, 1, Output: work, 2\nInput: I, 1, Output: I, 2\nInput: away, 1, Output: away, 2\nInput: that, 1, Output: that, 2\n",
+            "target_question": "Input: their, 3, Output:",
+            "target_answer": "their, 6",
+            "foil_answer": "their, 4",
+            "exemplar_index_for_diff": 1
+        },
+        {
+            "exemplars": "Input: hurt, 1, Output: hurt, 2\nInput: pretty, 1, Output: pretty, 2\nInput: I, 1, Output: I, 2\nInput: were, 1, Output: were, 2\nInput: my, 1, Output: my, 2\nInput: sit, 2, Output: sit, 4\nInput: old, 1, Output: old, 2\nInput: it, 1, Output: it, 2\nInput: went, 1, Output: went, 2\nInput: get, 1, Output: get, 2\n",
+            "target_question": "Input: four, 3, Output:",
+            "target_answer": "four, 6",
+            "foil_answer": "four, 4",
+            "exemplar_index_for_diff": 5
+        },
+        {
+            "exemplars": "Input: fall, 1, Output: fall, 2\nInput: their, 2, Output: their, 4\nInput: I, 2, Output: I, 4\nInput: pull, 2, Output: pull, 4\nInput: him, 2, Output: him, 4\nInput: never, 2, Output: never, 4\nInput: you, 2, Output: you, 4\nInput: like, 2, Output: like, 4\nInput: light, 2, Output: light, 4\nInput: by, 2, Output: by, 4\n",
+            "target_question": "Input: tell, 4, Output:",
+            "target_answer": "tell, 8",
+            "foil_answer": "tell, 6",
+            "exemplar_index_for_diff": 0
+        },
+        {
+            "exemplars": "Input: come, 2, Output: come, 4\nInput: ten, 2, Output: ten, 4\nInput: work, 1, Output: work, 2\nInput: him, 2, Output: him, 4\nInput: much, 2, Output: much, 4\nInput: his, 2, Output: his, 4\nInput: what, 2, Output: what, 4\nInput: on, 2, Output: on, 4\nInput: are, 2, Output: are, 4\nInput: will, 2, Output: will, 4\n",
+            "target_question": "Input: right, 4, Output:",
+            "target_answer": "right, 8",
+            "foil_answer": "right, 6",
+            "exemplar_index_for_diff": 2
+        },
+        {
+            "exemplars": "Input: under, 3, Output: under, 6\nInput: did, 3, Output: did, 6\nInput: you, 3, Output: you, 6\nInput: today, 4, Output: today, 8\nInput: seven, 3, Output: seven, 6\nInput: must, 3, Output: must, 6\nInput: were, 3, Output: were, 6\nInput: first, 3, Output: first, 6\nInput: white, 3, Output: white, 6\nInput: what, 3, Output: what, 6\n",
+            "target_question": "Input: old, 1, Output:",
+            "target_answer": "old, 2",
+            "foil_answer": "old, 4",
+            "exemplar_index_for_diff": 3
+        },
+        {
+            "exemplars": "Input: work, 4, Output: work, 8\nInput: a, 4, Output: a, 8\nInput: for, 3, Output: for, 6\nInput: small, 4, Output: small, 8\nInput: that, 4, Output: that, 8\nInput: like, 4, Output: like, 8\nInput: if, 4, Output: if, 8\nInput: myself, 4, Output: myself, 8\nInput: now, 4, Output: now, 8\nInput: it, 4, Output: it, 8\n",
+            "target_question": "Input: had, 1, Output:",
+            "target_answer": "had, 2",
+            "foil_answer": "had, 5",
+            "exemplar_index_for_diff": 2
+        },
+        {
+            "exemplars": "Input: pick, 1, Output: pick, 2\nInput: read, 1, Output: read, 2\nInput: had, 1, Output: had, 2\nInput: me, 1, Output: me, 2\nInput: ran, 1, Output: ran, 2\nInput: think, 2, Output: think, 4\nInput: cold, 1, Output: cold, 2\nInput: the, 1, Output: the, 2\nInput: it, 1, Output: it, 2\nInput: start, 1, Output: start, 2\n",
+            "target_question": "Input: must, 3, Output:",
+            "target_answer": "must, 6",
+            "foil_answer": "must, 4",
+            "exemplar_index_for_diff": 5
+        },
+        {
+            "exemplars": "Input: pull, 3, Output: pull, 6\nInput: ran, 3, Output: ran, 6\nInput: hurt, 3, Output: hurt, 6\nInput: does, 3, Output: does, 6\nInput: pick, 3, Output: pick, 6\nInput: eight, 3, Output: eight, 6\nInput: where, 3, Output: where, 6\nInput: much, 3, Output: much, 6\nInput: my, 3, Output: my, 6\nInput: fly, 4, Output: fly, 8\n",
+            "target_question": "Input: first, 2, Output:",
+            "target_answer": "first, 4",
+            "foil_answer": "first, 5",
+            "exemplar_index_for_diff": 9
+        },
+        {
+            "exemplars": "Input: use, 4, Output: use, 8\nInput: get, 4, Output: get, 8\nInput: kind, 4, Output: kind, 8\nInput: said, 4, Output: said, 8\nInput: say, 4, Output: say, 8\nInput: she, 4, Output: she, 8\nInput: right, 4, Output: right, 8\nInput: round, 3, Output: round, 6\nInput: for, 4, Output: for, 8\nInput: him, 4, Output: him, 8\n",
+            "target_question": "Input: hurt, 2, Output:",
+            "target_answer": "hurt, 4",
+            "foil_answer": "hurt, 6",
+            "exemplar_index_for_diff": 7
+        },
+        {
+            "exemplars": "Input: today, 3, Output: today, 6\nInput: did, 3, Output: did, 6\nInput: small, 3, Output: small, 6\nInput: first, 3, Output: first, 6\nInput: well, 3, Output: well, 6\nInput: were, 3, Output: were, 6\nInput: so, 3, Output: so, 6\nInput: done, 3, Output: done, 6\nInput: big, 3, Output: big, 6\nInput: light, 4, Output: light, 8\n",
+            "target_question": "Input: work, 2, Output:",
+            "target_answer": "work, 4",
+            "foil_answer": "work, 5",
+            "exemplar_index_for_diff": 9
+        },
+        {
+            "exemplars": "Input: much, 1, Output: much, 2\nInput: try, 2, Output: try, 4\nInput: a, 2, Output: a, 4\nInput: give, 2, Output: give, 4\nInput: it, 2, Output: it, 4\nInput: too, 2, Output: too, 4\nInput: fly, 2, Output: fly, 4\nInput: must, 2, Output: must, 4\nInput: this, 2, Output: this, 4\nInput: keep, 2, Output: keep, 4\n",
+            "target_question": "Input: black, 4, Output:",
+            "target_answer": "black, 8",
+            "foil_answer": "black, 6",
+            "exemplar_index_for_diff": 0
+        },
+        {
+            "exemplars": "Input: a, 3, Output: a, 6\nInput: fall, 3, Output: fall, 6\nInput: keep, 3, Output: keep, 6\nInput: think, 3, Output: think, 6\nInput: for, 3, Output: for, 6\nInput: him, 3, Output: him, 6\nInput: eight, 3, Output: eight, 6\nInput: saw, 3, Output: saw, 6\nInput: of, 2, Output: of, 4\nInput: which, 3, Output: which, 6\n",
+            "target_question": "Input: see, 1, Output:",
+            "target_answer": "see, 2",
+            "foil_answer": "see, 4",
+            "exemplar_index_for_diff": 8
+        },
+        {
+            "exemplars": "Input: which, 3, Output: which, 6\nInput: every, 1, Output: every, 2\nInput: read, 1, Output: read, 2\nInput: saw, 1, Output: saw, 2\nInput: them, 1, Output: them, 2\nInput: it, 1, Output: it, 2\nInput: you, 1, Output: you, 2\nInput: fast, 1, Output: fast, 2\nInput: first, 1, Output: first, 2\nInput: would, 1, Output: would, 2\n",
+            "target_question": "Input: and, 4, Output:",
+            "target_answer": "and, 8",
+            "foil_answer": "and, 5",
+            "exemplar_index_for_diff": 0
+        },
+        {
+            "exemplars": "Input: come, 3, Output: come, 6\nInput: carry, 3, Output: carry, 6\nInput: light, 3, Output: light, 6\nInput: are, 1, Output: are, 2\nInput: of, 3, Output: of, 6\nInput: yes, 3, Output: yes, 6\nInput: did, 3, Output: did, 6\nInput: this, 3, Output: this, 6\nInput: on, 3, Output: on, 6\nInput: say, 3, Output: say, 6\n",
+            "target_question": "Input: start, 2, Output:",
+            "target_answer": "start, 4",
+            "foil_answer": "start, 5",
+            "exemplar_index_for_diff": 3
+        },
+        {
+            "exemplars": "Input: he, 3, Output: he, 6\nInput: the, 3, Output: the, 6\nInput: after, 3, Output: after, 6\nInput: for, 3, Output: for, 6\nInput: like, 3, Output: like, 6\nInput: think, 3, Output: think, 6\nInput: put, 3, Output: put, 6\nInput: one, 3, Output: one, 6\nInput: give, 3, Output: give, 6\nInput: fast, 2, Output: fast, 4\n",
+            "target_question": "Input: to, 4, Output:",
+            "target_answer": "to, 8",
+            "foil_answer": "to, 7",
+            "exemplar_index_for_diff": 9
+        },
+        {
+            "exemplars": "Input: he, 3, Output: he, 6\nInput: to, 4, Output: to, 8\nInput: right, 3, Output: right, 6\nInput: done, 3, Output: done, 6\nInput: jump, 3, Output: jump, 6\nInput: one, 3, Output: one, 6\nInput: a, 3, Output: a, 6\nInput: where, 3, Output: where, 6\nInput: them, 3, Output: them, 6\nInput: under, 3, Output: under, 6\n",
+            "target_question": "Input: does, 2, Output:",
+            "target_answer": "does, 4",
+            "foil_answer": "does, 5",
+            "exemplar_index_for_diff": 1
+        },
+        {
+            "exemplars": "Input: pull, 3, Output: pull, 6\nInput: ran, 3, Output: ran, 6\nInput: it, 4, Output: it, 8\nInput: will, 3, Output: will, 6\nInput: where, 3, Output: where, 6\nInput: pretty, 3, Output: pretty, 6\nInput: here, 3, Output: here, 6\nInput: would, 3, Output: would, 6\nInput: new, 3, Output: new, 6\nInput: try, 3, Output: try, 6\n",
+            "target_question": "Input: now, 1, Output:",
+            "target_answer": "now, 2",
+            "foil_answer": "now, 4",
+            "exemplar_index_for_diff": 2
+        },
+        {
+            "exemplars": "Input: seven, 2, Output: seven, 4\nInput: done, 2, Output: done, 4\nInput: him, 2, Output: him, 4\nInput: light, 2, Output: light, 4\nInput: carry, 3, Output: carry, 6\nInput: well, 2, Output: well, 4\nInput: tell, 2, Output: tell, 4\nInput: and, 2, Output: and, 4\nInput: was, 2, Output: was, 4\nInput: a, 2, Output: a, 4\n",
+            "target_question": "Input: their, 1, Output:",
+            "target_answer": "their, 2",
+            "foil_answer": "their, 3",
+            "exemplar_index_for_diff": 4
+        },
+        {
+            "exemplars": "Input: hurt, 2, Output: hurt, 4\nInput: his, 2, Output: his, 4\nInput: cut, 2, Output: cut, 4\nInput: him, 2, Output: him, 4\nInput: their, 2, Output: their, 4\nInput: that, 2, Output: that, 4\nInput: white, 2, Output: white, 4\nInput: would, 4, Output: would, 8\nInput: saw, 2, Output: saw, 4\nInput: light, 2, Output: light, 4\n",
+            "target_question": "Input: the, 3, Output:",
+            "target_answer": "the, 6",
+            "foil_answer": "the, 5",
+            "exemplar_index_for_diff": 7
+        },
+        {
+            "exemplars": "Input: pretty, 4, Output: pretty, 8\nInput: so, 4, Output: so, 8\nInput: were, 4, Output: were, 8\nInput: said, 4, Output: said, 8\nInput: was, 2, Output: was, 4\nInput: keep, 4, Output: keep, 8\nInput: see, 4, Output: see, 8\nInput: had, 4, Output: had, 8\nInput: myself, 4, Output: myself, 8\nInput: pull, 4, Output: pull, 8\n",
+            "target_question": "Input: today, 3, Output:",
+            "target_answer": "today, 6",
+            "foil_answer": "today, 7",
+            "exemplar_index_for_diff": 4
+        },
+        {
+            "exemplars": "Input: will, 3, Output: will, 6\nInput: he, 3, Output: he, 6\nInput: green, 4, Output: green, 8\nInput: did, 3, Output: did, 6\nInput: well, 3, Output: well, 6\nInput: every, 3, Output: every, 6\nInput: went, 3, Output: went, 6\nInput: get, 3, Output: get, 6\nInput: like, 3, Output: like, 6\nInput: I, 3, Output: I, 6\n",
+            "target_question": "Input: use, 1, Output:",
+            "target_answer": "use, 2",
+            "foil_answer": "use, 4",
+            "exemplar_index_for_diff": 2
+        },
+        {
+            "exemplars": "Input: jump, 2, Output: jump, 4\nInput: those, 2, Output: those, 4\nInput: fast, 2, Output: fast, 4\nInput: put, 2, Output: put, 4\nInput: which, 2, Output: which, 4\nInput: that, 2, Output: that, 4\nInput: say, 2, Output: say, 4\nInput: never, 1, Output: never, 2\nInput: me, 2, Output: me, 4\nInput: four, 2, Output: four, 4\n",
+            "target_question": "Input: black, 4, Output:",
+            "target_answer": "black, 8",
+            "foil_answer": "black, 6",
+            "exemplar_index_for_diff": 7
+        },
+        {
+            "exemplars": "Input: on, 1, Output: on, 2\nInput: which, 1, Output: which, 2\nInput: read, 1, Output: read, 2\nInput: this, 1, Output: this, 2\nInput: does, 1, Output: does, 2\nInput: are, 1, Output: are, 2\nInput: saw, 2, Output: saw, 4\nInput: will, 1, Output: will, 2\nInput: at, 1, Output: at, 2\nInput: not, 1, Output: not, 2\n",
+            "target_question": "Input: here, 4, Output:",
+            "target_answer": "here, 8",
+            "foil_answer": "here, 5",
+            "exemplar_index_for_diff": 6
+        },
+        {
+            "exemplars": "Input: went, 4, Output: went, 8\nInput: yes, 4, Output: yes, 8\nInput: light, 3, Output: light, 6\nInput: old, 4, Output: old, 8\nInput: much, 4, Output: much, 8\nInput: not, 4, Output: not, 8\nInput: keep, 4, Output: keep, 8\nInput: big, 4, Output: big, 8\nInput: green, 4, Output: green, 8\nInput: at, 4, Output: at, 8\n",
+            "target_question": "Input: round, 1, Output:",
+            "target_answer": "round, 2",
+            "foil_answer": "round, 5",
+            "exemplar_index_for_diff": 2
+        },
+        {
+            "exemplars": "Input: try, 2, Output: try, 4\nInput: tell, 2, Output: tell, 4\nInput: had, 2, Output: had, 4\nInput: come, 2, Output: come, 4\nInput: much, 3, Output: much, 6\nInput: away, 2, Output: away, 4\nInput: like, 2, Output: like, 4\nInput: keep, 2, Output: keep, 4\nInput: first, 2, Output: first, 4\nInput: ran, 2, Output: ran, 4\n",
+            "target_question": "Input: this, 4, Output:",
+            "target_answer": "this, 8",
+            "foil_answer": "this, 6",
+            "exemplar_index_for_diff": 4
+        },
+        {
+            "exemplars": "Input: said, 4, Output: said, 8\nInput: of, 4, Output: of, 8\nInput: like, 4, Output: like, 8\nInput: must, 4, Output: must, 8\nInput: read, 4, Output: read, 8\nInput: ten, 4, Output: ten, 8\nInput: yes, 4, Output: yes, 8\nInput: give, 1, Output: give, 2\nInput: for, 4, Output: for, 8\nInput: under, 4, Output: under, 8\n",
+            "target_question": "Input: you, 2, Output:",
+            "target_answer": "you, 4",
+            "foil_answer": "you, 6",
+            "exemplar_index_for_diff": 7
+        },
+        {
+            "exemplars": "Input: right, 3, Output: right, 6\nInput: sit, 4, Output: sit, 8\nInput: ten, 3, Output: ten, 6\nInput: eight, 3, Output: eight, 6\nInput: kind, 3, Output: kind, 6\nInput: full, 3, Output: full, 6\nInput: and, 3, Output: and, 6\nInput: that, 3, Output: that, 6\nInput: work, 3, Output: work, 6\nInput: their, 3, Output: their, 6\n",
+            "target_question": "Input: tell, 2, Output:",
+            "target_answer": "tell, 4",
+            "foil_answer": "tell, 5",
+            "exemplar_index_for_diff": 1
+        },
+        {
+            "exemplars": "Input: I, 1, Output: I, 2\nInput: fast, 3, Output: fast, 6\nInput: in, 3, Output: in, 6\nInput: got, 3, Output: got, 6\nInput: small, 3, Output: small, 6\nInput: are, 3, Output: are, 6\nInput: his, 3, Output: his, 6\nInput: take, 3, Output: take, 6\nInput: were, 3, Output: were, 6\nInput: that, 3, Output: that, 6\n",
+            "target_question": "Input: to, 2, Output:",
+            "target_answer": "to, 4",
+            "foil_answer": "to, 5",
+            "exemplar_index_for_diff": 0
+        },
+        {
+            "exemplars": "Input: like, 1, Output: like, 2\nInput: that, 1, Output: that, 2\nInput: did, 1, Output: did, 2\nInput: hurt, 1, Output: hurt, 2\nInput: so, 1, Output: so, 2\nInput: eight, 2, Output: eight, 4\nInput: kind, 1, Output: kind, 2\nInput: take, 1, Output: take, 2\nInput: sit, 1, Output: sit, 2\nInput: if, 1, Output: if, 2\n",
+            "target_question": "Input: too, 3, Output:",
+            "target_answer": "too, 6",
+            "foil_answer": "too, 4",
+            "exemplar_index_for_diff": 5
+        },
+        {
+            "exemplars": "Input: hurt, 1, Output: hurt, 2\nInput: it, 1, Output: it, 2\nInput: done, 1, Output: done, 2\nInput: he, 1, Output: he, 2\nInput: me, 1, Output: me, 2\nInput: fly, 2, Output: fly, 4\nInput: him, 1, Output: him, 2\nInput: try, 1, Output: try, 2\nInput: think, 1, Output: think, 2\nInput: well, 1, Output: well, 2\n",
+            "target_question": "Input: those, 4, Output:",
+            "target_answer": "those, 8",
+            "foil_answer": "those, 5",
+            "exemplar_index_for_diff": 5
+        },
+        {
+            "exemplars": "Input: big, 4, Output: big, 8\nInput: were, 4, Output: were, 8\nInput: start, 4, Output: start, 8\nInput: work, 4, Output: work, 8\nInput: right, 4, Output: right, 8\nInput: cold, 4, Output: cold, 8\nInput: full, 4, Output: full, 8\nInput: by, 1, Output: by, 2\nInput: try, 4, Output: try, 8\nInput: are, 4, Output: are, 8\n",
+            "target_question": "Input: what, 2, Output:",
+            "target_answer": "what, 4",
+            "foil_answer": "what, 6",
+            "exemplar_index_for_diff": 7
+        },
+        {
+            "exemplars": "Input: for, 4, Output: for, 8\nInput: must, 4, Output: must, 8\nInput: too, 4, Output: too, 8\nInput: full, 2, Output: full, 4\nInput: try, 4, Output: try, 8\nInput: round, 4, Output: round, 8\nInput: were, 4, Output: were, 8\nInput: eight, 4, Output: eight, 8\nInput: went, 4, Output: went, 8\nInput: them, 4, Output: them, 8\n",
+            "target_question": "Input: but, 1, Output:",
+            "target_answer": "but, 2",
+            "foil_answer": "but, 5",
+            "exemplar_index_for_diff": 3
+        },
+        {
+            "exemplars": "Input: are, 2, Output: are, 4\nInput: does, 2, Output: does, 4\nInput: try, 1, Output: try, 2\nInput: green, 2, Output: green, 4\nInput: said, 2, Output: said, 4\nInput: start, 2, Output: start, 4\nInput: see, 2, Output: see, 4\nInput: give, 2, Output: give, 4\nInput: say, 2, Output: say, 4\nInput: well, 2, Output: well, 4\n",
+            "target_question": "Input: would, 4, Output:",
+            "target_answer": "would, 8",
+            "foil_answer": "would, 6",
+            "exemplar_index_for_diff": 2
+        },
+        {
+            "exemplars": "Input: would, 3, Output: would, 6\nInput: try, 4, Output: try, 8\nInput: kind, 3, Output: kind, 6\nInput: start, 3, Output: start, 6\nInput: done, 3, Output: done, 6\nInput: white, 3, Output: white, 6\nInput: carry, 3, Output: carry, 6\nInput: old, 3, Output: old, 6\nInput: the, 3, Output: the, 6\nInput: got, 3, Output: got, 6\n",
+            "target_question": "Input: those, 2, Output:",
+            "target_answer": "those, 4",
+            "foil_answer": "those, 5",
+            "exemplar_index_for_diff": 1
+        },
+        {
+            "exemplars": "Input: myself, 2, Output: myself, 4\nInput: at, 2, Output: at, 4\nInput: give, 2, Output: give, 4\nInput: old, 2, Output: old, 4\nInput: for, 2, Output: for, 4\nInput: seven, 2, Output: seven, 4\nInput: and, 1, Output: and, 2\nInput: are, 2, Output: are, 4\nInput: white, 2, Output: white, 4\nInput: four, 2, Output: four, 4\n",
+            "target_question": "Input: went, 4, Output:",
+            "target_answer": "went, 8",
+            "foil_answer": "went, 6",
+            "exemplar_index_for_diff": 6
+        },
+        {
+            "exemplars": "Input: tell, 3, Output: tell, 6\nInput: would, 3, Output: would, 6\nInput: myself, 3, Output: myself, 6\nInput: to, 3, Output: to, 6\nInput: full, 3, Output: full, 6\nInput: saw, 3, Output: saw, 6\nInput: ran, 2, Output: ran, 4\nInput: now, 3, Output: now, 6\nInput: well, 3, Output: well, 6\nInput: come, 3, Output: come, 6\n",
+            "target_question": "Input: did, 1, Output:",
+            "target_answer": "did, 2",
+            "foil_answer": "did, 4",
+            "exemplar_index_for_diff": 6
+        },
+        {
+            "exemplars": "Input: light, 2, Output: light, 4\nInput: give, 2, Output: give, 4\nInput: hurt, 2, Output: hurt, 4\nInput: did, 2, Output: did, 4\nInput: were, 2, Output: were, 4\nInput: that, 4, Output: that, 8\nInput: ten, 2, Output: ten, 4\nInput: they, 2, Output: they, 4\nInput: full, 2, Output: full, 4\nInput: by, 2, Output: by, 4\n",
+            "target_question": "Input: saw, 3, Output:",
+            "target_answer": "saw, 6",
+            "foil_answer": "saw, 5",
+            "exemplar_index_for_diff": 5
+        },
+        {
+            "exemplars": "Input: kind, 3, Output: kind, 6\nInput: fly, 3, Output: fly, 6\nInput: did, 3, Output: did, 6\nInput: went, 3, Output: went, 6\nInput: on, 3, Output: on, 6\nInput: take, 3, Output: take, 6\nInput: call, 3, Output: call, 6\nInput: think, 3, Output: think, 6\nInput: at, 3, Output: at, 6\nInput: too, 1, Output: too, 2\n",
+            "target_question": "Input: done, 2, Output:",
+            "target_answer": "done, 4",
+            "foil_answer": "done, 5",
+            "exemplar_index_for_diff": 9
+        },
+        {
+            "exemplars": "Input: never, 4, Output: never, 8\nInput: went, 4, Output: went, 8\nInput: first, 4, Output: first, 8\nInput: at, 4, Output: at, 8\nInput: eight, 4, Output: eight, 8\nInput: away, 4, Output: away, 8\nInput: fly, 4, Output: fly, 8\nInput: sit, 4, Output: sit, 8\nInput: ran, 2, Output: ran, 4\nInput: myself, 4, Output: myself, 8\n",
+            "target_question": "Input: here, 3, Output:",
+            "target_answer": "here, 6",
+            "foil_answer": "here, 7",
+            "exemplar_index_for_diff": 8
+        },
+        {
+            "exemplars": "Input: one, 1, Output: one, 2\nInput: would, 2, Output: would, 4\nInput: well, 2, Output: well, 4\nInput: call, 2, Output: call, 4\nInput: was, 2, Output: was, 4\nInput: under, 2, Output: under, 4\nInput: a, 2, Output: a, 4\nInput: cut, 2, Output: cut, 4\nInput: every, 2, Output: every, 4\nInput: which, 2, Output: which, 4\n",
+            "target_question": "Input: pick, 4, Output:",
+            "target_answer": "pick, 8",
+            "foil_answer": "pick, 6",
+            "exemplar_index_for_diff": 0
+        },
+        {
+            "exemplars": "Input: got, 1, Output: got, 2\nInput: a, 1, Output: a, 2\nInput: both, 1, Output: both, 2\nInput: like, 1, Output: like, 2\nInput: myself, 1, Output: myself, 2\nInput: here, 2, Output: here, 4\nInput: new, 1, Output: new, 2\nInput: them, 1, Output: them, 2\nInput: she, 1, Output: she, 2\nInput: my, 1, Output: my, 2\n",
+            "target_question": "Input: take, 3, Output:",
+            "target_answer": "take, 6",
+            "foil_answer": "take, 4",
+            "exemplar_index_for_diff": 5
+        },
+        {
+            "exemplars": "Input: she, 1, Output: she, 2\nInput: full, 2, Output: full, 4\nInput: take, 1, Output: take, 2\nInput: keep, 1, Output: keep, 2\nInput: said, 1, Output: said, 2\nInput: of, 1, Output: of, 2\nInput: him, 1, Output: him, 2\nInput: they, 1, Output: they, 2\nInput: it, 1, Output: it, 2\nInput: so, 1, Output: so, 2\n",
+            "target_question": "Input: say, 3, Output:",
+            "target_answer": "say, 6",
+            "foil_answer": "say, 4",
+            "exemplar_index_for_diff": 1
+        },
+        {
+            "exemplars": "Input: four, 2, Output: four, 4\nInput: in, 2, Output: in, 4\nInput: my, 2, Output: my, 4\nInput: like, 2, Output: like, 4\nInput: black, 2, Output: black, 4\nInput: read, 4, Output: read, 8\nInput: to, 2, Output: to, 4\nInput: use, 2, Output: use, 4\nInput: where, 2, Output: where, 4\nInput: if, 2, Output: if, 4\n",
+            "target_question": "Input: their, 3, Output:",
+            "target_answer": "their, 6",
+            "foil_answer": "their, 5",
+            "exemplar_index_for_diff": 5
+        },
+        {
+            "exemplars": "Input: hurt, 3, Output: hurt, 6\nInput: a, 1, Output: a, 2\nInput: here, 1, Output: here, 2\nInput: take, 1, Output: take, 2\nInput: ten, 1, Output: ten, 2\nInput: myself, 1, Output: myself, 2\nInput: white, 1, Output: white, 2\nInput: get, 1, Output: get, 2\nInput: got, 1, Output: got, 2\nInput: pull, 1, Output: pull, 2\n",
+            "target_question": "Input: much, 4, Output:",
+            "target_answer": "much, 8",
+            "foil_answer": "much, 5",
+            "exemplar_index_for_diff": 0
+        },
+        {
+            "exemplars": "Input: read, 3, Output: read, 6\nInput: where, 3, Output: where, 6\nInput: in, 3, Output: in, 6\nInput: would, 3, Output: would, 6\nInput: light, 3, Output: light, 6\nInput: call, 3, Output: call, 6\nInput: he, 2, Output: he, 4\nInput: if, 3, Output: if, 6\nInput: see, 3, Output: see, 6\nInput: full, 3, Output: full, 6\n",
+            "target_question": "Input: sit, 1, Output:",
+            "target_answer": "sit, 2",
+            "foil_answer": "sit, 4",
+            "exemplar_index_for_diff": 6
+        },
+        {
+            "exemplars": "Input: come, 3, Output: come, 6\nInput: cut, 3, Output: cut, 6\nInput: where, 4, Output: where, 8\nInput: seven, 3, Output: seven, 6\nInput: after, 3, Output: after, 6\nInput: pick, 3, Output: pick, 6\nInput: them, 3, Output: them, 6\nInput: tell, 3, Output: tell, 6\nInput: did, 3, Output: did, 6\nInput: eight, 3, Output: eight, 6\n",
+            "target_question": "Input: right, 1, Output:",
+            "target_answer": "right, 2",
+            "foil_answer": "right, 4",
+            "exemplar_index_for_diff": 2
+        },
+        {
+            "exemplars": "Input: myself, 1, Output: myself, 2\nInput: get, 2, Output: get, 4\nInput: read, 1, Output: read, 2\nInput: that, 1, Output: that, 2\nInput: at, 1, Output: at, 2\nInput: fly, 1, Output: fly, 2\nInput: here, 1, Output: here, 2\nInput: seven, 1, Output: seven, 2\nInput: now, 1, Output: now, 2\nInput: I, 1, Output: I, 2\n",
+            "target_question": "Input: saw, 3, Output:",
+            "target_answer": "saw, 6",
+            "foil_answer": "saw, 4",
+            "exemplar_index_for_diff": 1
+        },
+        {
+            "exemplars": "Input: carry, 2, Output: carry, 4\nInput: pull, 3, Output: pull, 6\nInput: four, 2, Output: four, 4\nInput: in, 2, Output: in, 4\nInput: today, 2, Output: today, 4\nInput: if, 2, Output: if, 4\nInput: got, 2, Output: got, 4\nInput: right, 2, Output: right, 4\nInput: well, 2, Output: well, 4\nInput: to, 2, Output: to, 4\n",
+            "target_question": "Input: keep, 1, Output:",
+            "target_answer": "keep, 2",
+            "foil_answer": "keep, 3",
+            "exemplar_index_for_diff": 1
+        },
+        {
+            "exemplars": "Input: a, 4, Output: a, 8\nInput: read, 4, Output: read, 8\nInput: ran, 4, Output: ran, 8\nInput: seven, 4, Output: seven, 8\nInput: take, 4, Output: take, 8\nInput: she, 4, Output: she, 8\nInput: call, 4, Output: call, 8\nInput: say, 4, Output: say, 8\nInput: done, 4, Output: done, 8\nInput: cut, 1, Output: cut, 2\n",
+            "target_question": "Input: away, 2, Output:",
+            "target_answer": "away, 4",
+            "foil_answer": "away, 6",
+            "exemplar_index_for_diff": 9
+        },
+        {
+            "exemplars": "Input: eight, 1, Output: eight, 2\nInput: are, 1, Output: are, 2\nInput: well, 1, Output: well, 2\nInput: their, 1, Output: their, 2\nInput: black, 1, Output: black, 2\nInput: away, 1, Output: away, 2\nInput: does, 1, Output: does, 2\nInput: both, 1, Output: both, 2\nInput: at, 3, Output: at, 6\nInput: pretty, 1, Output: pretty, 2\n",
+            "target_question": "Input: now, 2, Output:",
+            "target_answer": "now, 4",
+            "foil_answer": "now, 3",
+            "exemplar_index_for_diff": 8
+        },
+        {
+            "exemplars": "Input: him, 4, Output: him, 8\nInput: done, 4, Output: done, 8\nInput: cold, 4, Output: cold, 8\nInput: big, 4, Output: big, 8\nInput: would, 4, Output: would, 8\nInput: so, 4, Output: so, 8\nInput: he, 4, Output: he, 8\nInput: pick, 4, Output: pick, 8\nInput: call, 4, Output: call, 8\nInput: get, 1, Output: get, 2\n",
+            "target_question": "Input: under, 2, Output:",
+            "target_answer": "under, 4",
+            "foil_answer": "under, 6",
+            "exemplar_index_for_diff": 9
+        },
+        {
+            "exemplars": "Input: now, 2, Output: now, 4\nInput: under, 2, Output: under, 4\nInput: put, 2, Output: put, 4\nInput: and, 3, Output: and, 6\nInput: would, 2, Output: would, 4\nInput: got, 2, Output: got, 4\nInput: which, 2, Output: which, 4\nInput: white, 2, Output: white, 4\nInput: at, 2, Output: at, 4\nInput: use, 2, Output: use, 4\n",
+            "target_question": "Input: was, 4, Output:",
+            "target_answer": "was, 8",
+            "foil_answer": "was, 6",
+            "exemplar_index_for_diff": 3
+        },
+        {
+            "exemplars": "Input: are, 2, Output: are, 4\nInput: start, 2, Output: start, 4\nInput: myself, 2, Output: myself, 4\nInput: four, 2, Output: four, 4\nInput: give, 2, Output: give, 4\nInput: today, 1, Output: today, 2\nInput: so, 2, Output: so, 4\nInput: were, 2, Output: were, 4\nInput: would, 2, Output: would, 4\nInput: both, 2, Output: both, 4\n",
+            "target_question": "Input: first, 3, Output:",
+            "target_answer": "first, 6",
+            "foil_answer": "first, 5",
+            "exemplar_index_for_diff": 5
+        },
+        {
+            "exemplars": "Input: say, 1, Output: say, 2\nInput: much, 2, Output: much, 4\nInput: fall, 1, Output: fall, 2\nInput: of, 1, Output: of, 2\nInput: where, 1, Output: where, 2\nInput: are, 1, Output: are, 2\nInput: and, 1, Output: and, 2\nInput: said, 1, Output: said, 2\nInput: work, 1, Output: work, 2\nInput: you, 1, Output: you, 2\n",
+            "target_question": "Input: pull, 3, Output:",
+            "target_answer": "pull, 6",
+            "foil_answer": "pull, 4",
+            "exemplar_index_for_diff": 1
+        },
+        {
+            "exemplars": "Input: come, 1, Output: come, 2\nInput: one, 1, Output: one, 2\nInput: after, 1, Output: after, 2\nInput: ten, 1, Output: ten, 2\nInput: at, 2, Output: at, 4\nInput: now, 1, Output: now, 2\nInput: say, 1, Output: say, 2\nInput: yes, 1, Output: yes, 2\nInput: sit, 1, Output: sit, 2\nInput: every, 1, Output: every, 2\n",
+            "target_question": "Input: old, 3, Output:",
+            "target_answer": "old, 6",
+            "foil_answer": "old, 4",
+            "exemplar_index_for_diff": 4
+        },
+        {
+            "exemplars": "Input: fast, 4, Output: fast, 8\nInput: ten, 4, Output: ten, 8\nInput: you, 3, Output: you, 6\nInput: say, 4, Output: say, 8\nInput: get, 4, Output: get, 8\nInput: four, 4, Output: four, 8\nInput: put, 4, Output: put, 8\nInput: pull, 4, Output: pull, 8\nInput: she, 4, Output: she, 8\nInput: away, 4, Output: away, 8\n",
+            "target_question": "Input: every, 1, Output:",
+            "target_answer": "every, 2",
+            "foil_answer": "every, 5",
+            "exemplar_index_for_diff": 2
+        },
+        {
+            "exemplars": "Input: said, 3, Output: said, 6\nInput: fly, 4, Output: fly, 8\nInput: not, 3, Output: not, 6\nInput: I, 3, Output: I, 6\nInput: you, 3, Output: you, 6\nInput: me, 3, Output: me, 6\nInput: first, 3, Output: first, 6\nInput: come, 3, Output: come, 6\nInput: are, 3, Output: are, 6\nInput: got, 3, Output: got, 6\n",
+            "target_question": "Input: think, 2, Output:",
+            "target_answer": "think, 4",
+            "foil_answer": "think, 5",
+            "exemplar_index_for_diff": 1
+        },
+        {
+            "exemplars": "Input: see, 3, Output: see, 6\nInput: yes, 3, Output: yes, 6\nInput: use, 3, Output: use, 6\nInput: he, 3, Output: he, 6\nInput: under, 3, Output: under, 6\nInput: pull, 3, Output: pull, 6\nInput: tell, 3, Output: tell, 6\nInput: does, 3, Output: does, 6\nInput: in, 3, Output: in, 6\nInput: big, 1, Output: big, 2\n",
+            "target_question": "Input: pick, 2, Output:",
+            "target_answer": "pick, 4",
+            "foil_answer": "pick, 5",
+            "exemplar_index_for_diff": 9
+        },
+        {
+            "exemplars": "Input: full, 3, Output: full, 6\nInput: now, 3, Output: now, 6\nInput: never, 3, Output: never, 6\nInput: well, 3, Output: well, 6\nInput: pick, 3, Output: pick, 6\nInput: take, 3, Output: take, 6\nInput: and, 3, Output: and, 6\nInput: ran, 3, Output: ran, 6\nInput: first, 3, Output: first, 6\nInput: saw, 2, Output: saw, 4\n",
+            "target_question": "Input: fly, 4, Output:",
+            "target_answer": "fly, 8",
+            "foil_answer": "fly, 7",
+            "exemplar_index_for_diff": 9
+        },
+        {
+            "exemplars": "Input: start, 3, Output: start, 6\nInput: full, 3, Output: full, 6\nInput: a, 3, Output: a, 6\nInput: like, 3, Output: like, 6\nInput: new, 3, Output: new, 6\nInput: keep, 3, Output: keep, 6\nInput: saw, 3, Output: saw, 6\nInput: get, 3, Output: get, 6\nInput: black, 2, Output: black, 4\nInput: which, 3, Output: which, 6\n",
+            "target_question": "Input: today, 1, Output:",
+            "target_answer": "today, 2",
+            "foil_answer": "today, 4",
+            "exemplar_index_for_diff": 8
+        },
+        {
+            "exemplars": "Input: now, 3, Output: now, 6\nInput: those, 3, Output: those, 6\nInput: keep, 3, Output: keep, 6\nInput: you, 3, Output: you, 6\nInput: sit, 3, Output: sit, 6\nInput: myself, 3, Output: myself, 6\nInput: well, 2, Output: well, 4\nInput: cold, 3, Output: cold, 6\nInput: this, 3, Output: this, 6\nInput: call, 3, Output: call, 6\n",
+            "target_question": "Input: light, 1, Output:",
+            "target_answer": "light, 2",
+            "foil_answer": "light, 4",
+            "exemplar_index_for_diff": 6
+        },
+        {
+            "exemplars": "Input: will, 4, Output: will, 8\nInput: you, 4, Output: you, 8\nInput: think, 4, Output: think, 8\nInput: went, 4, Output: went, 8\nInput: my, 4, Output: my, 8\nInput: hurt, 4, Output: hurt, 8\nInput: pretty, 4, Output: pretty, 8\nInput: work, 4, Output: work, 8\nInput: after, 2, Output: after, 4\nInput: it, 4, Output: it, 8\n",
+            "target_question": "Input: four, 3, Output:",
+            "target_answer": "four, 6",
+            "foil_answer": "four, 7",
+            "exemplar_index_for_diff": 8
+        },
+        {
+            "exemplars": "Input: black, 4, Output: black, 8\nInput: hurt, 4, Output: hurt, 8\nInput: done, 3, Output: done, 6\nInput: was, 4, Output: was, 8\nInput: if, 4, Output: if, 8\nInput: you, 4, Output: you, 8\nInput: so, 4, Output: so, 8\nInput: to, 4, Output: to, 8\nInput: white, 4, Output: white, 8\nInput: think, 4, Output: think, 8\n",
+            "target_question": "Input: where, 1, Output:",
+            "target_answer": "where, 2",
+            "foil_answer": "where, 5",
+            "exemplar_index_for_diff": 2
+        },
+        {
+            "exemplars": "Input: at, 4, Output: at, 8\nInput: if, 4, Output: if, 8\nInput: see, 4, Output: see, 8\nInput: what, 4, Output: what, 8\nInput: she, 2, Output: she, 4\nInput: small, 4, Output: small, 8\nInput: old, 4, Output: old, 8\nInput: those, 4, Output: those, 8\nInput: pick, 4, Output: pick, 8\nInput: seven, 4, Output: seven, 8\n",
+            "target_question": "Input: too, 3, Output:",
+            "target_answer": "too, 6",
+            "foil_answer": "too, 7",
+            "exemplar_index_for_diff": 4
+        },
+        {
+            "exemplars": "Input: must, 1, Output: must, 2\nInput: think, 1, Output: think, 2\nInput: went, 1, Output: went, 2\nInput: jump, 1, Output: jump, 2\nInput: he, 1, Output: he, 2\nInput: yes, 2, Output: yes, 4\nInput: not, 1, Output: not, 2\nInput: and, 1, Output: and, 2\nInput: round, 1, Output: round, 2\nInput: fly, 1, Output: fly, 2\n",
+            "target_question": "Input: both, 4, Output:",
+            "target_answer": "both, 8",
+            "foil_answer": "both, 5",
+            "exemplar_index_for_diff": 5
+        },
+        {
+            "exemplars": "Input: take, 1, Output: take, 2\nInput: tell, 1, Output: tell, 2\nInput: full, 1, Output: full, 2\nInput: got, 1, Output: got, 2\nInput: think, 1, Output: think, 2\nInput: fly, 1, Output: fly, 2\nInput: yes, 2, Output: yes, 4\nInput: would, 1, Output: would, 2\nInput: not, 1, Output: not, 2\nInput: after, 1, Output: after, 2\n",
+            "target_question": "Input: sit, 4, Output:",
+            "target_answer": "sit, 8",
+            "foil_answer": "sit, 5",
+            "exemplar_index_for_diff": 6
+        },
+        {
+            "exemplars": "Input: I, 3, Output: I, 6\nInput: too, 3, Output: too, 6\nInput: right, 3, Output: right, 6\nInput: hurt, 4, Output: hurt, 8\nInput: come, 3, Output: come, 6\nInput: by, 3, Output: by, 6\nInput: carry, 3, Output: carry, 6\nInput: he, 3, Output: he, 6\nInput: keep, 3, Output: keep, 6\nInput: him, 3, Output: him, 6\n",
+            "target_question": "Input: black, 1, Output:",
+            "target_answer": "black, 2",
+            "foil_answer": "black, 4",
+            "exemplar_index_for_diff": 3
+        },
+        {
+            "exemplars": "Input: he, 2, Output: he, 4\nInput: his, 2, Output: his, 4\nInput: see, 2, Output: see, 4\nInput: keep, 2, Output: keep, 4\nInput: cut, 2, Output: cut, 4\nInput: will, 2, Output: will, 4\nInput: fall, 1, Output: fall, 2\nInput: light, 2, Output: light, 4\nInput: are, 2, Output: are, 4\nInput: hurt, 2, Output: hurt, 4\n",
+            "target_question": "Input: right, 4, Output:",
+            "target_answer": "right, 8",
+            "foil_answer": "right, 6",
+            "exemplar_index_for_diff": 6
+        },
+        {
+            "exemplars": "Input: right, 1, Output: right, 2\nInput: every, 1, Output: every, 2\nInput: see, 1, Output: see, 2\nInput: myself, 1, Output: myself, 2\nInput: which, 2, Output: which, 4\nInput: tell, 1, Output: tell, 2\nInput: them, 1, Output: them, 2\nInput: small, 1, Output: small, 2\nInput: those, 1, Output: those, 2\nInput: you, 1, Output: you, 2\n",
+            "target_question": "Input: to, 3, Output:",
+            "target_answer": "to, 6",
+            "foil_answer": "to, 4",
+            "exemplar_index_for_diff": 4
+        },
+        {
+            "exemplars": "Input: in, 3, Output: in, 6\nInput: done, 3, Output: done, 6\nInput: if, 3, Output: if, 6\nInput: now, 1, Output: now, 2\nInput: see, 3, Output: see, 6\nInput: did, 3, Output: did, 6\nInput: old, 3, Output: old, 6\nInput: hurt, 3, Output: hurt, 6\nInput: well, 3, Output: well, 6\nInput: new, 3, Output: new, 6\n",
+            "target_question": "Input: carry, 2, Output:",
+            "target_answer": "carry, 4",
+            "foil_answer": "carry, 5",
+            "exemplar_index_for_diff": 3
+        },
+        {
+            "exemplars": "Input: well, 2, Output: well, 4\nInput: four, 2, Output: four, 4\nInput: fly, 2, Output: fly, 4\nInput: much, 2, Output: much, 4\nInput: but, 2, Output: but, 4\nInput: cut, 1, Output: cut, 2\nInput: it, 2, Output: it, 4\nInput: after, 2, Output: after, 4\nInput: done, 2, Output: done, 4\nInput: sit, 2, Output: sit, 4\n",
+            "target_question": "Input: she, 3, Output:",
+            "target_answer": "she, 6",
+            "foil_answer": "she, 5",
+            "exemplar_index_for_diff": 5
+        },
+        {
+            "exemplars": "Input: today, 1, Output: today, 2\nInput: carry, 1, Output: carry, 2\nInput: this, 1, Output: this, 2\nInput: every, 1, Output: every, 2\nInput: him, 1, Output: him, 2\nInput: light, 1, Output: light, 2\nInput: cut, 1, Output: cut, 2\nInput: to, 1, Output: to, 2\nInput: the, 3, Output: the, 6\nInput: keep, 1, Output: keep, 2\n",
+            "target_question": "Input: they, 2, Output:",
+            "target_answer": "they, 4",
+            "foil_answer": "they, 3",
+            "exemplar_index_for_diff": 8
+        },
+        {
+            "exemplars": "Input: sit, 4, Output: sit, 8\nInput: will, 4, Output: will, 8\nInput: small, 4, Output: small, 8\nInput: like, 2, Output: like, 4\nInput: pull, 4, Output: pull, 8\nInput: give, 4, Output: give, 8\nInput: too, 4, Output: too, 8\nInput: must, 4, Output: must, 8\nInput: work, 4, Output: work, 8\nInput: under, 4, Output: under, 8\n",
+            "target_question": "Input: said, 1, Output:",
+            "target_answer": "said, 2",
+            "foil_answer": "said, 5",
+            "exemplar_index_for_diff": 3
+        },
+        {
+            "exemplars": "Input: my, 3, Output: my, 6\nInput: at, 3, Output: at, 6\nInput: big, 3, Output: big, 6\nInput: those, 4, Output: those, 8\nInput: they, 3, Output: they, 6\nInput: got, 3, Output: got, 6\nInput: say, 3, Output: say, 6\nInput: much, 3, Output: much, 6\nInput: never, 3, Output: never, 6\nInput: come, 3, Output: come, 6\n",
+            "target_question": "Input: pretty, 1, Output:",
+            "target_answer": "pretty, 2",
+            "foil_answer": "pretty, 4",
+            "exemplar_index_for_diff": 3
+        },
+        {
+            "exemplars": "Input: which, 2, Output: which, 4\nInput: jump, 2, Output: jump, 4\nInput: put, 2, Output: put, 4\nInput: got, 3, Output: got, 6\nInput: the, 2, Output: the, 4\nInput: it, 2, Output: it, 4\nInput: will, 2, Output: will, 4\nInput: work, 2, Output: work, 4\nInput: me, 2, Output: me, 4\nInput: read, 2, Output: read, 4\n",
+            "target_question": "Input: take, 4, Output:",
+            "target_answer": "take, 8",
+            "foil_answer": "take, 6",
+            "exemplar_index_for_diff": 3
+        },
+        {
+            "exemplars": "Input: give, 3, Output: give, 6\nInput: away, 3, Output: away, 6\nInput: too, 3, Output: too, 6\nInput: but, 3, Output: but, 6\nInput: today, 3, Output: today, 6\nInput: like, 3, Output: like, 6\nInput: which, 3, Output: which, 6\nInput: ten, 3, Output: ten, 6\nInput: new, 3, Output: new, 6\nInput: pull, 4, Output: pull, 8\n",
+            "target_question": "Input: for, 2, Output:",
+            "target_answer": "for, 4",
+            "foil_answer": "for, 5",
+            "exemplar_index_for_diff": 9
+        },
+        {
+            "exemplars": "Input: hurt, 2, Output: hurt, 4\nInput: first, 2, Output: first, 4\nInput: got, 2, Output: got, 4\nInput: but, 3, Output: but, 6\nInput: call, 2, Output: call, 4\nInput: their, 2, Output: their, 4\nInput: never, 2, Output: never, 4\nInput: yes, 2, Output: yes, 4\nInput: big, 2, Output: big, 4\nInput: done, 2, Output: done, 4\n",
+            "target_question": "Input: try, 4, Output:",
+            "target_answer": "try, 8",
+            "foil_answer": "try, 6",
+            "exemplar_index_for_diff": 3
+        },
+        {
+            "exemplars": "Input: round, 1, Output: round, 2\nInput: ran, 1, Output: ran, 2\nInput: I, 1, Output: I, 2\nInput: call, 1, Output: call, 2\nInput: put, 2, Output: put, 4\nInput: eight, 1, Output: eight, 2\nInput: went, 1, Output: went, 2\nInput: not, 1, Output: not, 2\nInput: pull, 1, Output: pull, 2\nInput: so, 1, Output: so, 2\n",
+            "target_question": "Input: sit, 3, Output:",
+            "target_answer": "sit, 6",
+            "foil_answer": "sit, 4",
+            "exemplar_index_for_diff": 4
+        },
+        {
+            "exemplars": "Input: at, 4, Output: at, 8\nInput: those, 4, Output: those, 8\nInput: big, 4, Output: big, 8\nInput: see, 4, Output: see, 8\nInput: will, 4, Output: will, 8\nInput: ran, 4, Output: ran, 8\nInput: my, 4, Output: my, 8\nInput: saw, 4, Output: saw, 8\nInput: so, 4, Output: so, 8\nInput: not, 1, Output: not, 2\n",
+            "target_question": "Input: does, 2, Output:",
+            "target_answer": "does, 4",
+            "foil_answer": "does, 6",
+            "exemplar_index_for_diff": 9
+        },
+        {
+            "exemplars": "Input: keep, 2, Output: keep, 4\nInput: on, 3, Output: on, 6\nInput: too, 3, Output: too, 6\nInput: his, 3, Output: his, 6\nInput: take, 3, Output: take, 6\nInput: got, 3, Output: got, 6\nInput: went, 3, Output: went, 6\nInput: see, 3, Output: see, 6\nInput: give, 3, Output: give, 6\nInput: not, 3, Output: not, 6\n",
+            "target_question": "Input: right, 4, Output:",
+            "target_answer": "right, 8",
+            "foil_answer": "right, 7",
+            "exemplar_index_for_diff": 0
+        },
+        {
+            "exemplars": "Input: this, 4, Output: this, 8\nInput: not, 4, Output: not, 8\nInput: try, 4, Output: try, 8\nInput: which, 4, Output: which, 8\nInput: pick, 4, Output: pick, 8\nInput: did, 4, Output: did, 8\nInput: on, 4, Output: on, 8\nInput: ran, 4, Output: ran, 8\nInput: said, 2, Output: said, 4\nInput: fall, 4, Output: fall, 8\n",
+            "target_question": "Input: at, 3, Output:",
+            "target_answer": "at, 6",
+            "foil_answer": "at, 7",
+            "exemplar_index_for_diff": 8
+        },
+        {
+            "exemplars": "Input: went, 4, Output: went, 8\nInput: me, 4, Output: me, 8\nInput: use, 4, Output: use, 8\nInput: well, 4, Output: well, 8\nInput: of, 2, Output: of, 4\nInput: big, 4, Output: big, 8\nInput: white, 4, Output: white, 8\nInput: pick, 4, Output: pick, 8\nInput: one, 4, Output: one, 8\nInput: where, 4, Output: where, 8\n",
+            "target_question": "Input: small, 3, Output:",
+            "target_answer": "small, 6",
+            "foil_answer": "small, 7",
+            "exemplar_index_for_diff": 4
+        },
+        {
+            "exemplars": "Input: big, 4, Output: big, 8\nInput: saw, 4, Output: saw, 8\nInput: call, 4, Output: call, 8\nInput: would, 4, Output: would, 8\nInput: are, 4, Output: are, 8\nInput: them, 4, Output: them, 8\nInput: I, 4, Output: I, 8\nInput: full, 1, Output: full, 2\nInput: on, 4, Output: on, 8\nInput: four, 4, Output: four, 8\n",
+            "target_question": "Input: one, 2, Output:",
+            "target_answer": "one, 4",
+            "foil_answer": "one, 6",
+            "exemplar_index_for_diff": 7
+        },
+        {
+            "exemplars": "Input: will, 2, Output: will, 4\nInput: yes, 2, Output: yes, 4\nInput: full, 2, Output: full, 4\nInput: did, 2, Output: did, 4\nInput: you, 3, Output: you, 6\nInput: pick, 2, Output: pick, 4\nInput: were, 2, Output: were, 4\nInput: to, 2, Output: to, 4\nInput: use, 2, Output: use, 4\nInput: got, 2, Output: got, 4\n",
+            "target_question": "Input: see, 1, Output:",
+            "target_answer": "see, 2",
+            "foil_answer": "see, 3",
+            "exemplar_index_for_diff": 4
+        },
+        {
+            "exemplars": "Input: start, 4, Output: start, 8\nInput: where, 4, Output: where, 8\nInput: right, 4, Output: right, 8\nInput: today, 2, Output: today, 4\nInput: but, 4, Output: but, 8\nInput: fall, 4, Output: fall, 8\nInput: new, 4, Output: new, 8\nInput: fly, 4, Output: fly, 8\nInput: hurt, 4, Output: hurt, 8\nInput: this, 4, Output: this, 8\n",
+            "target_question": "Input: call, 1, Output:",
+            "target_answer": "call, 2",
+            "foil_answer": "call, 5",
+            "exemplar_index_for_diff": 3
+        },
+        {
+            "exemplars": "Input: full, 2, Output: full, 4\nInput: use, 2, Output: use, 4\nInput: them, 2, Output: them, 4\nInput: for, 2, Output: for, 4\nInput: to, 2, Output: to, 4\nInput: today, 1, Output: today, 2\nInput: on, 2, Output: on, 4\nInput: this, 2, Output: this, 4\nInput: their, 2, Output: their, 4\nInput: got, 2, Output: got, 4\n",
+            "target_question": "Input: get, 3, Output:",
+            "target_answer": "get, 6",
+            "foil_answer": "get, 5",
+            "exemplar_index_for_diff": 5
+        },
+        {
+            "exemplars": "Input: try, 2, Output: try, 4\nInput: start, 2, Output: start, 4\nInput: kind, 2, Output: kind, 4\nInput: under, 2, Output: under, 4\nInput: which, 2, Output: which, 4\nInput: carry, 2, Output: carry, 4\nInput: first, 2, Output: first, 4\nInput: today, 2, Output: today, 4\nInput: fast, 3, Output: fast, 6\nInput: ten, 2, Output: ten, 4\n",
+            "target_question": "Input: say, 1, Output:",
+            "target_answer": "say, 2",
+            "foil_answer": "say, 3",
+            "exemplar_index_for_diff": 8
+        },
+        {
+            "exemplars": "Input: take, 2, Output: take, 4\nInput: fast, 2, Output: fast, 4\nInput: that, 2, Output: that, 4\nInput: did, 2, Output: did, 4\nInput: ran, 2, Output: ran, 4\nInput: must, 2, Output: must, 4\nInput: white, 4, Output: white, 8\nInput: will, 2, Output: will, 4\nInput: away, 2, Output: away, 4\nInput: on, 2, Output: on, 4\n",
+            "target_question": "Input: pull, 3, Output:",
+            "target_answer": "pull, 6",
+            "foil_answer": "pull, 5",
+            "exemplar_index_for_diff": 6
+        },
+        {
+            "exemplars": "Input: well, 3, Output: well, 6\nInput: tell, 3, Output: tell, 6\nInput: in, 3, Output: in, 6\nInput: those, 3, Output: those, 6\nInput: small, 3, Output: small, 6\nInput: myself, 3, Output: myself, 6\nInput: must, 2, Output: must, 4\nInput: pull, 3, Output: pull, 6\nInput: jump, 3, Output: jump, 6\nInput: and, 3, Output: and, 6\n",
+            "target_question": "Input: come, 1, Output:",
+            "target_answer": "come, 2",
+            "foil_answer": "come, 4",
+            "exemplar_index_for_diff": 6
+        },
+        {
+            "exemplars": "Input: work, 3, Output: work, 6\nInput: ten, 3, Output: ten, 6\nInput: much, 3, Output: much, 6\nInput: saw, 3, Output: saw, 6\nInput: eight, 3, Output: eight, 6\nInput: fly, 3, Output: fly, 6\nInput: where, 3, Output: where, 6\nInput: green, 3, Output: green, 6\nInput: and, 3, Output: and, 6\nInput: put, 1, Output: put, 2\n",
+            "target_question": "Input: him, 2, Output:",
+            "target_answer": "him, 4",
+            "foil_answer": "him, 5",
+            "exemplar_index_for_diff": 9
+        },
+        {
+            "exemplars": "Input: are, 1, Output: are, 2\nInput: it, 3, Output: it, 6\nInput: see, 3, Output: see, 6\nInput: one, 3, Output: one, 6\nInput: too, 3, Output: too, 6\nInput: this, 3, Output: this, 6\nInput: did, 3, Output: did, 6\nInput: by, 3, Output: by, 6\nInput: like, 3, Output: like, 6\nInput: away, 3, Output: away, 6\n",
+            "target_question": "Input: ten, 2, Output:",
+            "target_answer": "ten, 4",
+            "foil_answer": "ten, 5",
+            "exemplar_index_for_diff": 0
+        },
+        {
+            "exemplars": "Input: pull, 3, Output: pull, 6\nInput: take, 3, Output: take, 6\nInput: and, 3, Output: and, 6\nInput: never, 3, Output: never, 6\nInput: use, 3, Output: use, 6\nInput: sit, 3, Output: sit, 6\nInput: not, 2, Output: not, 4\nInput: start, 3, Output: start, 6\nInput: yes, 3, Output: yes, 6\nInput: small, 3, Output: small, 6\n",
+            "target_question": "Input: would, 1, Output:",
+            "target_answer": "would, 2",
+            "foil_answer": "would, 4",
+            "exemplar_index_for_diff": 6
+        },
+        {
+            "exemplars": "Input: here, 3, Output: here, 6\nInput: they, 4, Output: they, 8\nInput: see, 3, Output: see, 6\nInput: sit, 3, Output: sit, 6\nInput: his, 3, Output: his, 6\nInput: well, 3, Output: well, 6\nInput: round, 3, Output: round, 6\nInput: I, 3, Output: I, 6\nInput: start, 3, Output: start, 6\nInput: four, 3, Output: four, 6\n",
+            "target_question": "Input: would, 2, Output:",
+            "target_answer": "would, 4",
+            "foil_answer": "would, 5",
+            "exemplar_index_for_diff": 1
+        },
+        {
+            "exemplars": "Input: I, 2, Output: I, 4\nInput: had, 2, Output: had, 4\nInput: not, 2, Output: not, 4\nInput: was, 2, Output: was, 4\nInput: for, 2, Output: for, 4\nInput: after, 2, Output: after, 4\nInput: black, 1, Output: black, 2\nInput: in, 2, Output: in, 4\nInput: must, 2, Output: must, 4\nInput: sit, 2, Output: sit, 4\n",
+            "target_question": "Input: carry, 4, Output:",
+            "target_answer": "carry, 8",
+            "foil_answer": "carry, 6",
+            "exemplar_index_for_diff": 6
+        },
+        {
+            "exemplars": "Input: that, 2, Output: that, 4\nInput: was, 2, Output: was, 4\nInput: first, 2, Output: first, 4\nInput: take, 2, Output: take, 4\nInput: their, 3, Output: their, 6\nInput: will, 2, Output: will, 4\nInput: give, 2, Output: give, 4\nInput: fast, 2, Output: fast, 4\nInput: at, 2, Output: at, 4\nInput: were, 2, Output: were, 4\n",
+            "target_question": "Input: here, 4, Output:",
+            "target_answer": "here, 8",
+            "foil_answer": "here, 6",
+            "exemplar_index_for_diff": 4
+        },
+        {
+            "exemplars": "Input: new, 1, Output: new, 2\nInput: it, 1, Output: it, 2\nInput: you, 1, Output: you, 2\nInput: at, 1, Output: at, 2\nInput: she, 1, Output: she, 2\nInput: must, 2, Output: must, 4\nInput: on, 1, Output: on, 2\nInput: see, 1, Output: see, 2\nInput: they, 1, Output: they, 2\nInput: cut, 1, Output: cut, 2\n",
+            "target_question": "Input: myself, 4, Output:",
+            "target_answer": "myself, 8",
+            "foil_answer": "myself, 5",
+            "exemplar_index_for_diff": 5
+        },
+        {
+            "exemplars": "Input: but, 3, Output: but, 6\nInput: use, 1, Output: use, 2\nInput: pretty, 1, Output: pretty, 2\nInput: done, 1, Output: done, 2\nInput: after, 1, Output: after, 2\nInput: fall, 1, Output: fall, 2\nInput: first, 1, Output: first, 2\nInput: a, 1, Output: a, 2\nInput: call, 1, Output: call, 2\nInput: under, 1, Output: under, 2\n",
+            "target_question": "Input: new, 4, Output:",
+            "target_answer": "new, 8",
+            "foil_answer": "new, 5",
+            "exemplar_index_for_diff": 0
+        },
+        {
+            "exemplars": "Input: myself, 2, Output: myself, 4\nInput: see, 2, Output: see, 4\nInput: they, 1, Output: they, 2\nInput: eight, 2, Output: eight, 4\nInput: take, 2, Output: take, 4\nInput: white, 2, Output: white, 4\nInput: sit, 2, Output: sit, 4\nInput: but, 2, Output: but, 4\nInput: my, 2, Output: my, 4\nInput: for, 2, Output: for, 4\n",
+            "target_question": "Input: fly, 4, Output:",
+            "target_answer": "fly, 8",
+            "foil_answer": "fly, 6",
+            "exemplar_index_for_diff": 2
+        },
+        {
+            "exemplars": "Input: come, 2, Output: come, 4\nInput: fast, 2, Output: fast, 4\nInput: him, 2, Output: him, 4\nInput: will, 2, Output: will, 4\nInput: old, 2, Output: old, 4\nInput: are, 2, Output: are, 4\nInput: here, 2, Output: here, 4\nInput: today, 2, Output: today, 4\nInput: never, 3, Output: never, 6\nInput: a, 2, Output: a, 4\n",
+            "target_question": "Input: new, 1, Output:",
+            "target_answer": "new, 2",
+            "foil_answer": "new, 3",
+            "exemplar_index_for_diff": 8
+        },
+        {
+            "exemplars": "Input: this, 2, Output: this, 4\nInput: green, 2, Output: green, 4\nInput: it, 2, Output: it, 4\nInput: try, 2, Output: try, 4\nInput: say, 2, Output: say, 4\nInput: after, 2, Output: after, 4\nInput: eight, 2, Output: eight, 4\nInput: saw, 2, Output: saw, 4\nInput: you, 3, Output: you, 6\nInput: got, 2, Output: got, 4\n",
+            "target_question": "Input: give, 1, Output:",
+            "target_answer": "give, 2",
+            "foil_answer": "give, 3",
+            "exemplar_index_for_diff": 8
+        },
+        {
+            "exemplars": "Input: small, 1, Output: small, 2\nInput: jump, 1, Output: jump, 2\nInput: call, 1, Output: call, 2\nInput: think, 1, Output: think, 2\nInput: start, 1, Output: start, 2\nInput: the, 2, Output: the, 4\nInput: every, 1, Output: every, 2\nInput: had, 1, Output: had, 2\nInput: but, 1, Output: but, 2\nInput: hurt, 1, Output: hurt, 2\n",
+            "target_question": "Input: which, 3, Output:",
+            "target_answer": "which, 6",
+            "foil_answer": "which, 4",
+            "exemplar_index_for_diff": 5
+        },
+        {
+            "exemplars": "Input: come, 1, Output: come, 2\nInput: pretty, 1, Output: pretty, 2\nInput: on, 1, Output: on, 2\nInput: think, 1, Output: think, 2\nInput: hurt, 1, Output: hurt, 2\nInput: so, 2, Output: so, 4\nInput: eight, 1, Output: eight, 2\nInput: full, 1, Output: full, 2\nInput: them, 1, Output: them, 2\nInput: kind, 1, Output: kind, 2\n",
+            "target_question": "Input: he, 4, Output:",
+            "target_answer": "he, 8",
+            "foil_answer": "he, 5",
+            "exemplar_index_for_diff": 5
+        },
+        {
+            "exemplars": "Input: at, 4, Output: at, 8\nInput: this, 4, Output: this, 8\nInput: saw, 4, Output: saw, 8\nInput: old, 4, Output: old, 8\nInput: that, 2, Output: that, 4\nInput: which, 4, Output: which, 8\nInput: pull, 4, Output: pull, 8\nInput: today, 4, Output: today, 8\nInput: think, 4, Output: think, 8\nInput: after, 4, Output: after, 8\n",
+            "target_question": "Input: the, 3, Output:",
+            "target_answer": "the, 6",
+            "foil_answer": "the, 7",
+            "exemplar_index_for_diff": 4
+        },
+        {
+            "exemplars": "Input: must, 2, Output: must, 4\nInput: kind, 2, Output: kind, 4\nInput: you, 2, Output: you, 4\nInput: cut, 2, Output: cut, 4\nInput: does, 2, Output: does, 4\nInput: done, 2, Output: done, 4\nInput: in, 1, Output: in, 2\nInput: and, 2, Output: and, 4\nInput: get, 2, Output: get, 4\nInput: which, 2, Output: which, 4\n",
+            "target_question": "Input: light, 4, Output:",
+            "target_answer": "light, 8",
+            "foil_answer": "light, 6",
+            "exemplar_index_for_diff": 6
+        },
+        {
+            "exemplars": "Input: for, 1, Output: for, 2\nInput: must, 1, Output: must, 2\nInput: will, 1, Output: will, 2\nInput: saw, 1, Output: saw, 2\nInput: read, 1, Output: read, 2\nInput: was, 1, Output: was, 2\nInput: get, 1, Output: get, 2\nInput: now, 1, Output: now, 2\nInput: and, 3, Output: and, 6\nInput: full, 1, Output: full, 2\n",
+            "target_question": "Input: put, 2, Output:",
+            "target_answer": "put, 4",
+            "foil_answer": "put, 3",
+            "exemplar_index_for_diff": 8
+        },
+        {
+            "exemplars": "Input: did, 4, Output: did, 8\nInput: done, 4, Output: done, 8\nInput: so, 4, Output: so, 8\nInput: of, 4, Output: of, 8\nInput: at, 4, Output: at, 8\nInput: it, 4, Output: it, 8\nInput: what, 4, Output: what, 8\nInput: and, 3, Output: and, 6\nInput: every, 4, Output: every, 8\nInput: me, 4, Output: me, 8\n",
+            "target_question": "Input: fall, 2, Output:",
+            "target_answer": "fall, 4",
+            "foil_answer": "fall, 6",
+            "exemplar_index_for_diff": 7
+        },
+        {
+            "exemplars": "Input: those, 1, Output: those, 2\nInput: this, 2, Output: this, 4\nInput: full, 2, Output: full, 4\nInput: tell, 2, Output: tell, 4\nInput: of, 2, Output: of, 4\nInput: so, 2, Output: so, 4\nInput: ran, 2, Output: ran, 4\nInput: that, 2, Output: that, 4\nInput: eight, 2, Output: eight, 4\nInput: got, 2, Output: got, 4\n",
+            "target_question": "Input: get, 4, Output:",
+            "target_answer": "get, 8",
+            "foil_answer": "get, 6",
+            "exemplar_index_for_diff": 0
+        },
+        {
+            "exemplars": "Input: light, 3, Output: light, 6\nInput: he, 1, Output: he, 2\nInput: fly, 1, Output: fly, 2\nInput: here, 1, Output: here, 2\nInput: went, 1, Output: went, 2\nInput: would, 1, Output: would, 2\nInput: after, 1, Output: after, 2\nInput: those, 1, Output: those, 2\nInput: my, 1, Output: my, 2\nInput: kind, 1, Output: kind, 2\n",
+            "target_question": "Input: by, 4, Output:",
+            "target_answer": "by, 8",
+            "foil_answer": "by, 5",
+            "exemplar_index_for_diff": 0
+        },
+        {
+            "exemplars": "Input: pick, 2, Output: pick, 4\nInput: right, 2, Output: right, 4\nInput: sit, 2, Output: sit, 4\nInput: his, 2, Output: his, 4\nInput: cut, 2, Output: cut, 4\nInput: now, 2, Output: now, 4\nInput: every, 2, Output: every, 4\nInput: saw, 1, Output: saw, 2\nInput: where, 2, Output: where, 4\nInput: are, 2, Output: are, 4\n",
+            "target_question": "Input: try, 4, Output:",
+            "target_answer": "try, 8",
+            "foil_answer": "try, 6",
+            "exemplar_index_for_diff": 7
+        },
+        {
+            "exemplars": "Input: think, 2, Output: think, 4\nInput: new, 2, Output: new, 4\nInput: today, 2, Output: today, 4\nInput: I, 2, Output: I, 4\nInput: at, 2, Output: at, 4\nInput: the, 2, Output: the, 4\nInput: first, 2, Output: first, 4\nInput: ran, 4, Output: ran, 8\nInput: said, 2, Output: said, 4\nInput: away, 2, Output: away, 4\n",
+            "target_question": "Input: both, 3, Output:",
+            "target_answer": "both, 6",
+            "foil_answer": "both, 5",
+            "exemplar_index_for_diff": 7
+        },
+        {
+            "exemplars": "Input: will, 2, Output: will, 4\nInput: black, 2, Output: black, 4\nInput: it, 2, Output: it, 4\nInput: here, 2, Output: here, 4\nInput: put, 2, Output: put, 4\nInput: said, 2, Output: said, 4\nInput: sit, 1, Output: sit, 2\nInput: at, 2, Output: at, 4\nInput: are, 2, Output: are, 4\nInput: that, 2, Output: that, 4\n",
+            "target_question": "Input: come, 4, Output:",
+            "target_answer": "come, 8",
+            "foil_answer": "come, 6",
+            "exemplar_index_for_diff": 6
+        },
+        {
+            "exemplars": "Input: kind, 1, Output: kind, 2\nInput: had, 3, Output: had, 6\nInput: at, 3, Output: at, 6\nInput: so, 3, Output: so, 6\nInput: tell, 3, Output: tell, 6\nInput: use, 3, Output: use, 6\nInput: of, 3, Output: of, 6\nInput: after, 3, Output: after, 6\nInput: him, 3, Output: him, 6\nInput: like, 3, Output: like, 6\n",
+            "target_question": "Input: went, 2, Output:",
+            "target_answer": "went, 4",
+            "foil_answer": "went, 5",
+            "exemplar_index_for_diff": 0
+        },
+        {
+            "exemplars": "Input: him, 2, Output: him, 4\nInput: done, 2, Output: done, 4\nInput: went, 2, Output: went, 4\nInput: under, 2, Output: under, 4\nInput: every, 3, Output: every, 6\nInput: me, 2, Output: me, 4\nInput: them, 2, Output: them, 4\nInput: say, 2, Output: say, 4\nInput: she, 2, Output: she, 4\nInput: cold, 2, Output: cold, 4\n",
+            "target_question": "Input: away, 1, Output:",
+            "target_answer": "away, 2",
+            "foil_answer": "away, 3",
+            "exemplar_index_for_diff": 4
+        },
+        {
+            "exemplars": "Input: both, 1, Output: both, 2\nInput: him, 3, Output: him, 6\nInput: kind, 3, Output: kind, 6\nInput: would, 3, Output: would, 6\nInput: must, 3, Output: must, 6\nInput: the, 3, Output: the, 6\nInput: by, 3, Output: by, 6\nInput: saw, 3, Output: saw, 6\nInput: think, 3, Output: think, 6\nInput: his, 3, Output: his, 6\n",
+            "target_question": "Input: so, 2, Output:",
+            "target_answer": "so, 4",
+            "foil_answer": "so, 5",
+            "exemplar_index_for_diff": 0
+        },
+        {
+            "exemplars": "Input: light, 4, Output: light, 8\nInput: if, 4, Output: if, 8\nInput: for, 4, Output: for, 8\nInput: give, 4, Output: give, 8\nInput: those, 2, Output: those, 4\nInput: kind, 4, Output: kind, 8\nInput: new, 4, Output: new, 8\nInput: of, 4, Output: of, 8\nInput: seven, 4, Output: seven, 8\nInput: pretty, 4, Output: pretty, 8\n",
+            "target_question": "Input: must, 3, Output:",
+            "target_answer": "must, 6",
+            "foil_answer": "must, 7",
+            "exemplar_index_for_diff": 4
+        },
+        {
+            "exemplars": "Input: tell, 2, Output: tell, 4\nInput: would, 2, Output: would, 4\nInput: call, 2, Output: call, 4\nInput: the, 2, Output: the, 4\nInput: you, 2, Output: you, 4\nInput: fly, 2, Output: fly, 4\nInput: went, 4, Output: went, 8\nInput: hurt, 2, Output: hurt, 4\nInput: where, 2, Output: where, 4\nInput: say, 2, Output: say, 4\n",
+            "target_question": "Input: eight, 3, Output:",
+            "target_answer": "eight, 6",
+            "foil_answer": "eight, 5",
+            "exemplar_index_for_diff": 6
+        },
+        {
+            "exemplars": "Input: right, 1, Output: right, 2\nInput: after, 1, Output: after, 2\nInput: like, 1, Output: like, 2\nInput: light, 1, Output: light, 2\nInput: myself, 1, Output: myself, 2\nInput: done, 1, Output: done, 2\nInput: said, 1, Output: said, 2\nInput: but, 1, Output: but, 2\nInput: did, 3, Output: did, 6\nInput: and, 1, Output: and, 2\n",
+            "target_question": "Input: new, 2, Output:",
+            "target_answer": "new, 4",
+            "foil_answer": "new, 3",
+            "exemplar_index_for_diff": 8
+        },
+        {
+            "exemplars": "Input: carry, 2, Output: carry, 4\nInput: fast, 3, Output: fast, 6\nInput: fly, 3, Output: fly, 6\nInput: if, 3, Output: if, 6\nInput: but, 3, Output: but, 6\nInput: fall, 3, Output: fall, 6\nInput: jump, 3, Output: jump, 6\nInput: now, 3, Output: now, 6\nInput: round, 3, Output: round, 6\nInput: them, 3, Output: them, 6\n",
+            "target_question": "Input: you, 4, Output:",
+            "target_answer": "you, 8",
+            "foil_answer": "you, 7",
+            "exemplar_index_for_diff": 0
+        },
+        {
+            "exemplars": "Input: the, 3, Output: the, 6\nInput: in, 3, Output: in, 6\nInput: but, 3, Output: but, 6\nInput: of, 3, Output: of, 6\nInput: put, 3, Output: put, 6\nInput: well, 3, Output: well, 6\nInput: would, 3, Output: would, 6\nInput: at, 3, Output: at, 6\nInput: must, 2, Output: must, 4\nInput: one, 3, Output: one, 6\n",
+            "target_question": "Input: new, 1, Output:",
+            "target_answer": "new, 2",
+            "foil_answer": "new, 4",
+            "exemplar_index_for_diff": 8
+        },
+        {
+            "exemplars": "Input: much, 3, Output: much, 6\nInput: cut, 4, Output: cut, 8\nInput: to, 3, Output: to, 6\nInput: like, 3, Output: like, 6\nInput: away, 3, Output: away, 6\nInput: pick, 3, Output: pick, 6\nInput: kind, 3, Output: kind, 6\nInput: a, 3, Output: a, 6\nInput: eight, 3, Output: eight, 6\nInput: which, 3, Output: which, 6\n",
+            "target_question": "Input: black, 1, Output:",
+            "target_answer": "black, 2",
+            "foil_answer": "black, 4",
+            "exemplar_index_for_diff": 1
+        },
+        {
+            "exemplars": "Input: that, 3, Output: that, 6\nInput: old, 3, Output: old, 6\nInput: myself, 3, Output: myself, 6\nInput: put, 3, Output: put, 6\nInput: cold, 3, Output: cold, 6\nInput: never, 3, Output: never, 6\nInput: see, 3, Output: see, 6\nInput: for, 3, Output: for, 6\nInput: I, 3, Output: I, 6\nInput: today, 2, Output: today, 4\n",
+            "target_question": "Input: seven, 4, Output:",
+            "target_answer": "seven, 8",
+            "foil_answer": "seven, 7",
+            "exemplar_index_for_diff": 9
+        },
+        {
+            "exemplars": "Input: that, 2, Output: that, 4\nInput: fall, 2, Output: fall, 4\nInput: so, 4, Output: so, 8\nInput: the, 2, Output: the, 4\nInput: right, 2, Output: right, 4\nInput: was, 2, Output: was, 4\nInput: full, 2, Output: full, 4\nInput: work, 2, Output: work, 4\nInput: come, 2, Output: come, 4\nInput: myself, 2, Output: myself, 4\n",
+            "target_question": "Input: to, 3, Output:",
+            "target_answer": "to, 6",
+            "foil_answer": "to, 5",
+            "exemplar_index_for_diff": 2
+        },
+        {
+            "exemplars": "Input: pull, 3, Output: pull, 6\nInput: fast, 3, Output: fast, 6\nInput: like, 3, Output: like, 6\nInput: small, 3, Output: small, 6\nInput: pick, 3, Output: pick, 6\nInput: every, 3, Output: every, 6\nInput: but, 3, Output: but, 6\nInput: keep, 3, Output: keep, 6\nInput: yes, 3, Output: yes, 6\nInput: cut, 2, Output: cut, 4\n",
+            "target_question": "Input: cold, 4, Output:",
+            "target_answer": "cold, 8",
+            "foil_answer": "cold, 7",
+            "exemplar_index_for_diff": 9
+        },
+        {
+            "exemplars": "Input: which, 3, Output: which, 6\nInput: green, 4, Output: green, 8\nInput: four, 3, Output: four, 6\nInput: put, 3, Output: put, 6\nInput: to, 3, Output: to, 6\nInput: were, 3, Output: were, 6\nInput: at, 3, Output: at, 6\nInput: try, 3, Output: try, 6\nInput: not, 3, Output: not, 6\nInput: of, 3, Output: of, 6\n",
+            "target_question": "Input: pick, 1, Output:",
+            "target_answer": "pick, 2",
+            "foil_answer": "pick, 4",
+            "exemplar_index_for_diff": 1
+        },
+        {
+            "exemplars": "Input: that, 3, Output: that, 6\nInput: of, 1, Output: of, 2\nInput: his, 1, Output: his, 2\nInput: were, 1, Output: were, 2\nInput: fast, 1, Output: fast, 2\nInput: them, 1, Output: them, 2\nInput: on, 1, Output: on, 2\nInput: sit, 1, Output: sit, 2\nInput: start, 1, Output: start, 2\nInput: saw, 1, Output: saw, 2\n",
+            "target_question": "Input: my, 4, Output:",
+            "target_answer": "my, 8",
+            "foil_answer": "my, 5",
+            "exemplar_index_for_diff": 0
+        },
+        {
+            "exemplars": "Input: the, 3, Output: the, 6\nInput: today, 4, Output: today, 8\nInput: their, 3, Output: their, 6\nInput: after, 3, Output: after, 6\nInput: that, 3, Output: that, 6\nInput: work, 3, Output: work, 6\nInput: must, 3, Output: must, 6\nInput: read, 3, Output: read, 6\nInput: went, 3, Output: went, 6\nInput: had, 3, Output: had, 6\n",
+            "target_question": "Input: old, 1, Output:",
+            "target_answer": "old, 2",
+            "foil_answer": "old, 4",
+            "exemplar_index_for_diff": 1
+        },
+        {
+            "exemplars": "Input: ran, 1, Output: ran, 2\nInput: put, 1, Output: put, 2\nInput: right, 1, Output: right, 2\nInput: them, 1, Output: them, 2\nInput: eight, 1, Output: eight, 2\nInput: jump, 1, Output: jump, 2\nInput: use, 2, Output: use, 4\nInput: in, 1, Output: in, 2\nInput: four, 1, Output: four, 2\nInput: which, 1, Output: which, 2\n",
+            "target_question": "Input: see, 4, Output:",
+            "target_answer": "see, 8",
+            "foil_answer": "see, 5",
+            "exemplar_index_for_diff": 6
+        },
+        {
+            "exemplars": "Input: they, 1, Output: they, 2\nInput: ten, 1, Output: ten, 2\nInput: what, 1, Output: what, 2\nInput: to, 1, Output: to, 2\nInput: keep, 2, Output: keep, 4\nInput: was, 1, Output: was, 2\nInput: ran, 1, Output: ran, 2\nInput: not, 1, Output: not, 2\nInput: white, 1, Output: white, 2\nInput: get, 1, Output: get, 2\n",
+            "target_question": "Input: too, 3, Output:",
+            "target_answer": "too, 6",
+            "foil_answer": "too, 4",
+            "exemplar_index_for_diff": 4
+        },
+        {
+            "exemplars": "Input: to, 2, Output: to, 4\nInput: in, 3, Output: in, 6\nInput: ran, 3, Output: ran, 6\nInput: too, 3, Output: too, 6\nInput: kind, 3, Output: kind, 6\nInput: my, 3, Output: my, 6\nInput: myself, 3, Output: myself, 6\nInput: cold, 3, Output: cold, 6\nInput: keep, 3, Output: keep, 6\nInput: come, 3, Output: come, 6\n",
+            "target_question": "Input: four, 4, Output:",
+            "target_answer": "four, 8",
+            "foil_answer": "four, 7",
+            "exemplar_index_for_diff": 0
+        },
+        {
+            "exemplars": "Input: in, 1, Output: in, 2\nInput: tell, 3, Output: tell, 6\nInput: small, 3, Output: small, 6\nInput: those, 3, Output: those, 6\nInput: use, 3, Output: use, 6\nInput: which, 3, Output: which, 6\nInput: not, 3, Output: not, 6\nInput: of, 3, Output: of, 6\nInput: well, 3, Output: well, 6\nInput: said, 3, Output: said, 6\n",
+            "target_question": "Input: full, 2, Output:",
+            "target_answer": "full, 4",
+            "foil_answer": "full, 5",
+            "exemplar_index_for_diff": 0
+        },
+        {
+            "exemplars": "Input: old, 2, Output: old, 4\nInput: take, 2, Output: take, 4\nInput: sit, 2, Output: sit, 4\nInput: but, 3, Output: but, 6\nInput: after, 2, Output: after, 4\nInput: were, 2, Output: were, 4\nInput: of, 2, Output: of, 4\nInput: had, 2, Output: had, 4\nInput: his, 2, Output: his, 4\nInput: keep, 2, Output: keep, 4\n",
+            "target_question": "Input: said, 4, Output:",
+            "target_answer": "said, 8",
+            "foil_answer": "said, 6",
+            "exemplar_index_for_diff": 3
+        },
+        {
+            "exemplars": "Input: use, 1, Output: use, 2\nInput: went, 1, Output: went, 2\nInput: every, 1, Output: every, 2\nInput: had, 1, Output: had, 2\nInput: away, 2, Output: away, 4\nInput: cut, 1, Output: cut, 2\nInput: said, 1, Output: said, 2\nInput: pretty, 1, Output: pretty, 2\nInput: four, 1, Output: four, 2\nInput: saw, 1, Output: saw, 2\n",
+            "target_question": "Input: he, 3, Output:",
+            "target_answer": "he, 6",
+            "foil_answer": "he, 4",
+            "exemplar_index_for_diff": 4
+        },
+        {
+            "exemplars": "Input: a, 3, Output: a, 6\nInput: now, 3, Output: now, 6\nInput: will, 3, Output: will, 6\nInput: fall, 1, Output: fall, 2\nInput: after, 3, Output: after, 6\nInput: pretty, 3, Output: pretty, 6\nInput: for, 3, Output: for, 6\nInput: call, 3, Output: call, 6\nInput: away, 3, Output: away, 6\nInput: full, 3, Output: full, 6\n",
+            "target_question": "Input: said, 2, Output:",
+            "target_answer": "said, 4",
+            "foil_answer": "said, 5",
+            "exemplar_index_for_diff": 3
+        },
+        {
+            "exemplars": "Input: would, 2, Output: would, 4\nInput: say, 2, Output: say, 4\nInput: black, 1, Output: black, 2\nInput: call, 2, Output: call, 4\nInput: tell, 2, Output: tell, 4\nInput: away, 2, Output: away, 4\nInput: will, 2, Output: will, 4\nInput: green, 2, Output: green, 4\nInput: take, 2, Output: take, 4\nInput: fall, 2, Output: fall, 4\n",
+            "target_question": "Input: at, 4, Output:",
+            "target_answer": "at, 8",
+            "foil_answer": "at, 6",
+            "exemplar_index_for_diff": 2
+        },
+        {
+            "exemplars": "Input: fly, 2, Output: fly, 4\nInput: to, 2, Output: to, 4\nInput: jump, 1, Output: jump, 2\nInput: say, 2, Output: say, 4\nInput: kind, 2, Output: kind, 4\nInput: for, 2, Output: for, 4\nInput: take, 2, Output: take, 4\nInput: their, 2, Output: their, 4\nInput: hurt, 2, Output: hurt, 4\nInput: myself, 2, Output: myself, 4\n",
+            "target_question": "Input: said, 4, Output:",
+            "target_answer": "said, 8",
+            "foil_answer": "said, 6",
+            "exemplar_index_for_diff": 2
+        },
+        {
+            "exemplars": "Input: where, 3, Output: where, 6\nInput: kind, 3, Output: kind, 6\nInput: ran, 3, Output: ran, 6\nInput: start, 3, Output: start, 6\nInput: seven, 3, Output: seven, 6\nInput: old, 3, Output: old, 6\nInput: sit, 3, Output: sit, 6\nInput: if, 3, Output: if, 6\nInput: small, 2, Output: small, 4\nInput: new, 3, Output: new, 6\n",
+            "target_question": "Input: round, 1, Output:",
+            "target_answer": "round, 2",
+            "foil_answer": "round, 4",
+            "exemplar_index_for_diff": 8
+        },
+        {
+            "exemplars": "Input: the, 2, Output: the, 4\nInput: hurt, 2, Output: hurt, 4\nInput: say, 2, Output: say, 4\nInput: ran, 2, Output: ran, 4\nInput: put, 2, Output: put, 4\nInput: if, 2, Output: if, 4\nInput: under, 2, Output: under, 4\nInput: said, 1, Output: said, 2\nInput: jump, 2, Output: jump, 4\nInput: that, 2, Output: that, 4\n",
+            "target_question": "Input: come, 4, Output:",
+            "target_answer": "come, 8",
+            "foil_answer": "come, 6",
+            "exemplar_index_for_diff": 7
+        },
+        {
+            "exemplars": "Input: done, 1, Output: done, 2\nInput: what, 1, Output: what, 2\nInput: went, 1, Output: went, 2\nInput: this, 1, Output: this, 2\nInput: must, 1, Output: must, 2\nInput: I, 1, Output: I, 2\nInput: the, 2, Output: the, 4\nInput: like, 1, Output: like, 2\nInput: jump, 1, Output: jump, 2\nInput: old, 1, Output: old, 2\n",
+            "target_question": "Input: carry, 4, Output:",
+            "target_answer": "carry, 8",
+            "foil_answer": "carry, 5",
+            "exemplar_index_for_diff": 6
+        },
+        {
+            "exemplars": "Input: not, 2, Output: not, 4\nInput: light, 2, Output: light, 4\nInput: keep, 2, Output: keep, 4\nInput: away, 2, Output: away, 4\nInput: get, 3, Output: get, 6\nInput: ran, 2, Output: ran, 4\nInput: under, 2, Output: under, 4\nInput: carry, 2, Output: carry, 4\nInput: where, 2, Output: where, 4\nInput: say, 2, Output: say, 4\n",
+            "target_question": "Input: she, 4, Output:",
+            "target_answer": "she, 8",
+            "foil_answer": "she, 6",
+            "exemplar_index_for_diff": 4
+        },
+        {
+            "exemplars": "Input: must, 2, Output: must, 4\nInput: fly, 2, Output: fly, 4\nInput: ran, 2, Output: ran, 4\nInput: tell, 2, Output: tell, 4\nInput: get, 2, Output: get, 4\nInput: which, 4, Output: which, 8\nInput: say, 2, Output: say, 4\nInput: after, 2, Output: after, 4\nInput: had, 2, Output: had, 4\nInput: what, 2, Output: what, 4\n",
+            "target_question": "Input: their, 3, Output:",
+            "target_answer": "their, 6",
+            "foil_answer": "their, 5",
+            "exemplar_index_for_diff": 5
+        },
+        {
+            "exemplars": "Input: right, 2, Output: right, 4\nInput: not, 3, Output: not, 6\nInput: black, 3, Output: black, 6\nInput: now, 3, Output: now, 6\nInput: this, 3, Output: this, 6\nInput: ran, 3, Output: ran, 6\nInput: which, 3, Output: which, 6\nInput: give, 3, Output: give, 6\nInput: come, 3, Output: come, 6\nInput: and, 3, Output: and, 6\n",
+            "target_question": "Input: if, 4, Output:",
+            "target_answer": "if, 8",
+            "foil_answer": "if, 7",
+            "exemplar_index_for_diff": 0
+        },
+        {
+            "exemplars": "Input: which, 2, Output: which, 4\nInput: new, 2, Output: new, 4\nInput: their, 2, Output: their, 4\nInput: work, 2, Output: work, 4\nInput: both, 3, Output: both, 6\nInput: cold, 2, Output: cold, 4\nInput: for, 2, Output: for, 4\nInput: try, 2, Output: try, 4\nInput: think, 2, Output: think, 4\nInput: well, 2, Output: well, 4\n",
+            "target_question": "Input: old, 1, Output:",
+            "target_answer": "old, 2",
+            "foil_answer": "old, 3",
+            "exemplar_index_for_diff": 4
+        },
+        {
+            "exemplars": "Input: but, 2, Output: but, 4\nInput: jump, 2, Output: jump, 4\nInput: fly, 2, Output: fly, 4\nInput: big, 2, Output: big, 4\nInput: too, 2, Output: too, 4\nInput: that, 2, Output: that, 4\nInput: of, 4, Output: of, 8\nInput: kind, 2, Output: kind, 4\nInput: him, 2, Output: him, 4\nInput: white, 2, Output: white, 4\n",
+            "target_question": "Input: what, 3, Output:",
+            "target_answer": "what, 6",
+            "foil_answer": "what, 5",
+            "exemplar_index_for_diff": 6
+        },
+        {
+            "exemplars": "Input: would, 2, Output: would, 4\nInput: you, 2, Output: you, 4\nInput: and, 2, Output: and, 4\nInput: myself, 2, Output: myself, 4\nInput: right, 3, Output: right, 6\nInput: after, 2, Output: after, 4\nInput: to, 2, Output: to, 4\nInput: him, 2, Output: him, 4\nInput: not, 2, Output: not, 4\nInput: my, 2, Output: my, 4\n",
+            "target_question": "Input: put, 1, Output:",
+            "target_answer": "put, 2",
+            "foil_answer": "put, 3",
+            "exemplar_index_for_diff": 4
+        },
+        {
+            "exemplars": "Input: see, 3, Output: see, 6\nInput: ran, 3, Output: ran, 6\nInput: you, 3, Output: you, 6\nInput: start, 3, Output: start, 6\nInput: this, 3, Output: this, 6\nInput: yes, 3, Output: yes, 6\nInput: under, 3, Output: under, 6\nInput: she, 3, Output: she, 6\nInput: read, 3, Output: read, 6\nInput: pull, 4, Output: pull, 8\n",
+            "target_question": "Input: in, 2, Output:",
+            "target_answer": "in, 4",
+            "foil_answer": "in, 5",
+            "exemplar_index_for_diff": 9
+        },
+        {
+            "exemplars": "Input: this, 3, Output: this, 6\nInput: light, 3, Output: light, 6\nInput: take, 3, Output: take, 6\nInput: right, 3, Output: right, 6\nInput: saw, 3, Output: saw, 6\nInput: like, 3, Output: like, 6\nInput: ten, 3, Output: ten, 6\nInput: big, 3, Output: big, 6\nInput: old, 3, Output: old, 6\nInput: those, 4, Output: those, 8\n",
+            "target_question": "Input: full, 2, Output:",
+            "target_answer": "full, 4",
+            "foil_answer": "full, 5",
+            "exemplar_index_for_diff": 9
+        },
+        {
+            "exemplars": "Input: white, 4, Output: white, 8\nInput: got, 4, Output: got, 8\nInput: kind, 4, Output: kind, 8\nInput: of, 4, Output: of, 8\nInput: myself, 4, Output: myself, 8\nInput: my, 4, Output: my, 8\nInput: light, 4, Output: light, 8\nInput: for, 3, Output: for, 6\nInput: which, 4, Output: which, 8\nInput: small, 4, Output: small, 8\n",
+            "target_question": "Input: try, 2, Output:",
+            "target_answer": "try, 4",
+            "foil_answer": "try, 6",
+            "exemplar_index_for_diff": 7
+        },
+        {
+            "exemplars": "Input: round, 2, Output: round, 4\nInput: seven, 2, Output: seven, 4\nInput: put, 2, Output: put, 4\nInput: that, 2, Output: that, 4\nInput: big, 2, Output: big, 4\nInput: first, 4, Output: first, 8\nInput: today, 2, Output: today, 4\nInput: a, 2, Output: a, 4\nInput: small, 2, Output: small, 4\nInput: new, 2, Output: new, 4\n",
+            "target_question": "Input: away, 3, Output:",
+            "target_answer": "away, 6",
+            "foil_answer": "away, 5",
+            "exemplar_index_for_diff": 5
+        },
+        {
+            "exemplars": "Input: where, 4, Output: where, 8\nInput: away, 4, Output: away, 8\nInput: done, 4, Output: done, 8\nInput: new, 2, Output: new, 4\nInput: had, 4, Output: had, 8\nInput: them, 4, Output: them, 8\nInput: full, 4, Output: full, 8\nInput: too, 4, Output: too, 8\nInput: eight, 4, Output: eight, 8\nInput: cut, 4, Output: cut, 8\n",
+            "target_question": "Input: by, 1, Output:",
+            "target_answer": "by, 2",
+            "foil_answer": "by, 5",
+            "exemplar_index_for_diff": 3
+        },
+        {
+            "exemplars": "Input: first, 1, Output: first, 2\nInput: away, 1, Output: away, 2\nInput: does, 1, Output: does, 2\nInput: today, 1, Output: today, 2\nInput: carry, 1, Output: carry, 2\nInput: did, 1, Output: did, 2\nInput: come, 1, Output: come, 2\nInput: and, 1, Output: and, 2\nInput: pretty, 3, Output: pretty, 6\nInput: round, 1, Output: round, 2\n",
+            "target_question": "Input: you, 2, Output:",
+            "target_answer": "you, 4",
+            "foil_answer": "you, 3",
+            "exemplar_index_for_diff": 8
+        },
+        {
+            "exemplars": "Input: must, 3, Output: must, 6\nInput: kind, 3, Output: kind, 6\nInput: on, 3, Output: on, 6\nInput: get, 3, Output: get, 6\nInput: small, 3, Output: small, 6\nInput: too, 3, Output: too, 6\nInput: fast, 3, Output: fast, 6\nInput: but, 3, Output: but, 6\nInput: this, 3, Output: this, 6\nInput: cut, 2, Output: cut, 4\n",
+            "target_question": "Input: jump, 4, Output:",
+            "target_answer": "jump, 8",
+            "foil_answer": "jump, 7",
+            "exemplar_index_for_diff": 9
+        },
+        {
+            "exemplars": "Input: both, 3, Output: both, 6\nInput: full, 4, Output: full, 8\nInput: they, 3, Output: they, 6\nInput: seven, 3, Output: seven, 6\nInput: cut, 3, Output: cut, 6\nInput: jump, 3, Output: jump, 6\nInput: hurt, 3, Output: hurt, 6\nInput: try, 3, Output: try, 6\nInput: them, 3, Output: them, 6\nInput: big, 3, Output: big, 6\n",
+            "target_question": "Input: not, 1, Output:",
+            "target_answer": "not, 2",
+            "foil_answer": "not, 4",
+            "exemplar_index_for_diff": 1
+        },
+        {
+            "exemplars": "Input: both, 4, Output: both, 8\nInput: put, 4, Output: put, 8\nInput: eight, 4, Output: eight, 8\nInput: well, 4, Output: well, 8\nInput: hurt, 4, Output: hurt, 8\nInput: old, 4, Output: old, 8\nInput: was, 4, Output: was, 8\nInput: I, 4, Output: I, 8\nInput: me, 2, Output: me, 4\nInput: get, 4, Output: get, 8\n",
+            "target_question": "Input: never, 3, Output:",
+            "target_answer": "never, 6",
+            "foil_answer": "never, 7",
+            "exemplar_index_for_diff": 8
+        },
+        {
+            "exemplars": "Input: take, 4, Output: take, 8\nInput: where, 4, Output: where, 8\nInput: carry, 4, Output: carry, 8\nInput: ten, 2, Output: ten, 4\nInput: keep, 4, Output: keep, 8\nInput: tell, 4, Output: tell, 8\nInput: start, 4, Output: start, 8\nInput: get, 4, Output: get, 8\nInput: which, 4, Output: which, 8\nInput: pull, 4, Output: pull, 8\n",
+            "target_question": "Input: work, 1, Output:",
+            "target_answer": "work, 2",
+            "foil_answer": "work, 5",
+            "exemplar_index_for_diff": 3
+        },
+        {
+            "exemplars": "Input: think, 2, Output: think, 4\nInput: the, 2, Output: the, 4\nInput: yes, 2, Output: yes, 4\nInput: fly, 2, Output: fly, 4\nInput: their, 2, Output: their, 4\nInput: pick, 2, Output: pick, 4\nInput: went, 2, Output: went, 4\nInput: did, 4, Output: did, 8\nInput: come, 2, Output: come, 4\nInput: four, 2, Output: four, 4\n",
+            "target_question": "Input: them, 3, Output:",
+            "target_answer": "them, 6",
+            "foil_answer": "them, 5",
+            "exemplar_index_for_diff": 7
+        },
+        {
+            "exemplars": "Input: cold, 4, Output: cold, 8\nInput: cut, 4, Output: cut, 8\nInput: call, 4, Output: call, 8\nInput: their, 4, Output: their, 8\nInput: never, 4, Output: never, 8\nInput: big, 4, Output: big, 8\nInput: old, 4, Output: old, 8\nInput: seven, 1, Output: seven, 2\nInput: had, 4, Output: had, 8\nInput: his, 4, Output: his, 8\n",
+            "target_question": "Input: small, 2, Output:",
+            "target_answer": "small, 4",
+            "foil_answer": "small, 6",
+            "exemplar_index_for_diff": 7
+        },
+        {
+            "exemplars": "Input: at, 3, Output: at, 6\nInput: pull, 4, Output: pull, 8\nInput: me, 3, Output: me, 6\nInput: cold, 3, Output: cold, 6\nInput: pretty, 3, Output: pretty, 6\nInput: kind, 3, Output: kind, 6\nInput: small, 3, Output: small, 6\nInput: and, 3, Output: and, 6\nInput: that, 3, Output: that, 6\nInput: fast, 3, Output: fast, 6\n",
+            "target_question": "Input: well, 1, Output:",
+            "target_answer": "well, 2",
+            "foil_answer": "well, 4",
+            "exemplar_index_for_diff": 1
+        }
+    ]
+}
