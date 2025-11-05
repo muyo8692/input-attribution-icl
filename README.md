@@ -1,8 +1,9 @@
 # [Input Attribution for In-Context Learning (Findings of ACL 2025)](https://aclanthology.org/2025.findings-acl.1092/)
 
-By [Mengyu Ye](https://muyo8692.com), [Tatsuki Kuribayashi](https://kuribayashi4.github.io/), 
+By [Mengyu Ye](https://muyo8692.com), [Tatsuki Kuribayashi](https://kuribayashi4.github.io/),
 [Goro Kobayashi](https://sites.google.com/view/goro-kobayashi/), and [Jun Suzuki](https://www.fai.cds.tohoku.ac.jp/members/js/)
 
+[![arXiv](https://img.shields.io/badge/arXiv-2412.15628-red.svg)](https://arxiv.org/abs/2412.15628)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
@@ -65,4 +66,3 @@ The key arguments for the CLI are:
     url = "https://aclanthology.org/2025.findings-acl.1092/",
 }
 ```
-
